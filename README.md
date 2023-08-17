@@ -82,7 +82,7 @@ chinoises de Fohy. (1703).
 <br><b>Reconstruction</b>
 <br>Noah Snavely, Steven M. Seitz, Richard Szeliski. Photo Tourism: Exploring Photo Collections in 3D. (ACM 2006)
 
-<br<b>SLAM</b>
+<br><b>SLAM</b>
 <br>Davison et al. MonoSLAM: Real-Time Single Camera SLAM (TPAMI 2007)
 
 <br><b>Deformable Part Model</b>
@@ -105,7 +105,7 @@ chinoises de Fohy. (1703).
 <br>Matthew D. Zeiler and Rob Fergus. Visualizing and Understanding Convolutional Networks (ECCV 2014)
 
 <br><b>VAE</b>
-Diederik P Kingma, Max Welling. Auto-Encoding Variational Bayes. (2013)
+<br>Diederik P Kingma, Max Welling. Auto-Encoding Variational Bayes. (2013)
 
 <br><b>R-CNN</b>
 <br>Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik. Rich feature hierarchies for accurate object detection and semantic segmentation. (2013)
@@ -137,7 +137,7 @@ Diederik P Kingma, Max Welling. Auto-Encoding Variational Bayes. (2013)
 <br><b>Seq2Seq</b>
 <br>I. Sutskever et al. Sequence to sequence learning with neural networks. (2014)
 
-<br>ResNet</b>
+<br><b>ResNet</b>
 <br>Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun. Deep Residual Learning for Image Recognition. (2015)
 
 <br><b>Batch Normalization</b>
