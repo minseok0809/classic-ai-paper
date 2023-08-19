@@ -22,7 +22,7 @@ chinoises de Fohy. (1703).
 <br><b>Backpropagation</b>
 <br>H. J. Kelley. Gradient Theory of Optimal Flight Paths. ARS Journal, Vol. 30, No. 10, pp. 947-954. (1960)
 
-<br>Neuroscience</b>
+<br><b>Neuroscience</b>
 <br>David Hubel, Torsten Wiesel. Receptive fields of single neurons in the cat’s striate cortex (1959) Lawrence Roberts. Machine perception of three-dimensional solids (1963)
 <br>David Mar. Vision: A computational investigation into the human representation and processing of visual information(1982)
 
