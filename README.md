@@ -72,6 +72,9 @@ chinoises de Fohy. (1703).
 <br><b>LSTM</b>
 <br>S. Hochreiter and J. Schmidhuber. Long Short-Term Memory. (1995)
 
+<br><b>EQP(Equation Prover)</b>
+<br>William Mccune. Deep Blue. (1997)
+
 <br><b>Deap Blue</b>
 <br>M Campbell. Deep Blue. (2002)
 
@@ -84,6 +87,9 @@ chinoises de Fohy. (1703).
 
 <br><b>SLAM</b>
 <br>Davison et al. MonoSLAM: Real-Time Single Camera SLAM (TPAMI 2007)
+
+<br><b>The Four- Color Theorem</b>
+<br>Georges Gonthier. Formal Proof—The Four- Color Theorem (2008)
 
 <br><b>Deformable Part Model</b>
 <br>Felzenszwalb, David McAllester, Deva Ramanan. A discriminatively trained, multiscale, deformable part model. (2008)
