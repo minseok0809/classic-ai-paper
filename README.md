@@ -173,6 +173,9 @@ chinoises de Fohy. (1703).
 <br><b>NeRF</b>
 <br>Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis. (2020)
 
+<br><b>Stable Diffusion</b>
+<br>Rombach et al. High-Resolution Image Synthesis with Latent Diffusion Models. (2021)
+
 <br><b>AlphaFold</b>
 <br>Richard Evans et al. Protein complex prediction with AlphaFold-Multimer. (2021)
 
