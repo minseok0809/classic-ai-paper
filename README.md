@@ -10,24 +10,24 @@ chinoises de Fohy. (1703).
 <br><b>Von Neumann Architecture</b>
 <br>J Von Neumann. First Draft of a Report on EDVAC. (1945)
 
-<br><b>Automata</b>
-<br>J Von Neumann, AW Burks. Theory of self-reproducing automata. (1966)
-
-<br><b>Shallow Learning(Least Squares)</b>
-<br>Stephen M. Stigler. Gauss and the Invention of Least Squares. (1981) 
-
 <br><b>Turing Machine</b>
 <br>A. M. Turing. Intelligent Machinery. Unpublished Technical Report. (1948) 
 
 <br><b>Backpropagation</b>
 <br>H. J. Kelley. Gradient Theory of Optimal Flight Paths. ARS Journal, Vol. 30, No. 10, pp. 947-954. (1960)
 
+<br><b>Automata</b>
+<br>J Von Neumann, AW Burks. Theory of self-reproducing automata. (1966)
+
+<br><b>Shallow Learning(Least Squares)</b>
+<br>Stephen M. Stigler. Gauss and the Invention of Least Squares. (1981) 
+
 <br><b>Neuroscience</b>
 <br>David Hubel, Torsten Wiesel. Receptive fields of single neurons in the cat’s striate cortex (1959) Lawrence Roberts. Machine perception of three-dimensional solids (1963)
 <br>David Mar. Vision: A computational investigation into the human representation and processing of visual information(1982)
 
 <br><b>Hidden Markov Models</b>
-<br>Rabiner, L. A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition.(Proceedings of the IEEE 1989)
+<br>Rabiner, L. A. Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition.(Proceedings of the IEEE 1989)
 
 <br><b>Object Recognition</b>
 <br>David Lowe. Object Recognition from Local Scale-Invariant Features. (1992) 
@@ -41,14 +41,17 @@ chinoises de Fohy. (1703).
 <br><b>Statistical Machine Learning</b>
 <br>Vladimir Vapnik. The Nature of Statistical Learning Theory. (1995)
 
+<br><b>MNIST
+<br>LeCun et al. Gradient-based learning applied to document recognition (IEEE 1998)
+
 <br><b>MEMM</b>
-<br>McCallum et al., 2000, Maximum Entropy Markov Models for Information Extraction and Segmentation (ICML'00)
+<br>McCallum et al. Maximum Entropy Markov Models for Information Extraction and Segmentation (ICML 2000)
 
 <br><b>CRFs</b>
-<br>J. Lafferty et al. Conditional Random Fields: Probabilistic Models for Segmenting and Labeling SequenceData. (ICML'01)
+<br>J. Lafferty et al. Conditional Random Fields: Probabilistic Models for Segmenting and Labeling SequenceData. (ICML2001)
 
 <br><b>Perceptron</b>
-<br>M Collins. Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms (EMNLP'02)
+<br>M Collins. Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms (EMNLP 2002)
 
 <br><b>MNIST</b>
 <br>LeCun et al. Gradient-based learning applied to document recognition (IEEE 1998)
@@ -78,6 +81,12 @@ chinoises de Fohy. (1703).
 <br><b>Deap Blue</b>
 <br>M Campbell. Deep Blue. (2002)
 
+<br><b>CoNLL-2003
+<br>Sang et al. Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition (NAACL 2003)
+
+<br><b>DRIVE (Digital Retinal Images for Vessel Extraction)
+<br>Joes Staal et al. Ridge-based vessel segmentation in color images of the retina (IEEE 2004)
+
 <br><b>Feature</b>
 <br>David G. Lowe. Distinctive Image Features from Scale-Invariant Keypoints (IJCV 2004)
 <br>Navneet Dalal, Bill Triggs. Histograms of Oriented Gradients for Human Detection (CVPR 2005)
@@ -91,17 +100,54 @@ chinoises de Fohy. (1703).
 <br><b>The Four- Color Theorem</b>
 <br>Georges Gonthier. Formal Proof—The Four- Color Theorem (2008)
 
+<br><b>IEMOCAP (The Interactive Emotional Dyadic Motion Capture (IEMOCAP) Database)
+<br>Carlos Busso et al. IEMOCAP: interactive emotional dyadic motion capture database (2008)
+
 <br><b>Deformable Part Model</b>
 <br>Felzenszwalb, David McAllester, Deva Ramanan. A discriminatively trained, multiscale, deformable part model. (2008)
+
+<br><b>Pubmed
+<br>Prithviraj Sen et al. Collective Classification in Network Data (AAAI 2008)
 
 <br><b>ImageNet</b>
 <br>Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, Li Fei-Fei. ImageNet: A Large-Scale Hierarchical Image Database. (CVPR 2009)
 
 <br><b>PASCAL VOC</b>
-<br>Mark Everingham et al. The PASCAL Visual Object Classes (VOC) Challenge, IJCV 2010
+<br>Mark Everingham et al. The PASCAL Visual Object Classes (VOC) Challenge (IJCV 2010)
 
 <br><b>Graphical Models</b>
 <br>Sebastian Nowozin and Christoph H. Lampert. Structured Learning and Prediction in Computer Vision (2011)
+
+<br><b>CUB-200-2011 (Caltech-UCSD Birds-200-2011)
+<br>Wah et al. The Caltech-UCSD Birds-200-2011 Dataset (2011)
+
+<br><b>HMDB51
+<br>Hildegard Kuehne et al. HMDB: A large video database for human motion recognition (IEEE 2011)
+
+<br><b>SVHN (Street View House Numbers)
+<br>Netzer et al. Reading digits in natural images with unsupervised feature learning (2011)
+
+<br><b>Sicikit learn
+<br>Fabian Pedregosa et al. Scikit-learn: Machine Learning in Python (2011)
+<br>Lars Buitinck et al. API design for machine learning software: experiences from the scikit-learn project  (2013)
+
+<br><b>CIFAR
+<br>Alex Krizhevsky et al. Learning Multiple Layers of Features from Tiny Images (2012)
+
+<br><b>NYUv2 (NYU-Depth V2)
+<br>Nathan Silberman et al. Indoor Segmentation and Support Inference from RGBD Images (LNIP 2012)
+
+<br><b>KITTI-360
+<br>KITTI-360: A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D (PAMI 2012)
+
+<br><b>UCF101 (UCF101 Human Actions dataset)
+<br>Soomro et al. UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild (2012)
+
+<br><b>KITTI 
+<br>Andreas Geiger et al. Are we ready for autonomous driving? The KITTI vision benchmark suite (IEEE 2012)
+
+<br><b>LIDC-IDRI
+<br>Armato et al. The lung image database consortium (LIDC) and image database resource initiative (IDRI): a completed reference database of lung nodules on CT scans (2011)
 
 <br><b>Random Search</b>
 <br>J. Bergstra and Y. Bengio. Random search for hyper-parameter optimization. (2012) 
@@ -112,6 +158,12 @@ chinoises de Fohy. (1703).
 
 <br><b>VAE</b>
 <br>Diederik P Kingma, Max Welling. Auto-Encoding Variational Bayes. (2013)
+
+<br><b>SST (Stanford Sentiment Treebank)
+<br>Socher et al. Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank (EMNLP 2013)
+
+<br><b>Human3.6M
+<br>Ionescu et al. Human3.6m: Large scale datasets and predictive methods for 3D human sensing in natural environments (IEEE 2013)
 
 <br><b>R-CNN</b>
 <br>Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik. Rich feature hierarchies for accurate object detection and semantic segmentation. (2013)
@@ -124,6 +176,15 @@ chinoises de Fohy. (1703).
 
 <br><b>Adam</b>
 <br>D. Kingma and J. Ba. Adam: A method for stochastic optimization. (2014) 
+
+<br><b>COCO (Microsoft Common Objects in Context)
+<br>Tsung-Yi Lin et al. Microsoft COCO: Common Objects in Context (ECCV 2014)
+
+<br><b>Caffe
+<br>Yangqing Jia et al. Caffe: Convolutional Architecture for Fast Feature Embedding (ACM 2014)
+
+<br><b>PASCAL3D+
+<br>Yu Xiang et al. Beyond PASCAL: A benchmark for 3D object detection in the wild (IEEE 2014)
 
 <br><b>DeCAF</b>
 <br>Boris van Breugel, Trent Kyono, Jeroen Berrevoets, Mihaela van der Schaar. DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition (ICML 2014)
@@ -152,8 +213,86 @@ chinoises de Fohy. (1703).
 <br><b>YOLO</b>
 <br>Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi. You Only Look Once: Unified, Real-Time Object Detection. (2015)
 
+<br><b>SUN RGB-D
+<br>Song et al. SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite (IEEE 2015)
+
+<br><b>MovieLens
+<br>F. Maxwell Harper et al. The MovieLens Datasets: History and Context (ACL 2015)
+
+<br><b>ModelNet
+Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
+
+<br><b>LibriSpeech
+<br>Vassil Panayotov et al. Librispeech: An ASR corpus based on public domain audio books (IEEE 2015)
+
+<br><b>SNLI (Stanford Natural Language Inference)
+<br>Bowman et al. A large annotated corpus for learning natural language inference (EMNLP 2015)
+
+<br><b>Visual Question Answering (VQA)
+<br>Agrawal et al. VQA: Visual Question Answering (ICCV 2015)
+
+<br><b>ShapeNet
+<br>Chang et al. ShapeNet: An Information-Rich 3D Model Repository (2015)
+
+<br><b>Model Compression</b>
+<br>O. Vinyals, J. A. Dean, G. E. Hinton. Distilling the Knowledge in a Neural Network. (2015)
+
+<br><b>CelebA (CelebFaces Attributes Dataset)
+<br>Liu et al. Deep Learning Face Attributes in the Wild (IEEE 2015)
+
+<br><b>ActivityNet
+<br>Heilbron et al. ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding (IEEE 2015)
+
 <br><b>TensorFlow</b>
 <br>M. Abadi et al. TensorFlow: Large-scale machine learning on heterogeneous distributed systems. (2016)
+
+<br><b>DAVIS (Densely Annotated VIdeo Segmentation)
+<br>Perazzi et al. A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation (IEEE 2016)
+
+<br><b>S3DIS (Stanford 3D Indoor Scene Dataset (S3DIS))
+<br>Armeni et al. 3D Semantic Parsing of Large-Scale Indoor Spaces (IEEE 2016)
+
+<br><b>Universal Dependencies
+<br>Nivre et al. Universal Dependencies v1: A Multilingual Treebank Collection (LREC 2016)
+
+<br><b>CheXpert
+<br>Irvin et al. CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison (AAAI 2016)
+
+<br><b>VCTK (CSTR VCTK Corpus)
+<br>Veaux et al. CSTR VCTK corpus: English multi-speaker corpus for CSTR voice cloning toolkit (2016)
+
+<br><b>MIMIC-III (The Medical Information Mart for Intensive Care III)
+<br>Johnson et al. MIMIC-III, a freely accessible critical care database (2016)
+
+<br><b>SQuAD (Stanford Question Answering Dataset)
+<br>Rajpurkar et al. SQuAD: 100,000+ Questions for Machine Comprehension of Text (EMNLP 2016)
+
+<br><b>Cityscapes 
+<br>Cordts et al. The Cityscapes Dataset for Semantic Urban Scene Understanding  (CVPR 2016)
+
+<br><b>MS MARCO (Microsoft Machine Reading Comprehension Dataset)
+<br>Bajaj et al. MS MARCO: A Human Generated MAchine Reading COmprehension Dataset (EMNLP 2016)
+
+<br><b>Tensorflow
+<br>Martín Abad et al. TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems (2016)
+
+<br><b>VoxCeleb1
+<br>Nagrani et al. VoxCeleb: a large-scale speaker identification datasett (Interspeech 2017)
+
+<br><b>Kinetics (Kinetics Human Action Video Dataset)
+<br>Kay et al. The Kinetics Human Action Video Dataset (2017)
+
+<br><b>ScanNet
+<br>Dai et al. ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes (CVPR 2017)
+
+<br><b>AudioSet
+<br>Jort F. Gemmeke et al. Audio Set: An ontology and human-labeled dataset for audio events (2017)
+
+<br><b>Fashion-MNIST
+<br>Xiao et al. Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms (2017)
+
+<br><b>Visual Genome
+<br>Krishna et al. Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations (2017)
 
 <br><b>MCTS</b>
 <br>Silver, D., Schrittwieser, J., Simonyan, K., Antonoglou, I., Huang, A., Guez, A., ... & Chen, Y. Mastering the game of Go without human knowledge. (2017)
@@ -164,20 +303,62 @@ chinoises de Fohy. (1703).
 <br><b>BERT</b>
 <br>J. Devlin, M. W. Chang, K. Lee, K. Toutanova. Bert: Pre-training of deep bidirectional transformers for language understanding.  (2018)
 
-<br><b>Model Compression</b>
-<br>O. Vinyals, J. A. Dean, G. E. Hinton. Distilling the Knowledge in a Neural Network. (2015)
+<br><b>VoxCeleb2
+<br>Chung et al. VoxCeleb2: Deep Speaker Recognition (ISCA 2018)
+
+<br><b>GLUE
+<br>Wang et al. GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding (EMNLP 2018)
+
+<br><b>fastMRI
+<br>Zbontar et al. fastMRI: An Open Dataset and Benchmarks for Accelerated MRI (2018)
+
+<br><b>Speech Commands
+<br>Pete Warden et al. Warden in Speech Commands: A Dataset for Limited-Vocabulary Speech Recognition (2018)
+
+<br><b>MultiNLI (Multi-Genre Natural Language Inference)
+<br>Williams et al. A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference (NAACL 2018)
 
 <br><b>GPT</b>
 <br>Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever. Improving Language Understanding by Generative Pre-Training.  (2018)
 
+<br><b>Natural Questions
+<br>Kwiatkowski et al. Natural Questions: a Benchmark for Question Answering Research (TACL 2019)
+
+<br><b>CoLA (Corpus of Linguistic Acceptability)
+<br>Warstadt et al. Neural Network Acceptability Judgments (TACL 2019)
+
+<br><b>SuperGLUE
+<br>Wang et al. SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems (NeurIPS 2019)
+
+<br><b>Hugging face
+<br>Thomas Wolf et al. HuggingFace's Transformers: State-of-the-art Natural Language Processingt (EMNLP 2019)
+
+<br><b>GPU
+<br>Jeff Johnson et al. Billion-scale similarity search with GPUs (IEEE 2019)
+
 <br><b>NeRF</b>
 <br>Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis. (2020)
+
+<br><b>OGB (Open Graph Benchmark)
+<br>Hu et al. Open Graph Benchmark: Datasets for Machine Learning on Graphs (NIPS 2020)
+
+<br><b>nuScenes
+<br>Caesar et al. nuScenes: A multimodal dataset for autonomous driving (CVPR 2020)
+
+<br><b>CORD-19
+<br>Wang et al. CORD-19: The COVID-19 Open Research Dataset (ACL 2020)
 
 <br><b>Stable Diffusion</b>
 <br>Rombach et al. High-Resolution Image Synthesis with Latent Diffusion Models. (2021)
 
 <br><b>AlphaFold</b>
 <br>Richard Evans et al. Protein complex prediction with AlphaFold-Multimer. (2021)
+
+<br><b>IMDb Movie Reviews
+<br>Andrew L. Maas et al. Learning Word Vectors for Sentiment Analysis (ACL 2021)
+
+<br><b>Pytorch
+<br>Adam Paszk et al. PyTorch: An Imperative Style, High-Performance Deep Learning Library (NeurIPS 2021)
 
 <br><b>LLAMA</b>
 <br>Touvron et al. LLaMA: Open and Efficient Foundation Language Models. (2023)
