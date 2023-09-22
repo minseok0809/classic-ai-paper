@@ -198,9 +198,6 @@ chinoises de Fohy. (1703).
 <br><b>GAN</b>
 <br>I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, Y. Bengio. Generative adversarial nets. (2014)
 
-<br><b>COCO</b>
-<br>Tsung-Yi Lin et al. Microsoft COCO: Common Objects in Context. (2014)
-
 <br><b>FCN</b>
 <br>Jonathan Long, Evan Shelhamer, Trevor Darrell. Fully Convolutional Networks for Semantic Segmentation. (2014)
 
