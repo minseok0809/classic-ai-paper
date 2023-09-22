@@ -399,6 +399,6 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 <br>[Award-winning classic papers in ML and NLP (Desh Raj)](https://desh2608.github.io/2018-08-30-classic-papers/)
 <br>[Computer Vision: 10 Papers to Start (Chenxi Liu)](https://www.cs.jhu.edu/~cxliu/2015/computer-vision-10-papers-to-start.html)
 <br>[Awesome - Most Cited Deep Learning Papers (Terryum)](https://github.com/terryum/awesome-deep-learning-papers)
-<br>[Awesome - Most Cited Deep Learning Papers (Terryum)](https://github.com/terryum/awesome-deep-learning-papers)
+<br>[Papers With Code Machine Learning Datasets](https://paperswithcode.com/datasets)
 
 <br><br><br>
