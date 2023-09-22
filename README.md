@@ -388,7 +388,7 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 <br>Adam Paszk et al. PyTorch: An Imperative Style, High-Performance Deep Learning Library (NeurIPS 2021)
 
 <br><b>LLAMA</b>
-<br>Touvron et al. LLaMA: Open and Efficient Foundation Language Models. (2023)
+<br>Touvron et al. LLaMA: Open and Efficient Foundation Language Models (2023)
 
 <br><br><br>
 
