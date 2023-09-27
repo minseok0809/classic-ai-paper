@@ -134,6 +134,10 @@ chinoises de Fohy. (1703).
 <br>Fabian Pedregosa et al. Scikit-learn: Machine Learning in Python (2011)
 <br>Lars Buitinck et al. API design for machine learning software: experiences from the scikit-learn project  (2013)
 
+<br><b>Numpy</b>
+<br>Stefan Van Der Walt et al. The NumPy array: a structure for efficient numerical computation (2011)
+<br>Charles R. Harris et al. Array Programming with NumPy (2020)
+
 <br><b>IMuJoCo</b>
 <br>Emanuel Todorov et al. MuJoCo: A physics engine for model-based control (IEEE/RSJ IROS 2012)
 
@@ -238,6 +242,7 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 <br>Chang et al. ShapeNet: An Information-Rich 3D Model Repository (2015)
 
 <br><b>Model Compression</b>
+<br>Cristian Bucil˘a et al. Model Compression (ACM SIGKDD 2006)
 <br>O. Vinyals, J. A. Dean, G. E. Hinton. Distilling the Knowledge in a Neural Network. (2015)
 
 <br><b>CelebA (CelebFaces Attributes Dataset)</b>
@@ -288,8 +293,21 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 <br><b>IOpenAI Gym</b>
 <br>Brockman et al. OpenAI Gym (2016)
 
+<br><b>Continual Learning</b>
+<br>James Kirkpatrick et al. Overcoming catastrophic forgetting in neural networks (2016)
+
+<br><b>Random Erasing</b>
+<br>Sachin Ravi et al. Optimization as a Model For Few-Shot Learning (2016)
+<br>Zhun Zhong et al. Random Erasing Data Augmentation (2017)
+
 <br><b>IPlaces</b>
 <br>Zhou et al. Places: A 10 Million Image Database for Scene Recognition (IEEE 2017)
+
+<br><b>Meta Learning</b>
+Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (ICML 2017)
+
+<br><b>Opennmt</b>
+<br>Guillaume Klein et al. OpenNMT: Open-Source Toolkit for Neural Machine Translation  (ACL 2017)
 
 <br><b>ICARLA (Car Learning to Act)</b>
 <br>Dosovitskiy et al.  CARLA: An Open Urban Driving Simulator (2017)
@@ -339,6 +357,21 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 <br><b>GPT</b>
 <br>Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever. Improving Language Understanding by Generative Pre-Training.  (2018)
 
+<br><b>Albumentations</b>
+<br>Alexander Buslaev et al. Albumentations: fast and flexible image augmentations (2018)
+
+<br><b>Specaugment</b>
+<br>Daniel S. Park et al.  Specaugment: A simple data augmentation method for automatic speech recognition  (Interspeech 2019)
+
+<br><b>EDA</b>
+<br>Jason Wei et al. EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks (EMNLP-IJCNLP 2019)
+
+<br><b>AutoAugment</b>
+<br>Ekin D. Cubuk et al. AutoAugment: Learning Augmentation Policies from Data (CVPR 2019)
+
+<br><b>Scipy</b>
+<br>Pauli Virtanen et al. SciPy 1.0--Fundamental Algorithms for Scientific Computing in Python (2019)
+
 <br><b>Natural Questions</b>
 <br>Kwiatkowski et al. Natural Questions: a Benchmark for Question Answering Research (TACL 2019)
 
@@ -356,6 +389,18 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 
 <br><b>IFFHQ (Flickr-Faces-HQ)</b>
 <br>Karras et al. A Style-Based Generator Architecture for Generative Adversarial Networks (CVPR 2019)
+
+
+<br><b>wav2vec</b>
+<br>S. Schneider et al. wav2vec: Unsupervised pre-training for speech recognition. (Interspeech 2019)
+<br>Alexei Baevski et al. wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations Neural Turing Machines (NeurlIPS 2020)
+
+<br><b>SimCLR</b>
+<br>Chen Ting et al. Simple Framework for Contrastive Learning of Visual Representations (PMLR 2020)
+<br>Chen Ting et al. Big self-supervised models are strong semi-supervised learners. (2020)
+
+<br><b>UDA(Unsupervised Data Augmentation)</b>
+<br>Qizhe Xie et al. Unsupervised Data Augmentation for Consistency Training (NeurIPS 2020)
 
 <br><b>NeRF</b>
 <br>Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis. (2020)
