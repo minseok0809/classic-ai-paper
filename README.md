@@ -305,7 +305,7 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 <br><b>Tensorflow</b>
 <br>Martín Abad et al. TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems (2016)
 
-<br><b>IOpenAI Gym</b>
+<br><b>OpenAI Gym</b>
 <br>Brockman et al. OpenAI Gym (2016)
 
 <br><b>Continual Learning</b>
