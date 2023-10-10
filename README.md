@@ -29,8 +29,17 @@ chinoises de Fohy. (1703).
 <br>David Hubel, Torsten Wiesel. Receptive fields of single neurons in the cat’s striate cortex (1959) Lawrence Roberts. Machine perception of three-dimensional solids (1963)
 <br>David Mar. Vision: A computational investigation into the human representation and processing of visual information(1982)
 
+<br><b>Boltzmann Machines</b>
+<br>Geoffrey E. Hinton et al.  A Learning Algorithm for Boltzmann Machines (1985)
+
+<br><b>Distributed representations.</b>
+<br>Geoffrey E. Hinton et al.  Distributed representations (1986) 
+
 <br><b>Hidden Markov Models</b>
 <br>Rabiner, L. A. Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition.(Proceedings of the IEEE 1989)
+
+<br><b>Dyslexi</b>
+<br>Geoffrey E. Hinton et al.  Lesioning an attractor network: Investigations of acquired dyslexi (1991) 
 
 <br><b>Object Recognition</b>
 <br>David Lowe. Object Recognition from Local Scale-Invariant Features. (1992) 
@@ -40,6 +49,9 @@ chinoises de Fohy. (1703).
 
 <br><b>Maximum Entropy</b>
 <br>Adwait R. A Maximum Entropy Model for POS tagging. (1994)
+
+<br><b>Complementary priors</b>
+<br>Geoffrey E. Hinton et al. A fast learning algorithm for deep belief nets (1994)
 
 <br><b>SVM</b>
 <br>Corinna Cortes, Vladimir Vapnik. Support-vector networks. (1995)
@@ -253,6 +265,9 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 
 <br><b>IModelNet</b>
 <br>Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
+
+<br><b>Deep learning</b>
+<br>Yann LeCun, Yoshua Bengio, Geoffrey Hinton. Deep learning (NatureDeepReview 2015)
 
 <br><b>Imini-Imagenet</b>
 <br>Vinyals et al. Matching Networks for One Shot Learning (NeurIPS 2016)
