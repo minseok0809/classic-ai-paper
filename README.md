@@ -232,6 +232,10 @@ chinoises de Fohy. (1703).
 <br><b>YOLO</b>
 <br>Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi. You Only Look Once: Unified, Real-Time Object Detection. (2015)
 
+<br><b>ArcFace</b>
+<br>Jiankang Deng, Jia Guo, Jing Yang, Niannan Xue, Irene Kotsia, and Stefanos Zafeiriou. ArcFace: Additive Angular Margin Loss for Deep
+Face Recognition. (CVPR 2015)
+
 <br><b>SUN RGB-D</b>
 <br>Song et al. SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite (IEEE 2015)
 
