@@ -359,7 +359,10 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br>A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N. Gomez, L. Kaiser, I.Polosukhin. Attention is all you need. (2017)
 
 <br><b>BERT</b>
-<br>J. Devlin, M. W. Chang, K. Lee, K. Toutanova. Bert: Pre-training of deep bidirectional transformers for language understanding.  (2018)
+<br>J. Devlin, M. W. Chang, K. Lee, K. Toutanova. Bert: Pre-training of deep bidirectional transformers for language understanding. (2018)
+
+<br><b>GPT</b>
+<br>Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever. Improving Language Understanding by Generative Pre-Training. (2018)
 
 <br><b>VoxCeleb2</b>
 <br>Chung et al. VoxCeleb2: Deep Speaker Recognition (ISCA 2018)
@@ -376,8 +379,8 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br><b>MultiNLI (Multi-Genre Natural Language Inference)</b>
 <br>Williams et al. A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference (NAACL 2018)
 
-<br><b>GPT</b>
-<br>Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever. Improving Language Understanding by Generative Pre-Training.  (2018)
+<br><b>Low Distortion & Good Perceptual Quality/b>
+<br>Yochai Blau et al. The Perception-Distortion Tradeoff (CVPR 2018)
 
 <br><b>Albumentations</b>
 <br>Alexander Buslaev et al. Albumentations: fast and flexible image augmentations (2018)
@@ -411,7 +414,6 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 
 <br><b>IFFHQ (Flickr-Faces-HQ)</b>
 <br>Karras et al. A Style-Based Generator Architecture for Generative Adversarial Networks (CVPR 2019)
-
 
 <br><b>wav2vec</b>
 <br>S. Schneider et al. wav2vec: Unsupervised pre-training for speech recognition. (Interspeech 2019)
