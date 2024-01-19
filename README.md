@@ -379,7 +379,7 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br><b>MultiNLI (Multi-Genre Natural Language Inference)</b>
 <br>Williams et al. A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference (NAACL 2018)
 
-<br><b>Low Distortion & Good Perceptual Quality/b>
+<br><b>Low Distortion & Good Perceptual Quality</b>
 <br>Yochai Blau et al. The Perception-Distortion Tradeoff (CVPR 2018)
 
 <br><b>Albumentations</b>
