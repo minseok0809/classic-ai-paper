@@ -125,7 +125,7 @@ chinoises de Fohy. (1703).
 <br>Prithviraj Sen et al. Collective Classification in Network Data (AAAI 2008)
 
 <br><b>ImageNet</b>
-<br>Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, Li Fei-Fei. ImageNet: A Large-Scale Hierarchical Image Database. (CVPR 2009)
+<br>Jia Deng et al. ImageNet: A Large-Scale Hierarchical Image Database. (CVPR 2009)
 
 <br><b>PASCAL VOC</b>
 <br>Mark Everingham et al. The PASCAL Visual Object Classes (VOC) Challenge (IJCV 2010)
@@ -318,6 +318,9 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 <br><b>Random Erasing</b>
 <br>Sachin Ravi et al. Optimization as a Model For Few-Shot Learning (2016)
 <br>Zhun Zhong et al. Random Erasing Data Augmentation (2017)
+
+<br><b>Loss Function</b>
+<br>Dong Yu et al. Permutation Invariant Training of Deep Models Forspeaker-independent Multi-talker Speech Separation (IEEE 2017)
 
 <br><b>IPlaces</b>
 <br>Zhou et al. Places: A 10 Million Image Database for Scene Recognition (IEEE 2017)
