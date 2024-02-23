@@ -143,7 +143,7 @@ chinoises de Fohy. (1703).
 <br>Mintz et al. Distant supervision for relation extraction without labeled data (ACL | IJCNLP 2009)
 
 <br><b>ImageNet</b>
-<br>Jia Deng et al. ImageNet: A Large-Scale Hierarchical Image Database. (CVPR 2009)
+<br>Jia Deng et al. ImageNet: A Large-Scale Hierarchical Image Database (CVPR 2009)
 
 <br><b>Domain Adaption</b>
 <br>Shai Ben-David et al. A theory of learning from different domains (Mach Learn 2010)
@@ -428,13 +428,16 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br>Silver, D et al. Mastering the game of Go without human knowledge. (2017)
 
 <br><b>Transformer</b>
-<br>A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N. Gomez, L. Kaiser, I.Polosukhin. Attention is all you need. (2017)
+<br>A. Vaswani et al. Attention is all you need. (2017)
 
 <br><b>BERT</b>
-<br>J. Devlin, M. W. Chang, K. Lee, K. Toutanova. Bert: Pre-training of deep bidirectional transformers for language understanding. (2018)
+<br>J. Devlin et al. Bert: Pre-training of deep bidirectional transformers for language understanding (2018)
 
 <br><b>GPT</b>
-<br>Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever. Improving Language Understanding by Generative Pre-Training. (2018)
+<br>Alec Radford et al. Improving Language Understanding by Generative Pre-Training (2018)
+
+<br><b>GPT-2</b>
+<br>Alec Radford et al. Language Models are Unsupervised Multitask Learners (2018)
 
 <br><b>RoBERTa</b>
 <br>Yinhan Liu et al. RoBERTa: A Robustly Optimized BERT Pretraining Approach (2018)
