@@ -229,6 +229,9 @@ chinoises de Fohy. (1703).
 <br><b>Caffe</b>
 <br>Yangqing Jia et al. Caffe: Convolutional Architecture for Fast Feature Embedding (ACM 2014)
 
+<br><b>GRU(Gated Recurrent Unit)</b>
+<br>Kyunghyun Cho et al. Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation (EMNLP 2014)
+
 <br><b>PASCAL3D+</b>
 <br>Yu Xiang et al. Beyond PASCAL: A benchmark for 3D object detection in the wild (IEEE 2014)
 
