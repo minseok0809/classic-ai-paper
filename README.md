@@ -543,6 +543,9 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br><b>BART</b>
 <br>Mike Lewis et al. BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (ACL 2020)
 
+<br><b>Generative Artificial Intelligence(GAI)</b>
+<br>R Bommasani et al. On the opportunities and risks of foundation models (2021)
+
 <br><b>AI Ethics</b>
 <br>Emily M. Bender et al. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (FAccT 2021)
 
