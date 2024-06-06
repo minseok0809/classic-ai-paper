@@ -32,6 +32,10 @@ chinoises de Fohy. (1703).
 <br><b>K-Nearest Neighbors (K-NN)</b>
 <br>T. M. COVER. Nearest Neighbor Pattern Classification (1967)
 
+<br><b>Emergent Ability</b>
+<br>P. W. Anderson et al. More Is Different (1972)
+<br>Rylan Schaeffer et al. Are Emergent Abilities of Large Language Models a Mirage? (2023)
+
 <br><b>Beam Search</b>
 <br>B. T. Lowerre. The harpy speech recognition system. Carnegie Mellon University. (1976)
 <br>PENG SI OW et al. Filtered beam search in scheduling. (1986)
@@ -534,6 +538,9 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br><b>Session-based Recommendation System</b>
 <br>Self-Attentive Sequential Recommendationr (ICDM 2018)
 
+<br><b>BLAS (Basic Linear Algebra Subprograms)</b>
+<br>C. Nugteren, CLBlast: A tuned OpenCL BLAS library (2018)
+
 <br><b>Low Distortion & Good Perceptual Quality</b>
 <br>Yochai Blau et al. The Perception-Distortion Tradeoff (CVPR 2018)
 
@@ -608,6 +615,9 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br><b>UDA(Unsupervised Data Augmentation)</b>
 <br>Qizhe Xie et al. Unsupervised Data Augmentation for Consistency Training (NeurIPS 2020)
 
+<br><b>MLIR (Multi Level Intermediate Representation)</b>
+<br>C. Lattner et al. MLIR: A compiler infrastructure for the end of Moore’s law (2020)
+
 <br><b>NeRF</b>
 <br>Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis. (2020)
 
@@ -672,8 +682,17 @@ Aditya Ramesh et al. DALL-E: Zero-Shot Text-to-Image Generation (JMLR 2021)
 <br><b>Pytorch</b>
 <br>Adam Paszk et al. PyTorch: An Imperative Style, High-Performance Deep Learning Library (NeurIPS 2021)
 
+<br><b>Stochastic Parrot</b>
+<br>Emily M. Bender et al. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜 (2021)
+
 <br><b>Chain-of-Thought Prompting</b>
 <br>Jason Wei et al. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2022)
+
+<br><b>3D Generator</b>
+<br>Eric R. Chan et al. G3D: Efficient Geometry-aware 3D Generative Adversarial Networks (CVPR 2022)
+
+<br><b>Joint Embedding Predictive Architecture(JEPA)</b>
+<br>Yann LeCun et al. A Path Towards Autonomous Machine Intelligence (2022)
 
 <br><b>GPT-4</b>
 <br>Baolin Peng et al. Instruction Tuning with GPT-4 (EMNLP 2023)
@@ -686,6 +705,9 @@ Aditya Ramesh et al. DALL-E: Zero-Shot Text-to-Image Generation (JMLR 2021)
 
 <br><b>Quantization</b>
 <br>Hongyu Wang et al. BitNet: Scaling 1-bit Transformers for Large Language Models (2023)
+
+<br><b>Semantic Planner</b>
+<br>Ma et al. Eureka: Human-Level Reward Design via Coding Large Language Models (2023)
 
 <br><b>AlphaGeometry</b>
 <br>Trieu H. Trinh et al. Solving olympiad geometry without human demonstrations (2024)
