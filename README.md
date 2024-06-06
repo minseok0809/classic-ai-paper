@@ -665,7 +665,7 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br>David Silver et al. Reward is enough (Artificial Intelligence 2021)
 
 <br><b>Text to Image Generation</b>
-Aditya Ramesh et al. DALL-E: Zero-Shot Text-to-Image Generation (JMLR 2021)
+<br>Aditya Ramesh et al. DALL-E: Zero-Shot Text-to-Image Generation (JMLR 2021)
 
 <br><b>ROUGE</b>
 <br>Chin-Yew Lin et al. ROUGE: A Package for Automatic Evaluation of Summaries (2021)
