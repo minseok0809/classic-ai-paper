@@ -19,11 +19,22 @@ chinoises de Fohy. (1703).
 <br><b>Backpropagation</b>
 <br>H. J. Kelley. Gradient Theory of Optimal Flight Paths. ARS Journal, Vol. 30, No. 10, pp. 947-954. (1960)
 
+<br><b>Decision Tree</b>
+<br>Morgan, J.N. & Sonquist, J.A. Problems in the analysis of survey data, and a proposal. (1963)
+
 <br><b>Iris</b>
 <br>R.A. Fisher' et al.  The Use of Multiple Measurements in Taxonomic Problems (1963)
 
 <br><b>Automata</b>
 <br>J Von Neumann, AW Burks. Theory of self-reproducing automata. (1966)
+<br>Bingbin Liu. Transformers Learn Shortcuts to Automata. (ICLR 2023)
+
+<br><b>K-Nearest Neighbors (K-NN)</b>
+<br>T. M. COVER. Nearest Neighbor Pattern Classification (1967)
+
+<br><b>Beam Search</b>
+<br>B. T. Lowerre. The harpy speech recognition system. Carnegie Mellon University. (1976)
+<br>PENG SI OW et al. Filtered beam search in scheduling. (1986)
 
 <br><b>Outliers Detection</b>
 <br>D. Hawkins. Identification of Outliers (1980)
@@ -35,11 +46,17 @@ chinoises de Fohy. (1703).
 <br>David Hubel, Torsten Wiesel. Receptive fields of single neurons in the cat’s striate cortex (1959) Lawrence Roberts. Machine perception of three-dimensional solids (1963)
 <br>David Mar. Vision: A computational investigation into the human representation and processing of visual information(1982)
 
+<br><b>K-means Clustering</b>
+<br>STUART P. LLOYD. Least square quantization in PCM (1982)
+
 <br><b>Boltzmann Machines</b>
 <br>Geoffrey E. Hinton et al.  A Learning Algorithm for Boltzmann Machines (1985)
 
 <br><b>Distributed representations.</b>
 <br>Geoffrey E. Hinton et al.  Distributed representations (1986) 
+
+<br><b>RecGNN</b>
+<br>David E. Rumelhart et al. Learning representations by back-propagating errors (1986)
 
 <br><b>Hidden Markov Models</b>
 <br>Rabiner, L. A. Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition.(Proceedings of the IEEE 1989)
@@ -47,8 +64,16 @@ chinoises de Fohy. (1703).
 <br><b>Dyslexi</b>
 <br>Geoffrey E. Hinton et al.  Lesioning an attractor network: Investigations of acquired dyslexi (1991) 
 
+<br><b>Mixture of Experts </b>
+<br>Robert A. Jacobs et al. Adaptive Mixtures of Local Experts (MIT Press 1991)
+<br>Noam Shazeer et al. Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer (ICLR 2017)
+<br>Albert Q. Jiang et al. Mixture of Experts (2024)
+
 <br><b>Object Recognition</b>
 <br>David Lowe. Object Recognition from Local Scale-Invariant Features. (1992) 
+
+<br><b>Singular Value Decomposition</b>
+<br>G. W. Stewart. Early History of the Singular Value Decomposition (1993)
 
 <br><b>Penn Treebank</b>
 <br>Mitchell P. Marcus et al. Building a Large Annotated Corpus of English: The Penn Treebank (1993)
@@ -59,11 +84,17 @@ chinoises de Fohy. (1703).
 <br><b>Complementary priors</b>
 <br>Geoffrey E. Hinton et al. A fast learning algorithm for deep belief nets (1994)
 
-<br><b>SVM</b>
+<br><b>BM25</b>
+<br>Stephen Robertson et al. Okapi at TREC-3. In Overview of the Third Text REtrieval Conference(TREC-3). pages 109–126. (1995)
+
+<br><b>SVM(Support Vector Machine)</b>
 <br>Corinna Cortes, Vladimir Vapnik. Support-vector networks. (1995)
 
 <br><b>Statistical Machine Learning</b>
 <br>Vladimir Vapnik. The Nature of Statistical Learning Theory. (1995)
+
+<br><b>TF-IDF</b>
+<br>Thorsten Joachims. A probabilistic analysis of the rocchio algorithm with tfidf for text categorization. (1996)
 
 <br><b>MNIST</b>
 <br>LeCun et al. Gradient-based learning applied to document recognition (IEEE 1998)
@@ -83,6 +114,9 @@ chinoises de Fohy. (1703).
 <br><b>Adaboost</b>
 <br>Yoav Freund, Robert E. Schapire. Experiments with a New Boosting Algorithm. (1996)
 
+<br><b>Graph Neural Network</b>
+<br>Alessandro Sperduti et al. Supervised neural networks for the classification of structures (1997)
+
 <br><b>LeNet</b>
 <br>Yann LeCun Leon Bottou Yoshua Bengio, Patrick Haner. Gradient-Based Learning Applied to Document Recognition (1998)
 
@@ -101,6 +135,9 @@ chinoises de Fohy. (1703).
 
 <br><b>EQP(Equation Prover)</b>
 <br>William Mccune. Deep Blue. (1997)
+
+<br><b>Random Forest</b>
+<br>Leo Breiman. Random Forests. Machine Learning, Volume 45, pages 5–32. (2001)
 
 <br><b>Deap Blue</b>
 <br>M Campbell. Deep Blue. (2002)
@@ -138,6 +175,9 @@ chinoises de Fohy. (1703).
 
 <br><b>Pubmed</b>
 <br>Prithviraj Sen et al. Collective Classification in Network Data (AAAI 2008)
+
+<br><b>t-SNE</b>
+<br>Laurens van der Maaten et al. Visualizing Data using t-SNE (JMLR 2008)
 
 <br><b>Relation Extraction</b>
 <br>Mintz et al. Distant supervision for relation extraction without labeled data (ACL | IJCNLP 2009)
@@ -207,6 +247,9 @@ chinoises de Fohy. (1703).
 
 <br><b>Human3.6M</b>
 <br>Ionescu et al. Human3.6m: Large scale datasets and predictive methods for 3D human sensing in natural environments (IEEE 2013)
+
+<br><b>ConvGNN</b>
+<br>Joan Bruna et al. Spectral Networks and Locally Connected Networks on Graphs (2013)
 
 <br><b>R-CNN</b>
 <br>Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik. Rich feature hierarchies for accurate object detection and semantic segmentation. (2013)
@@ -327,6 +370,9 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 <br><b>Monte Carlo Dropout</b>
 <br>Yarin Gal et al. Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning (ICML 2016)
 
+<br><b>Graph Autoencoders</b>
+<br>Thomas N. Kipf et al. Variational Graph Auto-Encoders (NeurIPS 2016)
+
 <br><b>Document Classification</b>
 <br>Z Yang et al. Hierarchical Attention Networks for Document Classification (NAACL 2016)
 
@@ -375,12 +421,21 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 <br><b>OpenAI Gym</b>
 <br>Brockman et al. OpenAI Gym (2016)
 
+<br><b>XGBoost</b>
+<br>Tianqi Chen et al. XGBoost: A Scalable Tree Boosting System (KDD 2016)
+
+<br><b>Image Style Transfer</b>
+<br>Leon A. Gatys et al. Image Style Transfer Using Convolutional Neural Networks (CVPR 2016)
+
 <br><b>Continual Learning</b>
 <br>James Kirkpatrick et al. Overcoming catastrophic forgetting in neural networks (2016)
 
 <br><b>Random Erasing</b>
 <br>Sachin Ravi et al. Optimization as a Model For Few-Shot Learning (2016)
 <br>Zhun Zhong et al. Random Erasing Data Augmentation (2017)
+
+<br><b>PPO</b>
+Schulman, John, et al.  Proximal policy optimization algorithms. (2017)
 
 <br><b>NAS(Neural Architecture Search)</b>
 <br>Barret Zoph et al. Neural Architecture Search with Reinforcement Learning (ICLR 2017)
@@ -390,6 +445,13 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 
 <br><b>Graph Convolutional Networks(GCN)</b>
 <br>Thomas N. Kipf et al. Semi-Supervised Classification with Graph Convolutional Networks (ICLR 2017)
+
+<br><b>Image Restoration</b>
+<br>Dmitry Ulyanov et al. Deep Image Prior (2017)
+
+<br><b>Open-Domain Question Answering</b>
+<br>Danqi Chen et al. Reading Wikipedia to Answer Open-Domain Questions. (ACL 2017)
+<br>Karpukhin et al. Dense Passage Retrieval for Open-Domain Question Answering. (EMNLP, 2020)
 
 <br><b>Loss Function</b>
 <br>Dong Yu et al. Permutation Invariant Training of Deep Models Forspeaker-independent Multi-talker Speech Separation (IEEE 2017)
@@ -408,6 +470,9 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 
 <br><b>ICARLA (Car Learning to Act)</b>
 <br>Dosovitskiy et al. CARLA: An Open Urban Driving Simulator (2017)
+
+<br><b>MobileNet</b>
+<br>Andrew G. Howard et al. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017)
 
 <br><b>VoxCeleb1</b>
 <br>Nagrani et al. VoxCeleb: a large-scale speaker identification datasett (Interspeech 2017)
@@ -430,6 +495,9 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br><b>MCTS</b>
 <br>Silver, D et al. Mastering the game of Go without human knowledge. (2017)
 
+<br><b>Text Style Transfer</b>
+<br>Tianxiao Shen et al. Style Transfer from Non-Parallel Text by Cross-Alignment (NeurIPS 2017)
+
 <br><b>Transformer</b>
 <br>A. Vaswani et al. Attention is all you need. (2017)
 
@@ -444,6 +512,9 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 
 <br><b>RoBERTa</b>
 <br>Yinhan Liu et al. RoBERTa: A Robustly Optimized BERT Pretraining Approach (2018)
+
+<br><b>AutoEncoder-based Recommendation System</b>
+<br>Dawen Liang et al. Variational Autoencoders for Collaborative Filtering. (WWW 2018)
 
 <br><b>VoxCeleb2</b>
 <br>Chung et al. VoxCeleb2: Deep Speaker Recognition (ISCA 2018)
@@ -460,11 +531,17 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br><b>MultiNLI (Multi-Genre Natural Language Inference)</b>
 <br>Williams et al. A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference (NAACL 2018)
 
+<br><b>Session-based Recommendation System</b>
+<br>Self-Attentive Sequential Recommendationr (ICDM 2018)
+
 <br><b>Low Distortion & Good Perceptual Quality</b>
 <br>Yochai Blau et al. The Perception-Distortion Tradeoff (CVPR 2018)
 
 <br><b>Albumentations</b>
 <br>Alexander Buslaev et al. Albumentations: fast and flexible image augmentations (2018)
+
+<br><b>EfficientNet</b>
+<br>Mingxing Tan et al. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks (ICML 2019)
 
 <br><b>Backdoor Attack</b>
 <br>Tianyu Gu et al. BadNets: Evaluating Backdooring Attacks on Deep Neural Networks (NeurIPS 2019)
@@ -478,6 +555,9 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br><b>EDA</b>
 <br>Jason Wei et al. EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks (EMNLP-IJCNLP 2019)
 
+<br><b>Label Smoothing</b>
+<br>Rafael Müller et al. When Does Label Smoothing Help? (NeurIPS 2019)
+
 <br><b>AutoAugment</b>
 <br>Ekin D. Cubuk et al. AutoAugment: Learning Augmentation Policies from Data (CVPR 2019)
 
@@ -489,6 +569,9 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 
 <br><b>CoLA (Corpus of Linguistic Acceptability)</b>
 <br>Warstadt et al. Neural Network Acceptability Judgments (TACL 2019)
+
+<br><b>Data Augmentation </b>
+<br>Jason Wei et al. EDA : Easy Data Augmentation Techniques for Boosting Performance on Text Classification (EMNLP-IJCNLP 2019)
 
 <br><b>SuperGLUE</b>
 <br>Wang et al. SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems (NeurIPS 2019)
@@ -512,8 +595,11 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br><b>Robotics: Vision and Touch Representation</b>
 <br>Michelle A. Lee et al. Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks (ICRA 2019)
 
-<br><b>GPT-3</b>
+<br><b>GPT-3, Prompt Tuning</b>
 <br>Brown et al. Language Models are Few-Shot Learners (NeurIPS 2020)
+
+<br><b>UMAP(Uniform Manifold Approximation and Projection)</b>
+<br>Leland McInnes et al. UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction (2020)
 
 <br><b>SimCLR</b>
 <br>Chen Ting et al. Simple Framework for Contrastive Learning of Visual Representations (PMLR 2020)
@@ -524,6 +610,9 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 
 <br><b>NeRF</b>
 <br>Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis. (2020)
+
+<br><b>GNN-based Recommendation System</b>
+<br>Xiangnan He et al. LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation. (SIGIR 2020)
 
 <br><b>OGB (Open Graph Benchmark)</b>
 <br>Hu et al. Open Graph Benchmark: Datasets for Machine Learning on Graphs (NIPS 2020)
@@ -537,11 +626,21 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br><b>NeRF(Neural Radiance Fields)</b>
 <br>Mildenhall et al. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ECCV 2020)
 
+<br><b>Retrieval-Augmented Generation</b>
+<br>Patrick Lewis et al. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (NeurIPS 2020)
+
 <br><b>Vision Transformer(ViT)</b>
 <br>Alexey Dosovitskiy Gu et al. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (2020)
 
+<br><b>Reinforcement Learning from Human Feedback (RLHF)</b>
+<br>Nisan Stiennon et al. Learning to summarize from human feedback (NeurIPS 2020)
+<br>Long Ouyang et al. Training language models to follow instructions with human feedback (2022)
+
 <br><b>BART</b>
 <br>Mike Lewis et al. BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (ACL 2020)
+
+<br><b>Prefix Tuning</b>
+<br>Xiang Lisa Li and Percy Liang. Prefix-tuning: Optimizing continuous prompts for generation. (ACL 2021)
 
 <br><b>Generative Artificial Intelligence(GAI)</b>
 <br>R Bommasani et al. On the opportunities and risks of foundation models (2021)
@@ -554,6 +653,9 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 
 <br><b>Reinforcement Learning</b>
 <br>David Silver et al. Reward is enough (Artificial Intelligence 2021)
+
+<br><b>Text to Image Generation</b>
+Aditya Ramesh et al. DALL-E: Zero-Shot Text-to-Image Generation (JMLR 2021)
 
 <br><b>ROUGE</b>
 <br>Chin-Yew Lin et al. ROUGE: A Package for Automatic Evaluation of Summaries (2021)
@@ -570,11 +672,23 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br><b>Pytorch</b>
 <br>Adam Paszk et al. PyTorch: An Imperative Style, High-Performance Deep Learning Library (NeurIPS 2021)
 
+<br><b>Chain-of-Thought Prompting</b>
+<br>Jason Wei et al. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2022)
+
 <br><b>GPT-4</b>
 <br>Baolin Peng et al. Instruction Tuning with GPT-4 (EMNLP 2023)
 
 <br><b>LLAMA</b>
 <br>Touvron et al. LLaMA: Open and Efficient Foundation Language Models (2023)
+
+<br><b>Alpaca, Instruction Tuning</b>
+<br>Rohan Taori et al. Alpaca: A Strong, Replicable Instruction-Following Model (2023)
+
+<br><b>Quantization</b>
+<br>Hongyu Wang et al. BitNet: Scaling 1-bit Transformers for Large Language Models (2023)
+
+<br><b>AlphaGeometry</b>
+<br>Trieu H. Trinh et al. Solving olympiad geometry without human demonstrations (2024)
 
 <br><br><br>
 
