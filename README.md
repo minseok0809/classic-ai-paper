@@ -165,7 +165,7 @@ chinoises de Fohy. (1703).
 <br><b>Knowledge Graph</b>
 <br>Fabian M. Suchanek et al. YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia (WWW 2007)
 
-<br><b>tSNE</b>
+<br><b>t-SNE</b>
 <br>Laurens van der Maaten et al. Visualizing Data using t-SNE (JMLR 2008)
 
 <br><b>The Four-Color Theorem</b>
