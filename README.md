@@ -365,7 +365,7 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 <br><b>Deep learning</b>
 <br>Yann LeCun, Yoshua Bengio, Geoffrey Hinton. Deep learning (NatureDeepReview 2015)
 
-<br><b>DeepLab
+<br><b>DeepLab</b>
 <br>Liang-Chieh Chen et al. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs (TPAMI 2016)
 
 <br><b>R-FCN</b>
@@ -450,7 +450,7 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 <br><b>RetinaNet</b>
 <br>Tsung-Yi Lin et al. Focal loss for dense object detection (2017)
 
-<br><b>Mask R-CNN
+<br><b>Mask R-CNN</b>
 <br>Kaiming He et al. Mask R-CNN for Object Detection and Segmentation (2017)
 
 <br><b>PPO</b>
