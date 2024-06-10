@@ -365,6 +365,12 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 <br><b>Deep learning</b>
 <br>Yann LeCun, Yoshua Bengio, Geoffrey Hinton. Deep learning (NatureDeepReview 2015)
 
+<br><b>DeepLab
+<br>Liang-Chieh Chen et al. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs (TPAMI 2016)
+
+<br><b>R-FCN</b>
+<br>Jifeng Dai et al. R-FCN: Object Detection via Region-based Fully Convolutional Networks (2016)
+
 <br><b>LIME(Local Interpretable Model-agnostic Explanations)</b>
 <br>Marco Tulio Ribeiro et al. Why Should I Trust You?": Explaining the Predictions of Any Classifier (NAACL 2016)
 
@@ -388,6 +394,9 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 
 <br><b>TensorFlow</b>
 <br>M. Abadi et al. TensorFlow: Large-scale machine learning on heterogeneous distributed systems. (2016)
+
+<br><b>IoU Loss</b>
+<br>Jiahui Yu et al. UnitBox: An Advanced Object Detection Network (ACM MM 2016)
 
 <br><b>XGBoost</b>
 <br>Tianqi Chen et al. XGBoost: A Scalable Tree Boosting System (KDD 2016)
@@ -438,8 +447,14 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 <br>Sachin Ravi et al. Optimization as a Model For Few-Shot Learning (2016)
 <br>Zhun Zhong et al. Random Erasing Data Augmentation (2017)
 
+<br><b>RetinaNet</b>
+<br>Tsung-Yi Lin et al. Focal loss for dense object detection (2017)
+
+<br><b>Mask R-CNN
+<br>Kaiming He et al. Mask R-CNN for Object Detection and Segmentation (2017)
+
 <br><b>PPO</b>
-Schulman, John, et al.  Proximal policy optimization algorithms. (2017)
+<br>Schulman, John, et al.  Proximal policy optimization algorithms. (2017)
 
 <br><b>NAS(Neural Architecture Search)</b>
 <br>Barret Zoph et al. Neural Architecture Search with Reinforcement Learning (ICLR 2017)
@@ -464,7 +479,7 @@ Schulman, John, et al.  Proximal policy optimization algorithms. (2017)
 <br>Zhou et al. Places: A 10 Million Image Database for Scene Recognition (IEEE 2017)
 
 <br><b>Meta Learning</b>
-Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (ICML 2017)
+<br>Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (ICML 2017)
 
 <br><b>Weight & Activation Quantizer</b>
 <br>Shuchang Zhou et al. DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients (IEEE 2017)
@@ -517,6 +532,9 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br><b>RoBERTa</b>
 <br>Yinhan Liu et al. RoBERTa: A Robustly Optimized BERT Pretraining Approach (2018)
 
+<br><b>CornerNet</b>
+<br>Hei Law et al. CornerNet: Detecting Objects as Paired Keypoints (ECCV 2018)
+
 <br><b>AutoEncoder-based Recommendation System</b>
 <br>Dawen Liang et al. Variational Autoencoders for Collaborative Filtering. (WWW 2018)
 
@@ -565,6 +583,9 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br><b>Label Smoothing</b>
 <br>Rafael Müller et al. When Does Label Smoothing Help? (NeurIPS 2019)
 
+<br><b>GIoU Loss</b>
+<br>Hamid Rezatofighi et al. Generalized Intersection Over Union: A Metric and a Loss for Bounding Box Regression (CVPR 2019)
+
 <br><b>AutoAugment</b>
 <br>Ekin D. Cubuk et al. AutoAugment: Learning Augmentation Policies from Data (CVPR 2019)
 
@@ -595,18 +616,24 @@ Chelsea Finn et al. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Net
 <br><b>T5</b>
 <br>Colin Raffel et al. Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (The Journal of Machine Learning Research 2019)
 
-<br><b>wav2vec</b>
-<br>S. Schneider et al. wav2vec: Unsupervised pre-training for speech recognition. (Interspeech 2019)
-<br>Alexei Baevski et al. wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations Neural Turing Machines (NeurlIPS 2020)
+<br><b>MoCo</b>
+<br>Kaiming He et al. Momentum Contrast for Unsupervised Visual Representation Learning (2019)
 
 <br><b>Robotics: Vision and Touch Representation</b>
 <br>Michelle A. Lee et al. Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks (ICRA 2019)
+
+<br><b>wav2vec</b>
+<br>S. Schneider et al. wav2vec: Unsupervised pre-training for speech recognition. (Interspeech 2019)
+<br>Alexei Baevski et al. wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations Neural Turing Machines (NeurlIPS 2020)
 
 <br><b>GPT-3, Prompt Tuning</b>
 <br>Brown et al. Language Models are Few-Shot Learners (NeurIPS 2020)
 
 <br><b>UMAP(Uniform Manifold Approximation and Projection)</b>
 <br>Leland McInnes et al. UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction (2020)
+
+<br><b>DETR</b>
+<br>Nicolas Carion et al. End-to-End Object Detection with Transformers (2020)
 
 <br><b>SimCLR</b>
 <br>Chen Ting et al. Simple Framework for Contrastive Learning of Visual Representations (PMLR 2020)
