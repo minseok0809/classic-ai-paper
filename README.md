@@ -62,6 +62,9 @@ chinoises de Fohy. (1703).
 <br><b>RecGNN</b>
 <br>David E. Rumelhart et al. Learning representations by back-propagating errors (1986)
 
+<br><b>Katz's back-off model</b>
+<br>Katz, S. M. Estimation of probabilities from sparse data for the language model component of a speech recognizer. (1987)
+
 <br><b>Hidden Markov Models</b>
 <br>Rabiner, L. A. Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition.(Proceedings of the IEEE 1989)
 
@@ -82,11 +85,17 @@ chinoises de Fohy. (1703).
 <br><b>Penn Treebank</b>
 <br>Mitchell P. Marcus et al. Building a Large Annotated Corpus of English: The Penn Treebank (1993)
 
+<br><b>Word Co-occurrence Probabilities</b>
+Ido Dagan et al. Similarity-Based Estimation of Word Cooccurrence Probabilities (ACL 1994)
+
 <br><b>Maximum Entropy</b>
 <br>Adwait R. A Maximum Entropy Model for POS tagging. (1994)
 
 <br><b>Complementary priors</b>
 <br>Geoffrey E. Hinton et al. A fast learning algorithm for deep belief nets (1994)
+
+<br><b>Kneser-Ney Smoothing</b>
+<br>Reinhard Kneser and Hermann Ney. 1995. Improved backing-off for M-gram language modeling. (ICASSP 1995)
 
 <br><b>BM25</b>
 <br>Stephen Robertson et al. Okapi at TREC-3. In Overview of the Third Text REtrieval Conference(TREC-3). pages 109–126. (1995)
@@ -266,6 +275,9 @@ chinoises de Fohy. (1703).
 
 <br><b>Dropout</b>
 <br>N. Srivastava et al. Dropout: A simple way to prevent neural networks from overfitting. (2014)
+
+<br><b>Word Representation</b>
+<br>Omer Levy et al. Neural Word Embedding as Implicit Matrix Factorization (2014)
 
 <br><b>Adam</b>
 <br>D. Kingma and J. Ba. Adam: A method for stochastic optimization. (2014) 
@@ -712,6 +724,15 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 <br><b>Stochastic Parrot</b>
 <br>Emily M. Bender et al. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜 (2021)
 
+<br><b>OPT</b>
+<br>Susan Zhang et al. OPT: Open Pre-trained Transformer Language Models (2022)
+
+<br><b>InstructGPT</b>
+<br>Long Ouyang et al. Training language models to follow instructions with human feedback (2022)
+
+<br><b>PaLM</b>
+<br>Aakanksha Chowdhery et al. PaLM: Scaling Language Modeling with Pathways (2022)
+
 <br><b>Chain-of-Thought Prompting</b>
 <br>Jason Wei et al. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2022)
 
@@ -729,6 +750,9 @@ Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 
 <br><b>Alpaca, Instruction Tuning</b>
 <br>Rohan Taori et al. Alpaca: A Strong, Replicable Instruction-Following Model (2023)
+
+<br><b>Large Language Model (LLM)</b>
+<br>Tyna Eloundou et al. GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models (2023)
 
 <br><b>Quantization</b>
 <br>Hongyu Wang et al. BitNet: Scaling 1-bit Transformers for Large Language Models (2023)
