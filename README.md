@@ -347,7 +347,7 @@ Face Recognition. (CVPR 2015)
 <br>F. Maxwell Harper et al. The MovieLens Datasets: History and Context (ACL 2015)
 
 <br><b>ModelNet</b>
-Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
+<br>Wu et al. 3D ShapeNets: A Deep Representation for Volumetric Shapes (CVPR 2015)
 
 <br><b>LibriSpeech</b>
 <br>Vassil Panayotov et al. Librispeech: An ASR corpus based on public domain audio books (IEEE 2015)
