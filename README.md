@@ -736,6 +736,9 @@ Face Recognition. (CVPR 2015)
 <br><b>Chain-of-Thought Prompting</b>
 <br>Jason Wei et al. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2022)
 
+<br><b>Non-language Task</b>
+<br>Tuan Dinh et al. LIFT: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks (NeurIPS 2022)
+
 <br><b>3D Generator</b>
 <br>Eric R. Chan et al. G3D: Efficient Geometry-aware 3D Generative Adversarial Networks (CVPR 2022)
 
