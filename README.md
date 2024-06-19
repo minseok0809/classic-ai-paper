@@ -86,7 +86,7 @@ chinoises de Fohy. (1703).
 <br>Mitchell P. Marcus et al. Building a Large Annotated Corpus of English: The Penn Treebank (1993)
 
 <br><b>Word Co-occurrence Probabilities</b>
-Ido Dagan et al. Similarity-Based Estimation of Word Cooccurrence Probabilities (ACL 1994)
+<br>Ido Dagan et al. Similarity-Based Estimation of Word Cooccurrence Probabilities (ACL 1994)
 
 <br><b>Maximum Entropy</b>
 <br>Adwait R. A Maximum Entropy Model for POS tagging. (1994)
@@ -656,9 +656,6 @@ Face Recognition. (CVPR 2015)
 
 <br><b>MLIR (Multi Level Intermediate Representation)</b>
 <br>C. Lattner et al. MLIR: A compiler infrastructure for the end of Moore’s law (2020)
-
-<br><b>NeRF</b>
-<br>Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis. (2020)
 
 <br><b>GNN-based Recommendation System</b>
 <br>Xiangnan He et al. LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation. (SIGIR 2020)
