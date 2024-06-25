@@ -691,9 +691,6 @@ Face Recognition. (CVPR 2015)
 <br><b>Generative Artificial Intelligence(GAI)</b>
 <br>R Bommasani et al. On the opportunities and risks of foundation models (2021)
 
-<br><b>AI Ethics</b>
-<br>Emily M. Bender et al. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (FAccT 2021)
-
 <br><b>Swin Transformer</b>
 <br>Ze Liu et al. Hierarchical Vision Transformer using Shifted Windows (2021)
 
