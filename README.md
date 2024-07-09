@@ -168,6 +168,9 @@ chinoises de Fohy. (1703).
 <br><b>Reconstruction</b>
 <br>Noah Snavely, Steven M. Seitz, Richard Szeliski. Photo Tourism: Exploring Photo Collections in 3D. (ACM 2006)
 
+<br><b>Connectionist Temporal Classification (CTC)</b>
+<br>Alex Graves et al. Connectionist Temporal Classification, Labelling Unsegmented Sequence Data with RNN. (ICML 2006)
+
 <br><b>SLAM</b>
 <br>Davison et al. MonoSLAM: Real-Time Single Camera SLAM (TPAMI 2007)
 
@@ -176,6 +179,9 @@ chinoises de Fohy. (1703).
 
 <br><b>t-SNE</b>
 <br>Laurens van der Maaten et al. Visualizing Data using t-SNE (JMLR 2008)
+
+<br><b>Denoising Autoencoder</b>
+<br>Pascal Vincent  et al. Extracting and Composing Robust Features with Denoising Autoencoders (ICML 2008)
 
 <br><b>The Four-Color Theorem</b>
 <br>Georges Gonthier. Formal Proof—The Four- Color Theorem (2008)
@@ -451,6 +457,9 @@ Face Recognition. (CVPR 2015)
 
 <br><b>Image Style Transfer</b>
 <br>Leon A. Gatys et al. Image Style Transfer Using Convolutional Neural Networks (CVPR 2016)
+
+<br><b>Deep speech 2</b>
+<br>Amodei, D et al. Deep speech 2: End-to-end speech recognition in english and mandarin. (ICML 2016)
 
 <br><b>Continual Learning</b>
 <br>James Kirkpatrick et al. Overcoming catastrophic forgetting in neural networks (2016)
