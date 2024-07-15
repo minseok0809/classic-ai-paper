@@ -32,6 +32,9 @@ chinoises de Fohy. (1703).
 <br><b>K-Nearest Neighbors (K-NN)</b>
 <br>T. M. COVER. Nearest Neighbor Pattern Classification (1967)
 
+<br><b>Symbolic AI</b>
+<br>Newell, Allen Simon and Herbert A. Human problem solving (1972)
+
 <br><b>Emergent Ability</b>
 <br>P. W. Anderson et al. More Is Different (1972)
 <br>Rylan Schaeffer et al. Are Emergent Abilities of Large Language Models a Mirage? (2023)
