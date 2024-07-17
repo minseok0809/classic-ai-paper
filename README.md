@@ -43,6 +43,10 @@ chinoises de Fohy. (1703).
 <br>B. T. Lowerre. The harpy speech recognition system. Carnegie Mellon University. (1976)
 <br>PENG SI OW et al. Filtered beam search in scheduling. (1986)
 
+<br><b>Bayesian Optimization</b>
+<br>J Mockus et al. The application of Bayesian methods for seeking the extremum (1978)
+<br>Jasper Snoek et al. Practical Bayesian Optimization of Machine Learning Algorithms (NeurIPS 2012)
+
 <br><b>Outliers Detection</b>
 <br>D. Hawkins. Identification of Outliers (1980)
 
@@ -260,9 +264,6 @@ chinoises de Fohy. (1703).
 <br><b>CNN(Alexnet)</b>
 <br>A. Krizhevsky, I. Sutskever, G. E. Hinton. ImageNet Classification with Deep Convolutional Neural Networks. (2012)
 <br>Matthew D. Zeiler and Rob Fergus. Visualizing and Understanding Convolutional Networks (ECCV 2014)
-
-<br><b>Bayesian Optimization</b>
-<br>Jasper Snoek etal. Practical Bayesian Optimization of Machine Learning Algorithms (NeurIPS 2012)
 
 <br><b>VAE</b>
 <br>Diederik P Kingma, Max Welling. Auto-Encoding Variational Bayes. (2013)
