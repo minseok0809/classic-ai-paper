@@ -766,6 +766,10 @@ Face Recognition. (CVPR 2015)
 
 <br><b>Large Language Model (LLM)</b>
 <br>Tyna Eloundou et al. GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models (2023)
+<br>Brandon C. Roy et al. Predicting the birthe of a spoken word (2015)
+<br>Tom McCoy et al. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference (ACL 2019)
+<br>Qihuang Zhong et al. Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT (2023)
+<br>Lukas Berglund et al. The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A" (2023)
 
 <br><b>Quantization</b>
 <br>Hongyu Wang et al. BitNet: Scaling 1-bit Transformers for Large Language Models (2023)
