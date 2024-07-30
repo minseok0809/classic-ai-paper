@@ -4,17 +4,17 @@
 <br>Godefroy-Guillaume Leibnitz. Explication de l’arithmétique binaire, qui se sert des seuls caractères O et I avec des remarques sur son utilité et sur ce qu’elle donne le sens des anciennes figures
 chinoises de Fohy. (1703).
 
-<br><b>Boolean Algebra
+<br><b>Boolean Algebra</b>
 <br>George Boole. The Laws of Thought (1854)
 
-<br><b>Entropy
+<br><b>Entropy</b>
 <br>Ludwig Boltzmann. On the Relationship between the Second Fundamental Theorem of the Mechanical Theory of Heat and Probability Calculations Regarding the Conditions for Thermal Equilibrium (1877)
 <br>Claude E. Shannon. A Mathematical Theory of Communication (1948)
 
 <br><b>Anomaly Detection</b>
 <br>K. Pearson. On lines and planes of closest fit to systems of points in space (Philosophical Magazine 1901)
 
-<br><b>Logic Gate
+<br><b>Logic Gate</b>
 <br>Claude E. Shannon. A Symbolic Analysis of Relay and Switching Circuits (1937)
 
 <br><b>McCulloch & Pitss Model</b>
@@ -35,7 +35,7 @@ chinoises de Fohy. (1703).
 <br><b>Perceptron</b>
 <br>Frank Rosenblatt. The perceptron: A probabilistic model for information storage and organization in the brain (Psychological Review 1958)
 
-<br><b>LISP (List Processing)
+<br><b>LISP (List Processing)</b>
 <br>By John McCarthy (1958)
 
 <br><b>Decision Tree</b>
@@ -342,8 +342,9 @@ chinoises de Fohy. (1703).
 <br><b>Seq2Seq</b>
 <br>I. Sutskever et al. Sequence to sequence learning with neural networks. (2014)
 
-<br><b>DQN</b>
+<br><b>DQN (Deep Q-Network)</b>
 <br>John Schulman et al. Playing Atari with Deep Reinforcement Learning (NeurIPS 2014)
+<br>Volodymyr Mnih. Human level control through deep reinforcement learning (Nature 2015)
 
 <br><b>Robotics: OpenAI Gym</b>
 <br>Matthias Plappert et al. Multi-Goal Reinforcement Learning: Challenging Robotics Environments and Request for Research (NeurIPS 2014)
@@ -410,13 +411,10 @@ Face Recognition. (CVPR 2015)
 <br><b>Deep learning</b>
 <br>Yann LeCun, Yoshua Bengio, Geoffrey Hinton. Deep learning (NatureDeepReview 2015)
 
-<br><b>DQN (Deep Q-Network)
-<br>Volodymyr Mnih. Human level control through deep reinforcement learning (Nature 2015)
-
-<br><b>TRPO
+<br><b>TRPO</b>
 <br>Schulman, John et al. Trust Region Policy Optimization. (2015)
 
-<br><b>A3C (Asynchronous Advantage Actor Critic)
+<br><b>A3C (Asynchronous Advantage Actor Critic)</b>
 <br>Volodymyr Mni et al. Asynchronous Methods for Deep Reinforcement Learning (ICML 2016)
 
 <br><b>MCTS</b>
