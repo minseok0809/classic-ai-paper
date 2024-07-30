@@ -4,8 +4,21 @@
 <br>Godefroy-Guillaume Leibnitz. Explication de l’arithmétique binaire, qui se sert des seuls caractères O et I avec des remarques sur son utilité et sur ce qu’elle donne le sens des anciennes figures
 chinoises de Fohy. (1703).
 
+<br><b>Boolean Algebra
+<br>George Boole. The Laws of Thought (1854)
+
+<br><b>Entropy
+<br>Ludwig Boltzmann. On the Relationship between the Second Fundamental Theorem of the Mechanical Theory of Heat and Probability Calculations Regarding the Conditions for Thermal Equilibrium (1877)
+<br>Claude E. Shannon. A Mathematical Theory of Communication (1948)
+
 <br><b>Anomaly Detection</b>
 <br>K. Pearson. On lines and planes of closest fit to systems of points in space (Philosophical Magazine 1901)
+
+<br><b>Logic Gate
+<br>Claude E. Shannon. A Symbolic Analysis of Relay and Switching Circuits (1937)
+
+<br><b>McCulloch & Pitss Model</b>
+<br>Warren McCulloch and Walter Pitss et al.  A Logical Calculus of The Ideas Immanent in Nervous Activity (1943)
 
 <br><b>Gradient Descent (GD)</b>
 <br>C. Lemarechal. Cauchy and the Gradient Method. Doc Math Extra, pp. 251-254. (2012) 
@@ -16,8 +29,14 @@ chinoises de Fohy. (1703).
 <br><b>Turing Machine</b>
 <br>A. M. Turing. Intelligent Machinery. Unpublished Technical Report. (1948) 
 
-<br><b>Backpropagation</b>
-<br>H. J. Kelley. Gradient Theory of Optimal Flight Paths. ARS Journal, Vol. 30, No. 10, pp. 947-954. (1960)
+<br><b>Artificial Intelligence</b>
+<br>John McCarthy, Marvin L. Minsky, Nathaniel Rochester, and Claude E. Shannon. A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence (1955)
+
+<br><b>Perceptron</b>
+<br>Frank Rosenblatt. The perceptron: A probabilistic model for information storage and organization in the brain (Psychological Review 1958)
+
+<br><b>LISP (List Processing)
+<br>By John McCarthy (1958)
 
 <br><b>Decision Tree</b>
 <br>Morgan, J.N. & Sonquist, J.A. Problems in the analysis of survey data, and a proposal. (1963)
@@ -57,16 +76,20 @@ chinoises de Fohy. (1703).
 <br>David Hubel, Torsten Wiesel. Receptive fields of single neurons in the cat’s striate cortex (1959) Lawrence Roberts. Machine perception of three-dimensional solids (1963)
 <br>David Mar. Vision: A computational investigation into the human representation and processing of visual information(1982)
 
+<br><b>Neocognitron</b>
+<br>Kunihiko Fukushima. Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position (1980)
+
 <br><b>K-means Clustering</b>
 <br>STUART P. LLOYD. Least square quantization in PCM (1982)
 
 <br><b>Boltzmann Machines</b>
-<br>Geoffrey E. Hinton et al.  A Learning Algorithm for Boltzmann Machines (1985)
+<br>Geoffrey E. Hinton et al. A Learning Algorithm for Boltzmann Machines (1985)
 
 <br><b>Distributed representations.</b>
 <br>Geoffrey E. Hinton et al.  Distributed representations (1986) 
 
-<br><b>RecGNN</b>
+<br><b>Backpropagation</b>
+<br>H. J. Kelley. Gradient Theory of Optimal Flight Paths. ARS Journal, Vol. 30, No. 10, pp. 947-954. (1960)
 <br>David E. Rumelhart et al. Learning representations by back-propagating errors (1986)
 
 <br><b>Katz's back-off model</b>
@@ -124,9 +147,6 @@ chinoises de Fohy. (1703).
 
 <br><b>CRFs</b>
 <br>J. Lafferty et al. Conditional Random Fields: Probabilistic Models for Segmenting and Labeling SequenceData. (ICML 2001)
-
-<br><b>Perceptron</b>
-<br>M Collins. Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms (EMNLP 2002)
 
 <br><b>DBSCAN</b>
 <br>Martin Ester et al. A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise (KDD 1996)
