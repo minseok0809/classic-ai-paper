@@ -390,6 +390,18 @@ Face Recognition. (CVPR 2015)
 <br><b>Deep learning</b>
 <br>Yann LeCun, Yoshua Bengio, Geoffrey Hinton. Deep learning (NatureDeepReview 2015)
 
+<br><b>DQN (Deep Q-Network)
+<br>Volodymyr Mnih. Human level control through deep reinforcement learning (Nature 2015)
+
+<br><b>TRPO
+<br>Schulman, John et al. Trust Region Policy Optimization. (2015)
+
+<br><b>A3C (Asynchronous Advantage Actor Critic)
+<br>Volodymyr Mni et al. Asynchronous Methods for Deep Reinforcement Learning (ICML 2016)
+
+<br><b>MCTS</b>
+<br>Silver, D et al. Mastering the game of Go with deep neural networks and tree search (Nature 2016)
+
 <br><b>DeepLab</b>
 <br>Liang-Chieh Chen et al. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs (TPAMI 2016)
 
@@ -539,8 +551,8 @@ Face Recognition. (CVPR 2015)
 <br><b>Visual Genome</b>
 <br>Krishna et al. Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations (2017)
 
-<br><b>MCTS</b>
-<br>Silver, D et al. Mastering the game of Go without human knowledge. (2017)
+<br><b>Alphago Zero</b>
+<br>Silver, D et al. Mastering the game of Go without human knowledge (2017)
 
 <br><b>Text Style Transfer</b>
 <br>Tianxiao Shen et al. Style Transfer from Non-Parallel Text by Cross-Alignment (NeurIPS 2017)
@@ -592,6 +604,9 @@ Face Recognition. (CVPR 2015)
 
 <br><b>Albumentations</b>
 <br>Alexander Buslaev et al. Albumentations: fast and flexible image augmentations (2018)
+
+<br><b>AlphaStar</b>
+<br>Google Deepmind. AlphaStar: Mastering the real-time strategy game StarCraft II (2019)
 
 <br><b>EfficientNet</b>
 <br>Mingxing Tan et al. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks (ICML 2019)
