@@ -447,9 +447,6 @@ Face Recognition. (CVPR 2015)
 <br><b>Imini-Imagenet</b>
 <br>Vinyals et al. Matching Networks for One Shot Learning (NeurIPS 2016)
 
-<br><b>TensorFlow</b>
-<br>M. Abadi et al. TensorFlow: Large-scale machine learning on heterogeneous distributed systems. (2016)
-
 <br><b>IoU Loss</b>
 <br>Jiahui Yu et al. UnitBox: An Advanced Object Detection Network (ACM MM 2016)
 
@@ -813,6 +810,10 @@ Face Recognition. (CVPR 2015)
 <br><b>AlphaGeometry</b>
 <br>Trieu H. Trinh et al. Solving olympiad geometry without human demonstrations (2024)
 
+<br><b>Habsburg AI</b>
+<br>Ilia Shumailov et al. The Curse of Recursion: Training on Generated Data Makes Models Forget (2023)
+<br>Ilia Shumailov et al. AI models collapse when trained on recursively generated data (Nature 2024)
+
 <br><br><br>
 
 
@@ -823,5 +824,6 @@ Face Recognition. (CVPR 2015)
 <br>[Computer Vision: 10 Papers to Start (Chenxi Liu)](https://www.cs.jhu.edu/~cxliu/2015/computer-vision-10-papers-to-start.html)
 <br>[Awesome - Most Cited Deep Learning Papers (Terryum)](https://github.com/terryum/awesome-deep-learning-papers)
 <br>[Papers With Code Machine Learning Datasets](https://paperswithcode.com/datasets)
+<br>[야사와 만화로 배우는 인공지능 강의](https://brunch.co.kr/magazine/yamanin)
 
 <br><br><br>
