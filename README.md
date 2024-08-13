@@ -54,6 +54,9 @@ chinoises de Fohy. (1703).
 <br><b>Symbolic AI</b>
 <br>Newell, Allen Simon and Herbert A. Human problem solving (1972)
 
+<br><b>Rescorla–Wagner Model</b>
+<br>Rescorla, R.A. & Wagner, A.R. A theory of Pavlovian conditioning: Variations in the effectiveness of reinforcement and nonreinforcement (1972)
+
 <br><b>Emergent Ability</b>
 <br>P. W. Anderson et al. More Is Different (1972)
 <br>Rylan Schaeffer et al. Are Emergent Abilities of Large Language Models a Mirage? (2023)
@@ -68,6 +71,9 @@ chinoises de Fohy. (1703).
 
 <br><b>Outliers Detection</b>
 <br>D. Hawkins. Identification of Outliers (1980)
+
+<br><b>Temporal Difference Learning</b>
+<br>Sutton, Richard S. Barto, Andrew G. Toward a modern theory of adaptive networks (Psychological Review 1981)
 
 <br><b>Shallow Learning(Least Squares)</b>
 <br>Stephen M. Stigler. Gauss and the Invention of Least Squares. (1981) 
