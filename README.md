@@ -61,6 +61,10 @@ chinoises de Fohy. (1703).
 <br>P. W. Anderson et al. More Is Different (1972)
 <br>Rylan Schaeffer et al. Are Emergent Abilities of Large Language Models a Mirage? (2023)
 
+<br><b>Eligibility Traces</b>
+<br>A. Klopf. Brain Function and Adaptive Systems: A Heterostatic Theory (1972)
+<br>Satinder P.Singh & Rechard S.Sutton. Reinforcement learning with replacing eligibility traces (1996)
+
 <br><b>Beam Search</b>
 <br>B. T. Lowerre. The harpy speech recognition system. Carnegie Mellon University. (1976)
 <br>PENG SI OW et al. Filtered beam search in scheduling. (1986)
