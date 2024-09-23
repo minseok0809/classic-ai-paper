@@ -52,7 +52,9 @@ chinoises de Fohy. (1703).
 <br>T. M. COVER. Nearest Neighbor Pattern Classification (1967)
 
 <br><b>Symbolic AI</b>
+<br>Newell, J. C. Shaw, Allen Simon. Empirical explorations of the logic theory machine: a case study in heuristic (1957)
 <br>Newell, Allen Simon and Herbert A. Human problem solving (1972)
+<br>Newell, Allen Simon. Computer science as empirical inquiry: symbols and search (1976)
 
 <br><b>Rescorla–Wagner Model</b>
 <br>Rescorla, R.A. & Wagner, A.R. A theory of Pavlovian conditioning: Variations in the effectiveness of reinforcement and nonreinforcement (1972)
