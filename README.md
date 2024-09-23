@@ -38,8 +38,8 @@ chinoises de Fohy. (1703).
 <br><b>LISP (List Processing)</b>
 <br>By John McCarthy (1958)
 
-Alpha-Beta Pruning
-Arthur L. Samuel. Some studies in mahine learning using the game of checkers (1959)
+<br><b>Alpha-Beta Pruning</b>
+<br>Arthur L. Samuel. Some studies in mahine learning using the game of checkers (1959)
 
 <br><b>Decision Tree</b>
 <br>Morgan, J.N. & Sonquist, J.A. Problems in the analysis of survey data, and a proposal. (1963)
