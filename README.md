@@ -524,7 +524,7 @@ Face Recognition. (CVPR 2015)
 <br>Kaiming He et al. Mask R-CNN for Object Detection and Segmentation (2017)
 
 <br><b>PPO</b>
-<br>Schulman, John, et al.  Proximal policy optimization algorithms. (2017)
+<br>Schulman, John, et al. Proximal policy optimization algorithms. (2017)
 
 <br><b>NAS(Neural Architecture Search)</b>
 <br>Barret Zoph et al. Neural Architecture Search with Reinforcement Learning (ICLR 2017)
@@ -819,8 +819,11 @@ Face Recognition. (CVPR 2015)
 <br><b>Quantization</b>
 <br>Hongyu Wang et al. BitNet: Scaling 1-bit Transformers for Large Language Models (2023)
 
+<br><b>DPO</b>
+<br>Rafael Rafailov et al. Direct Preference Optimization: Your Language Model is Secretly a Reward Model (NeurIPS 2023)
+
 <br><b>Semantic Planner</b>
-<br>Ma et al. Eureka: Human-Level Reward Design via Coding Large Language Models (2023)
+<br>Ma et al. Eureka: Human-Level Reward Design via Coding Large Language Models (ICLR 2024)
 
 <br><b>AlphaGeometry</b>
 <br>Trieu H. Trinh et al. Solving olympiad geometry without human demonstrations (2024)
