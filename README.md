@@ -829,6 +829,11 @@ Face Recognition. (CVPR 2015)
 <br>Ilia Shumailov et al. The Curse of Recursion: Training on Generated Data Makes Models Forget (2023)
 <br>Ilia Shumailov et al. AI models collapse when trained on recursively generated data (Nature 2024)
 
+<br><b>Machine Unlearning</b>
+<br>Weijia Shi et al. Detecting Pretraining Data from Large Language Models (ICLR 2024)
+<br>Martin Pawelczyk et al. In-Context Unlearning: Language Models as Few-Shot Unlearners (ICML 2024)
+<br>Michael Duan et al. Do Membership Inference Attacks Work on Large Language Models (COLM 2024)
+
 <br><br><br>
 
 
