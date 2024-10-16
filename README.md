@@ -2,7 +2,7 @@
 
 <br><b>Binary arithmetic</b>
 <br>Godefroy-Guillaume Leibnitz. Explication de l’arithmétique binaire, qui se sert des seuls caractères O et I avec des remarques sur son utilité et sur ce qu’elle donne le sens des anciennes figures
-chinoises de Fohy. (1703).
+chinoises de Fohy (1703)
 
 <br><b>Boolean Algebra</b>
 <br>George Boole. The Laws of Thought (1854)
@@ -18,16 +18,19 @@ chinoises de Fohy. (1703).
 <br>Claude E. Shannon. A Symbolic Analysis of Relay and Switching Circuits (1937)
 
 <br><b>McCulloch & Pitss Model</b>
-<br>Warren McCulloch and Walter Pitss et al.  A Logical Calculus of The Ideas Immanent in Nervous Activity (1943)
+<br>Warren McCulloch and Walter Pitss et al. A Logical Calculus of The Ideas Immanent in Nervous Activity (1943)
 
 <br><b>Gradient Descent (GD)</b>
 <br>C. Lemarechal. Cauchy and the Gradient Method. Doc Math Extra, pp. 251-254. (2012) 
 
 <br><b>Von Neumann Architecture</b>
-<br>J Von Neumann. First Draft of a Report on EDVAC. (1945)
+<br>J Von Neumann. First Draft of a Report on EDVAC (1945)
 
 <br><b>Turing Machine</b>
-<br>A. M. Turing. Intelligent Machinery. Unpublished Technical Report. (1948) 
+<br>A. M. Turing. Intelligent Machinery (1948) 
+
+<br><b>Turing Test</b>
+<br>A. M. Turing. Computing Machinery and Intelligence (1950) 
 
 <br><b>Artificial Intelligence</b>
 <br>John McCarthy, Marvin L. Minsky, Nathaniel Rochester, and Claude E. Shannon. A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence (1955)
@@ -97,6 +100,9 @@ chinoises de Fohy. (1703).
 <br><b>K-means Clustering</b>
 <br>STUART P. LLOYD. Least square quantization in PCM (1982)
 
+<br><b>Hopfield Network</b>
+<br>J J Hopfield. Neural networks and physical systems with emergent collective computational abilities (1982)
+
 <br><b>Boltzmann Machines</b>
 <br>Geoffrey E. Hinton et al. A Learning Algorithm for Boltzmann Machines (1985)
 
@@ -108,7 +114,7 @@ chinoises de Fohy. (1703).
 <br>David E. Rumelhart et al. Learning representations by back-propagating errors (1986)
 
 <br><b>Katz's back-off model</b>
-<br>Katz, S. M. Estimation of probabilities from sparse data for the language model component of a speech recognizer. (1987)
+<br>Katz, S. M. Estimation of probabilities from sparse data for the language model component of a speech recognizer (1987)
 
 <br><b>Hidden Markov Models</b>
 <br>Rabiner, L. A. Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition.(Proceedings of the IEEE 1989)
@@ -134,25 +140,28 @@ chinoises de Fohy. (1703).
 <br>Ido Dagan et al. Similarity-Based Estimation of Word Cooccurrence Probabilities (ACL 1994)
 
 <br><b>Maximum Entropy</b>
-<br>Adwait R. A Maximum Entropy Model for POS tagging. (1994)
+<br>Adwait R. A Maximum Entropy Model for POS tagging (1994)
 
 <br><b>Complementary priors</b>
 <br>Geoffrey E. Hinton et al. A fast learning algorithm for deep belief nets (1994)
 
 <br><b>Kneser-Ney Smoothing</b>
-<br>Reinhard Kneser and Hermann Ney. 1995. Improved backing-off for M-gram language modeling. (ICASSP 1995)
+<br>Reinhard Kneser and Hermann Ney. 1995. Improved backing-off for M-gram language modeling (ICASSP 1995)
 
 <br><b>BM25</b>
 <br>Stephen Robertson et al. Okapi at TREC-3. In Overview of the Third Text REtrieval Conference(TREC-3). pages 109–126. (1995)
 
 <br><b>SVM(Support Vector Machine)</b>
-<br>Corinna Cortes, Vladimir Vapnik. Support-vector networks. (1995)
+<br>Corinna Cortes, Vladimir Vapnik. Support-vector networks (1995)
 
 <br><b>Statistical Machine Learning</b>
-<br>Vladimir Vapnik. The Nature of Statistical Learning Theory. (1995)
+<br>Vladimir Vapnik. The Nature of Statistical Learning Theory (1995)
 
 <br><b>TF-IDF</b>
-<br>Thorsten Joachims. A probabilistic analysis of the rocchio algorithm with tfidf for text categorization. (1996)
+<br>Thorsten Joachims. A probabilistic analysis of the rocchio algorithm with tfidf for text categorization (1996)
+
+<br><b>LeNet</b>
+<br>Yann LeCun et al. GradientBased Learning Applied to Document Recognition (IEEE 1998)
 
 <br><b>MNIST</b>
 <br>LeCun et al. Gradient-based learning applied to document recognition (IEEE 1998)
@@ -161,13 +170,13 @@ chinoises de Fohy. (1703).
 <br>McCallum et al. Maximum Entropy Markov Models for Information Extraction and Segmentation (ICML 2000)
 
 <br><b>CRFs</b>
-<br>J. Lafferty et al. Conditional Random Fields: Probabilistic Models for Segmenting and Labeling SequenceData. (ICML 2001)
+<br>J. Lafferty et al. Conditional Random Fields: Probabilistic Models for Segmenting and Labeling SequenceData (ICML 2001)
 
 <br><b>DBSCAN</b>
 <br>Martin Ester et al. A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise (KDD 1996)
 
 <br><b>Adaboost</b>
-<br>Yoav Freund, Robert E. Schapire. Experiments with a New Boosting Algorithm. (1996)
+<br>Yoav Freund, Robert E. Schapire. Experiments with a New Boosting Algorithm (1996)
 
 <br><b>Graph Neural Network</b>
 <br>Alessandro Sperduti et al. Supervised neural networks for the classification of structures (1997)
@@ -179,11 +188,11 @@ chinoises de Fohy. (1703).
 <br>Yann LeCun Leon Bottou Yoshua Bengio, Patrick Haner. Gradient-Based Learning Applied to Document Recognition (1998)
 
 <br><b>RNN</b>
-<br>Rumelhart, David E; Hinton, Geoffrey E, and Williams, Ronald J. Learning internal representations by error propagation. (Sept. 1985)
-<br>Jordan, Michael I. Serial order: a parallel distributed processing approach. (1986)
+<br>Rumelhart, David E; Hinton, Geoffrey E, and Williams, Ronald J. Learning internal representations by error propagation (Sept. 1985)
+<br>Jordan, Michael I. Serial order: a parallel distributed processing approach (1986)
 
 <br><b>DENDRAL</b>
-<br>Edward A. Feigenbaum, Bruce G. Buchanan. DENDRAL and Meta-DENDRAL roots of knowledge systems and expert system applications. (1993)
+<br>Edward A. Feigenbaum, Bruce G. Buchanan. DENDRAL and Meta-DENDRAL roots of knowledge systems and expert system applications (1993)
 
 <br><b>LSTM</b>
 <br>S. Hochreiter and J. Schmidhuber. Long Short-Term Memory. (1995)
@@ -208,10 +217,16 @@ chinoises de Fohy. (1703).
 <br>Navneet Dalal, Bill Triggs. Histograms of Oriented Gradients for Human Detection (CVPR 2005)
 
 <br><b>Reconstruction</b>
-<br>Noah Snavely, Steven M. Seitz, Richard Szeliski. Photo Tourism: Exploring Photo Collections in 3D. (ACM 2006)
+<br>Noah Snavely, Steven M. Seitz, Richard Szeliski. Photo Tourism: Exploring Photo Collections in 3D (ACM 2006)
 
 <br><b>Connectionist Temporal Classification (CTC)</b>
-<br>Alex Graves et al. Connectionist Temporal Classification, Labelling Unsegmented Sequence Data with RNN. (ICML 2006)
+<br>Alex Graves et al. Connectionist Temporal Classification, Labelling Unsegmented Sequence Data with RNN (ICML 2006)
+
+<br><b>Deep Belief Network (DBN)</b>
+<br>Geoffrey E. Hinton et al. A fast learning algorithm for deep belief nets (2006)
+
+<br><b>Autoencoder</b>
+<br>Reducing the dimensionality of data with neural networks (2006)
 
 <br><b>SLAM</b>
 <br>Davison et al. MonoSLAM: Real-Time Single Camera SLAM (TPAMI 2007)
@@ -249,6 +264,9 @@ chinoises de Fohy. (1703).
 <br><b>Domain Adaption</b>
 <br>Shai Ben-David et al. A theory of learning from different domains (Mach Learn 2010)
 
+<br><b>ReLU</b>
+<br>Vinod Nair and Geoffrey E. Hinton. Rectified Linear Units Improve Restricted Boltzmann Machines (ICML 2010)
+
 <br><b>PASCAL VOC</b>
 <br>Mark Everingham et al. The PASCAL Visual Object Classes (VOC) Challenge (IJCV 2010)
 
@@ -266,7 +284,7 @@ chinoises de Fohy. (1703).
 
 <br><b>Sicikit learn</b>
 <br>Fabian Pedregosa et al. Scikit-learn: Machine Learning in Python (2011)
-<br>Lars Buitinck et al. API design for machine learning software: experiences from the scikit-learn project  (2013)
+<br>Lars Buitinck et al. API design for machine learning software: experiences from the scikit-learn project (2013)
 
 <br><b>Numpy</b>
 <br>Stefan Van Der Walt et al. The NumPy array: a structure for efficient numerical computation (2011)
@@ -294,14 +312,14 @@ chinoises de Fohy. (1703).
 <br>Armato et al. The lung image database consortium (LIDC) and image database resource initiative (IDRI): a completed reference database of lung nodules on CT scans (2011)
 
 <br><b>Random Search</b>
-<br>J. Bergstra and Y. Bengio. Random search for hyper-parameter optimization. (2012) 
+<br>J. Bergstra and Y. Bengio. Random search for hyper-parameter optimization (2012) 
 
 <br><b>CNN(Alexnet)</b>
-<br>A. Krizhevsky, I. Sutskever, G. E. Hinton. ImageNet Classification with Deep Convolutional Neural Networks. (2012)
+<br>A. Krizhevsky, I. Sutskever, G. E. Hinton. ImageNet Classification with Deep Convolutional Neural Networks (2012)
 <br>Matthew D. Zeiler and Rob Fergus. Visualizing and Understanding Convolutional Networks (ECCV 2014)
 
 <br><b>VAE</b>
-<br>Diederik P Kingma, Max Welling. Auto-Encoding Variational Bayes. (2013)
+<br>Diederik P Kingma, Max Welling. Auto-Encoding Variational Bayes (2013)
 
 <br><b>SST (Stanford Sentiment Treebank)</b>
 <br>Socher et al. Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank (EMNLP 2013)
@@ -313,22 +331,22 @@ chinoises de Fohy. (1703).
 <br>Joan Bruna et al. Spectral Networks and Locally Connected Networks on Graphs (2013)
 
 <br><b>R-CNN</b>
-<br>Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik. Rich feature hierarchies for accurate object detection and semantic segmentation. (2013)
+<br>Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik. Rich feature hierarchies for accurate object detection and semantic segmentation (2013)
 
 <br><b>Word2Vec</b>
-<br>T. Mikolov et al. Efficient estimation of word representations in vector space. (2013)
+<br>T. Mikolov et al. Efficient estimation of word representations in vector space (2013)
 
 <br><b>Anomaly Detection</b>
 <br>Charu C Aggarwal. An introduction to outlier analysis (2013)
 
 <br><b>Dropout</b>
-<br>N. Srivastava et al. Dropout: A simple way to prevent neural networks from overfitting. (2014)
+<br>N. Srivastava et al. Dropout: A simple way to prevent neural networks from overfitting (2014)
 
 <br><b>Word Representation</b>
 <br>Omer Levy et al. Neural Word Embedding as Implicit Matrix Factorization (2014)
 
 <br><b>Adam</b>
-<br>D. Kingma and J. Ba. Adam: A method for stochastic optimization. (2014) 
+<br>D. Kingma and J. Ba. Adam: A method for stochastic optimization (2014) 
 
 <br><b>COCO (Microsoft Common Objects in Context)</b>
 <br>Tsung-Yi Lin et al. Microsoft COCO: Common Objects in Context (ECCV 2014)
@@ -346,13 +364,13 @@ chinoises de Fohy. (1703).
 <br>Boris van Breugel, Trent Kyono, Jeroen Berrevoets, Mihaela van der Schaar. DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition (ICML 2014)
 
 <br><b>GAN</b>
-<br>I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, Y. Bengio. Generative adversarial nets. (2014)
+<br>I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, Y. Bengio. Generative adversarial nets (2014)
 
 <br><b>FCN</b>
 <br>Jonathan Long, Evan Shelhamer, Trevor Darrell. Fully Convolutional Networks for Semantic Segmentation. (2014)
 
 <br><b>DeepFace</b>
-<br>Y. Taigman et al.DeepFace: Closing the gap to human-level performance in face verification. (2014)
+<br>Y. Taigman et al.DeepFace: Closing the gap to human-level performance in face verification (2014)
 
 <br><b>Seq2Seq</b>
 <br>I. Sutskever et al. Sequence to sequence learning with neural networks. (2014)
@@ -383,11 +401,11 @@ chinoises de Fohy. (1703).
 <br>S. Loffe and C. Szegedy. Batch normalization: Accelerating deep network training by reducing internal covariate shift. (2015)
 
 <br><b>YOLO</b>
-<br>Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi. You Only Look Once: Unified, Real-Time Object Detection. (2015)
+<br>Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi. You Only Look Once: Unified, Real-Time Object Detection (2015)
 
 <br><b>ArcFace</b>
 <br>Jiankang Deng, Jia Guo, Jing Yang, Niannan Xue, Irene Kotsia, and Stefanos Zafeiriou. ArcFace: Additive Angular Margin Loss for Deep
-Face Recognition. (CVPR 2015)
+Face Recognition (CVPR 2015)
 
 <br><b>SUN RGB-D</b>
 <br>Song et al. SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite (IEEE 2015)
@@ -524,7 +542,7 @@ Face Recognition. (CVPR 2015)
 <br>Kaiming He et al. Mask R-CNN for Object Detection and Segmentation (2017)
 
 <br><b>PPO</b>
-<br>Schulman, John, et al. Proximal policy optimization algorithms. (2017)
+<br>Schulman, John, et al. Proximal policy optimization algorithms (2017)
 
 <br><b>NAS(Neural Architecture Search)</b>
 <br>Barret Zoph et al. Neural Architecture Search with Reinforcement Learning (ICLR 2017)
@@ -588,7 +606,7 @@ Face Recognition. (CVPR 2015)
 <br>Tianxiao Shen et al. Style Transfer from Non-Parallel Text by Cross-Alignment (NeurIPS 2017)
 
 <br><b>Transformer</b>
-<br>A. Vaswani et al. Attention is all you need. (2017)
+<br>A. Vaswani et al. Attention is all you need (2017)
 
 <br><b>BERT</b>
 <br>J. Devlin et al. Bert: Pre-training of deep bidirectional transformers for language understanding (2018)
@@ -696,7 +714,7 @@ Face Recognition. (CVPR 2015)
 <br>Michelle A. Lee et al. Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks (ICRA 2019)
 
 <br><b>wav2vec</b>
-<br>S. Schneider et al. wav2vec: Unsupervised pre-training for speech recognition. (Interspeech 2019)
+<br>S. Schneider et al. wav2vec: Unsupervised pre-training for speech recognition (Interspeech 2019)
 <br>Alexei Baevski et al. wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations Neural Turing Machines (NeurlIPS 2020)
 
 <br><b>GPT-3, Prompt Tuning</b>
@@ -719,7 +737,7 @@ Face Recognition. (CVPR 2015)
 <br>C. Lattner et al. MLIR: A compiler infrastructure for the end of Moore’s law (2020)
 
 <br><b>GNN-based Recommendation System</b>
-<br>Xiangnan He et al. LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation. (SIGIR 2020)
+<br>Xiangnan He et al. LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation (SIGIR 2020)
 
 <br><b>OGB (Open Graph Benchmark)</b>
 <br>Hu et al. Open Graph Benchmark: Datasets for Machine Learning on Graphs (NIPS 2020)
@@ -765,10 +783,11 @@ Face Recognition. (CVPR 2015)
 <br>Chin-Yew Lin et al. ROUGE: A Package for Automatic Evaluation of Summaries (2021)
 
 <br><b>Stable Diffusion</b>
-<br>Rombach et al. High-Resolution Image Synthesis with Latent Diffusion Models. (2021)
+<br>Rombach et al. High-Resolution Image Synthesis with Latent Diffusion Models (2021)
 
 <br><b>AlphaFold</b>
 <br>Richard Evans et al. Protein complex prediction with AlphaFold-Multimer. (2021)
+<br>John Jumper et al. Highly accurate protein structure prediction with AlphaFold (Nature 2021)
 
 <br><b>IMDb Movie Reviews</b>
 <br>Andrew L. Maas et al. Learning Word Vectors for Sentiment Analysis (ACL 2021)
@@ -837,6 +856,12 @@ Face Recognition. (CVPR 2015)
 <br>Martin Pawelczyk et al. In-Context Unlearning: Language Models as Few-Shot Unlearners (ICML 2024)
 <br>Michael Duan et al. Do Membership Inference Attacks Work on Large Language Models (COLM 2024)
 
+<br><b>The Nobel Prize in Physics 2024</b>
+<br>John J. Hopfield, Geoffrey E. Hinton
+
+<br><b>The Nobel Prize in Chemistry 2024</b>
+<br>David Baker, Demis Hassabis, John M. Jumper
+
 <br><br><br>
 
 
@@ -848,5 +873,7 @@ Face Recognition. (CVPR 2015)
 <br>[Awesome - Most Cited Deep Learning Papers (Terryum)](https://github.com/terryum/awesome-deep-learning-papers)
 <br>[Papers With Code Machine Learning Datasets](https://paperswithcode.com/datasets)
 <br>[야사와 만화로 배우는 인공지능 강의](https://brunch.co.kr/magazine/yamanin)
+<br>[The Nobel Prize in Physics 2024](https://www.nobelprize.org/prizes/physics/2024/summary/)
+<br>[The Nobel Prize in Chemistry 2024](https://www.nobelprize.org/prizes/chemistry/2024/summary/)
 
 <br><br><br>
