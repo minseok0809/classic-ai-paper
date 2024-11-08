@@ -157,6 +157,9 @@ chinoises de Fohy (1703)
 <br><b>Statistical Machine Learning</b>
 <br>Vladimir Vapnik. The Nature of Statistical Learning Theory (1995)
 
+<br><b>NER(Named-Entity Recognition)</b>
+<br>Lance Ramshaw, Mitch Marcus. Text Chunking using Transformation-Based Learning (VLC-WS 1995)
+
 <br><b>TF-IDF</b>
 <br>Thorsten Joachims. A probabilistic analysis of the rocchio algorithm with tfidf for text categorization (1996)
 
@@ -837,6 +840,7 @@ Face Recognition (CVPR 2015)
 
 <br><b>Quantization</b>
 <br>Hongyu Wang et al. BitNet: Scaling 1-bit Transformers for Large Language Models (2023)
+<br>Shuming Ma et al. The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits (2024)
 
 <br><b>DPO</b>
 <br>Rafael Rafailov et al. Direct Preference Optimization: Your Language Model is Secretly a Reward Model (NeurIPS 2023)
