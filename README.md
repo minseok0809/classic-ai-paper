@@ -563,6 +563,9 @@ Face Recognition (CVPR 2015)
 <br>Danqi Chen et al. Reading Wikipedia to Answer Open-Domain Questions. (ACL 2017)
 <br>Karpukhin et al. Dense Passage Retrieval for Open-Domain Question Answering. (EMNLP, 2020)
 
+<br><b>GraphSAGE</b>
+<br>William L. Hamilton et al. Inductive Representation Learning on Large Graphs (NerulIPS 2017)
+
 <br><b>Loss Function</b>
 <br>Dong Yu et al. Permutation Invariant Training of Deep Models Forspeaker-independent Multi-talker Speech Separation (IEEE 2017)
 
@@ -634,6 +637,9 @@ Face Recognition (CVPR 2015)
 
 <br><b>GLUE</b>
 <br>Wang et al. GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding (EMNLP 2018)
+
+<br><b>GAT</b>
+<br>Petar Veličković et al. Graph Attention Networks (ICLR 2018)
 
 <br><b>fastMRI</b>
 <br>Zbontar et al. fastMRI: An Open Dataset and Benchmarks for Accelerated MRI (2018)
