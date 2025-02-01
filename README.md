@@ -872,6 +872,15 @@ Face Recognition (CVPR 2015)
 <br><b>The Nobel Prize in Chemistry 2024</b>
 <br>David Baker, Demis Hassabis, John M. Jumper
 
+<br><b>Rule-Based Reward</b>
+<br>Yecheng Jason Ma et al. Eureka: Human-Level Reward Design via Coding Large Language Models (ICLR 2024)
+
+<br><b>GRPO(Group Relative Policy Optimization)</b>
+<br>Zhihong Shao et al. DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models (2024)
+
+<br><b>DeepSeek</b>
+<br>DeepSeek-AI. DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (2025)
+
 <br><br><br>
 
 
