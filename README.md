@@ -845,6 +845,8 @@ Face Recognition (CVPR 2015)
 <br>Lukas Berglund et al. The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A" (2023)
 
 <br><b>Quantization</b>
+<br>Tim Dettmers et al. LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale (NeurIPS 2022)
+<br>Tim Dettmers et al. QLoRA: Efficient Finetuning of Quantized LLMs (NeurIPS 2023)
 <br>Hongyu Wang et al. BitNet: Scaling 1-bit Transformers for Large Language Models (2023)
 <br>Shuming Ma et al. The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits (2024)
 
