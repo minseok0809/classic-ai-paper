@@ -605,8 +605,11 @@ Face Recognition (CVPR 2015)
 <br><b>Visual Genome</b>
 <br>Krishna et al. Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations (2017)
 
-<br><b>Alphago Zero</b>
+<br><b>Alphago</b>
 <br>Silver, D et al. Mastering the game of Go without human knowledge (2017)
+
+<br><b>Alphazero</b>
+<br>David Silver et al.  Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm (2017)
 
 <br><b>Text Style Transfer</b>
 <br>Tianxiao Shen et al. Style Transfer from Non-Parallel Text by Cross-Alignment (NeurIPS 2017)
@@ -722,6 +725,9 @@ Face Recognition (CVPR 2015)
 <br><b>Robotics: Vision and Touch Representation</b>
 <br>Michelle A. Lee et al. Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks (ICRA 2019)
 
+<br><b>MuZero</b>
+<br>Julian Schrittwieser et al. Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model  (Nature 2020)
+
 <br><b>wav2vec</b>
 <br>S. Schneider et al. wav2vec: Unsupervised pre-training for speech recognition (Interspeech 2019)
 <br>Alexei Baevski et al. wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations Neural Turing Machines (NeurlIPS 2020)
@@ -787,6 +793,8 @@ Face Recognition (CVPR 2015)
 
 <br><b>Text to Image Generation</b>
 <br>Aditya Ramesh et al. DALL-E: Zero-Shot Text-to-Image Generation (JMLR 2021)
+<br>Aditya Ramesh et al. Hierarchical Text-Conditional Image Generation with CLIP Latents (2022)
+<br>James Betke et al. Improving Image Generation with Better Captions (2023)
 
 <br><b>ROUGE</b>
 <br>Chin-Yew Lin et al. ROUGE: A Package for Automatic Evaluation of Summaries (2021)
@@ -797,6 +805,11 @@ Face Recognition (CVPR 2015)
 <br><b>AlphaFold</b>
 <br>Richard Evans et al. Protein complex prediction with AlphaFold-Multimer. (2021)
 <br>John Jumper et al. Highly accurate protein structure prediction with AlphaFold (Nature 2021)
+<br>Patrick Bryant et al. Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search (Nature Communications 2022)
+<br>Josh Abramson et al. Accurate structure prediction of biomolecular interactions with AlphaFold 3 (Nature 2024)
+
+<br><b>AlphaProteo</b>
+<br>Vinicius Zambaldi et al. De novo design of high-affinity protein binders with AlphaProteo (2024)
 
 <br><b>IMDb Movie Reviews</b>
 <br>Andrew L. Maas et al. Learning Word Vectors for Sentiment Analysis (ACL 2021)
@@ -806,6 +819,12 @@ Face Recognition (CVPR 2015)
 
 <br><b>Stochastic Parrot</b>
 <br>Emily M. Bender et al. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜 (2021)
+
+<br><b>AlphaChord</b>
+<br>Yujia Li et al. Competition-Level Code Generation with AlphaCode (2022)
+
+<br><b>GraphCast</b>
+<br>Remi Lam et al. GraphCast: Learning skillful medium-range global weather forecasting  (2022)
 
 <br><b>OPT</b>
 <br>Susan Zhang et al. OPT: Open Pre-trained Transformer Language Models (2022)
@@ -859,6 +878,9 @@ Face Recognition (CVPR 2015)
 <br><b>AlphaGeometry</b>
 <br>Trieu H. Trinh et al. Solving olympiad geometry without human demonstrations (2024)
 
+<br><b>AlphaProof</b>
+<br>Google Deepmind. AI achieves silver-medal standard solving International Mathematical Olympiad problems  (2024)
+
 <br><b>Habsburg AI</b>
 <br>Ilia Shumailov et al. The Curse of Recursion: Training on Generated Data Makes Models Forget (2023)
 <br>Ilia Shumailov et al. AI models collapse when trained on recursively generated data (Nature 2024)
@@ -867,6 +889,12 @@ Face Recognition (CVPR 2015)
 <br>Weijia Shi et al. Detecting Pretraining Data from Large Language Models (ICLR 2024)
 <br>Martin Pawelczyk et al. In-Context Unlearning: Language Models as Few-Shot Unlearners (ICML 2024)
 <br>Michael Duan et al. Do Membership Inference Attacks Work on Large Language Models (COLM 2024)
+
+<br><b>Veo & Imagen</b>
+<br>Google Deepmind. State-of-the-art video and image generation with Veo 2 and Imagen 3  (2024)
+
+<br><b>RT-X</b>
+<br>Abby O’Neill et al. Open X-Embodiment: Robotic Learning Datasets and RT-X Models  (2024)
 
 <br><b>The Nobel Prize in Physics 2024</b>
 <br>John J. Hopfield, Geoffrey E. Hinton
