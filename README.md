@@ -719,6 +719,9 @@ Face Recognition (CVPR 2015)
 <br><b>T5</b>
 <br>Colin Raffel et al. Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (The Journal of Machine Learning Research 2019)
 
+<br><b>RAG</b>
+<br>Patrick Lewis et al. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (NeurIPS 2020)
+
 <br><b>MoCo</b>
 <br>Kaiming He et al. Momentum Contrast for Unsupervised Visual Representation Learning (2019)
 
@@ -820,6 +823,9 @@ Face Recognition (CVPR 2015)
 <br><b>Stochastic Parrot</b>
 <br>Emily M. Bender et al. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜 (2021)
 
+<br><b>Langchain</b>
+<br>Shunyu Yao et al. ReAct: Synergizing Reasoning and Acting in Language Models (ICLR 2022)
+
 <br><b>AlphaChord</b>
 <br>Yujia Li et al. Competition-Level Code Generation with AlphaCode (2022)
 
@@ -852,6 +858,9 @@ Face Recognition (CVPR 2015)
 
 <br><b>LLAMA</b>
 <br>Touvron et al. LLaMA: Open and Efficient Foundation Language Models (2023)
+
+<br><b>LLaVa</b>
+<br>Haotian Liu et al. Visual Instruction Tuning (NeurIPS 2023)
 
 <br><b>Alpaca, Instruction Tuning</b>
 <br>Rohan Taori et al. Alpaca: A Strong, Replicable Instruction-Following Model (2023)
@@ -891,10 +900,17 @@ Face Recognition (CVPR 2015)
 <br>Michael Duan et al. Do Membership Inference Attacks Work on Large Language Models (COLM 2024)
 
 <br><b>Veo & Imagen</b>
-<br>Google Deepmind. State-of-the-art video and image generation with Veo 2 and Imagen 3  (2024)
+<br>Google Deepmind. State-of-the-art video and image generation with Veo 2 and Imagen 3 (2024)
 
 <br><b>RT-X</b>
-<br>Abby O’Neill et al. Open X-Embodiment: Robotic Learning Datasets and RT-X Models  (2024)
+<br>Abby O’Neill et al. Open X-Embodiment: Robotic Learning Datasets and RT-X Models (2024)
+
+<br><b>Smollm</b>
+<br>Allal, L. B et al. Smollm - blazingly fast and remarkably powerful (2024)
+<br>Loubna Ben Allal et al. SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model (2025)
+
+<br><b>MobileLLM</b>
+<br>Zechun Liu et al. MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases  (ICML 2024)
 
 <br><b>The Nobel Prize in Physics 2024</b>
 <br>John J. Hopfield, Geoffrey E. Hinton
