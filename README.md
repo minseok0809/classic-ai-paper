@@ -782,6 +782,15 @@ Face Recognition (CVPR 2015)
 <br><b>BART</b>
 <br>Mike Lewis et al. BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (ACL 2020)
 
+<br><b>Scaling Law</b>
+<br>Jared Kaplan et al. Scaling Laws for Neural Language Models (2020)
+<br>Tom Henigh et al. Scaling Laws for Autoregressive Generative Modeling  (2020)
+<br>Leo Gao et al. Scaling Laws for Reward Model Overoptimization (2022)
+<br>Aidan Clark et al. Unified Scaling Laws for Routed Language Models  (2022)
+<br>Yi Tay et al. Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers (ICLR 2022)
+<br>Jordan Hoffmann et al. Training Compute-Optimal Large Language Models (NeurIPS 2022)
+<br>Jason Wei et al. Emergent Abilities of Large Language Models (TMLR 2022)
+
 <br><b>Prefix Tuning</b>
 <br>Xiang Lisa Li and Percy Liang. Prefix-tuning: Optimizing continuous prompts for generation. (ACL 2021)
 
