@@ -77,6 +77,9 @@ chinoises de Fohy (1703)
 <br>B. T. Lowerre. The harpy speech recognition system. Carnegie Mellon University. (1976)
 <br>PENG SI OW et al. Filtered beam search in scheduling. (1986)
 
+<br><b>EM Algorithm</b>
+<br>A. P. Dempster et al. Maximum Likelihood from Incomplete Data via the EM Algorithm (Journal of the Royal Statistical Society 1977)
+
 <br><b>Bayesian Optimization</b>
 <br>J Mockus et al. The application of Bayesian methods for seeking the extremum (1978)
 <br>Jasper Snoek et al. Practical Bayesian Optimization of Machine Learning Algorithms (NeurIPS 2012)
