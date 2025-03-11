@@ -137,6 +137,13 @@ chinoises de Fohy (1703)
 <br><b>Mixture of Experts </b>
 <br>Robert A. Jacobs et al. Adaptive Mixtures of Local Experts (MIT Press 1991)
 <br>Noam Shazeer et al. Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer (ICLR 2017)
+<br>Dmitry Lepikhin et al. GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding (ICLR 2021)
+<br>William Fedus et al. Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity (JMLR 2022)
+<br>Barret Zoph et al. ST-MoE: Designing Stable and Transferable Sparse Expert Models (2022)
+<br>Trevor Gale et al. MegaBlocks: Efficient Sparse Training with Mixture-of-Experts (2022)
+<br>Sheng Shen et al. Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models (ICLR 2024)
+
+
 <br>Albert Q. Jiang et al. Mixture of Experts (2024)
 
 <br><b>Object Recognition</b>
