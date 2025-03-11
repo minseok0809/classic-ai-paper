@@ -106,11 +106,17 @@ chinoises de Fohy (1703)
 <br><b>Hopfield Network</b>
 <br>J J Hopfield. Neural networks and physical systems with emergent collective computational abilities (1982)
 
+<br><b>CART</b>
+<br>Breiman, L et al. Classzfication and Regression Trees. (Belmont, CA: Wadsworth International Group 1984)
+
 <br><b>Boltzmann Machines</b>
 <br>Geoffrey E. Hinton et al. A Learning Algorithm for Boltzmann Machines (1985)
 
-<br><b>Distributed representations.</b>
+<br><b>Distributed representations</b>
 <br>Geoffrey E. Hinton et al.  Distributed representations (1986) 
+
+<br><b>Iterative Dichotomiser 3</b>
+<br>Quinlan, R. Induction of decision trees. (Machane Learnzng 1986)
 
 <br><b>Backpropagation</b>
 <br>H. J. Kelley. Gradient Theory of Optimal Flight Paths. ARS Journal, Vol. 30, No. 10, pp. 947-954. (1960)
@@ -121,6 +127,9 @@ chinoises de Fohy (1703)
 
 <br><b>Hidden Markov Models</b>
 <br>Rabiner, L. A. Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition.(Proceedings of the IEEE 1989)
+
+<br><b>MARS(Multivariate Adaptive Regression Splines)</b>
+<br>Friedman, J. H. Multivariate adaptive regression splines. (The Annals of Statzstzcs 1991)
 
 <br><b>Dyslexi</b>
 <br>Geoffrey E. Hinton et al.  Lesioning an attractor network: Investigations of acquired dyslexi (1991) 
