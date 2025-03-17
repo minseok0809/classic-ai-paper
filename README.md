@@ -167,6 +167,9 @@ chinoises de Fohy (1703)
 <br><b>Kneser-Ney Smoothing</b>
 <br>Reinhard Kneser and Hermann Ney. 1995. Improved backing-off for M-gram language modeling (ICASSP 1995)
 
+<br><b>Speech Recognization</b>
+<br>LeCun, Yann et al. Convolutional networks for images, speech, and time series. (The handbook of brain theory and neural networks 1995)
+
 <br><b>BM25</b>
 <br>Stephen Robertson et al. Okapi at TREC-3. In Overview of the Third Text REtrieval Conference(TREC-3). pages 109–126. (1995)
 
@@ -246,9 +249,15 @@ chinoises de Fohy (1703)
 
 <br><b>Deep Belief Network (DBN)</b>
 <br>Geoffrey E. Hinton et al. A fast learning algorithm for deep belief nets (2006)
+<br>Lee Honglak et al. Sparse deep belief net model for visual area V2 (NeurlIPS 2007)
+<br>Hinton, Geoffrey E et al. Reducing the dimensionality of data with neural networks (Science 2006)
+<br>Hinton, Geoffrey E et al. Training products of experts by minimizing contrastive divergence (Neural computation 2002)
 
 <br><b>Autoencoder</b>
 <br>Reducing the dimensionality of data with neural networks (2006)
+
+<br><b>Greedy layer-wise training </b>
+<br>Bengio, Yoshua, et al. "Greedy layer-wise training of deep networks. (NeurlIPS 2007)
 
 <br><b>SLAM</b>
 <br>Davison et al. MonoSLAM: Real-Time Single Camera SLAM (TPAMI 2007)
