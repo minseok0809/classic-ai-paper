@@ -231,6 +231,12 @@ chinoises de Fohy (1703)
 <br><b>Deap Blue</b>
 <br>M Campbell. Deep Blue. (2002)
 
+<br><b>NPLM(Neural Probabilistic Language Model)</b>
+<br>Yoshua Bengio et al. A neural probabilistic language model (Journal of Machine Learning Research 2003)
+
+<br><b>LDA(Latent Dirichlet Allocation)</b>
+<br>David M. Blei et al. A neural probabilistic language model (Journal of Machine Learning Research 2003)
+
 <br><b>CoNLL-2003</b>
 <br>Sang et al. Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition (NAACL 2003)
 
