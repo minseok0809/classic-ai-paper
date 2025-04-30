@@ -84,6 +84,9 @@ chinoises de Fohy (1703)
 <br>J Mockus et al. The application of Bayesian methods for seeking the extremum (1978)
 <br>Jasper Snoek et al. Practical Bayesian Optimization of Machine Learning Algorithms (NeurIPS 2012)
 
+<br><b>Constraint Satisfaction Problem</b>
+<br>Geoffrey E Hinton. Using Relaxation to Find a Puppet. (1979)
+
 <br><b>Outliers Detection</b>
 <br>D. Hawkins. Identification of Outliers (1980)
 
@@ -218,6 +221,10 @@ chinoises de Fohy (1703)
 
 <br><b>DENDRAL</b>
 <br>Edward A. Feigenbaum, Bruce G. Buchanan. DENDRAL and Meta-DENDRAL roots of knowledge systems and expert system applications (1993)
+
+<br><b>Variational AutoEncoder(VAE)</b>
+<br>Geoffrey E Hinton et al. Autoencoders, minimum description length, and helmholtz free energy (NeurIPS 1994)
+<br>Diederik P Kingma, Max Welling. Auto-Encoding Variational Bayes (2013)
 
 <br><b>LSTM</b>
 <br>S. Hochreiter and J. Schmidhuber. Long Short-Term Memory. (1995)
@@ -354,9 +361,6 @@ chinoises de Fohy (1703)
 <br><b>CNN(Alexnet)</b>
 <br>A. Krizhevsky, I. Sutskever, G. E. Hinton. ImageNet Classification with Deep Convolutional Neural Networks (2012)
 <br>Matthew D. Zeiler and Rob Fergus. Visualizing and Understanding Convolutional Networks (ECCV 2014)
-
-<br><b>VAE</b>
-<br>Diederik P Kingma, Max Welling. Auto-Encoding Variational Bayes (2013)
 
 <br><b>SST (Stanford Sentiment Treebank)</b>
 <br>Socher et al. Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank (EMNLP 2013)
