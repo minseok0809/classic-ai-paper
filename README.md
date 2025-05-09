@@ -314,7 +314,7 @@ chinoises de Fohy (1703)
 <br><b>PASCAL VOC</b>
 <br>Mark Everingham et al. The PASCAL Visual Object Classes (VOC) Challenge (IJCV 2010)
 
-<br><b>Fold It</b>
+<br><b>Fold It (Rosetta-based game) </b>
 <br>Seth Cooper et al. Predicting protein structures with a multiplayer online game (Nature 2010)
 
 <br><b>Graphical Models</b>
