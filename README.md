@@ -35,6 +35,12 @@ chinoises de Fohy (1703)
 <br><b>Artificial Intelligence</b>
 <br>John McCarthy, Marvin L. Minsky, Nathaniel Rochester, and Claude E. Shannon. A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence (1955)
 
+<br><b>Bounded Rationality </b>
+<br>Simon, Herbert A.  A Behavioral Model of Rational Choice (1955)
+
+<br><b>Logic Theorist</b>
+<br>By Allen Newell, Herbert A. Simon, and Cliff Shaw (1955)
+
 <br><b>Perceptron</b>
 <br>Frank Rosenblatt. The perceptron: A probabilistic model for information storage and organization in the brain (Psychological Review 1958)
 
