@@ -981,7 +981,11 @@ Face Recognition (CVPR 2015)
 <br>Zhihong Shao et al. DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models (2024)
 
 <br><b>DeepSeek</b>
+<br>DeepSeek-AI et al. DeepSeek-Coder: When the Large Language Model Meets Programming- The Rise of Code Intelligence (2024)
+<br>DeepSeek-AI. DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model (2024)
+<br>DeepSeek-AI. DeepSeek-V3 Technical Report (2024)
 <br>DeepSeek-AI. DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (2025)
+
 
 <br><br><br>
 
