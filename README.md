@@ -986,6 +986,11 @@ Face Recognition (CVPR 2015)
 <br>DeepSeek-AI. DeepSeek-V3 Technical Report (2024)
 <br>DeepSeek-AI. DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (2025)
 
+<br><b>MCP (Model Context Protocol)</b>
+<br>Narajala, V. S. et al.  Enterprise-grade security for the Model Context Protocol (MCP): Frameworks and mitigation strategies  (2025)
+
+<br><b>Aurora</b>
+<br>Cristian Bodnar et al. A Foundation Model for the Earth System (Nature 2025)
 
 <br><br><br>
 
