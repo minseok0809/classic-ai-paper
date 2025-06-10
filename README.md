@@ -143,6 +143,10 @@ chinoises de Fohy (1703)
 <br><b>Dyslexi</b>
 <br>Geoffrey E. Hinton et al.  Lesioning an attractor network: Investigations of acquired dyslexi (1991) 
 
+<br><b>IBM alignment models</b>
+<br>Mays, E., F. J. Damerau et al. Context based spelling correction (Information Processing and Management 1991)
+<br>Peter E Brown et al. The Mathematics of Statistical Machine Translation: Parameter Estimation. (Computational Linguistics, 1993)
+
 <br><b>Mixture of Experts </b>
 <br>Robert A. Jacobs et al. Adaptive Mixtures of Local Experts (MIT Press 1991)
 <br>Noam Shazeer et al. Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer (ICLR 2017)
