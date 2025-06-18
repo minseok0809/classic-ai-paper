@@ -810,7 +810,7 @@ Face Recognition (CVPR 2015)
 <br><b>Robotics: Vision and Touch Representation</b>
 <br>Michelle A. Lee et al. Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks (ICRA 2019)
 
-<br><b>OCGAN
+<br><b>OCGAN</b>
 <br>Pramuditha Perera et al. OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations (CVPR 2019)
 
 <br><b>MuZero</b>
