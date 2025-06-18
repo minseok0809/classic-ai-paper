@@ -137,6 +137,9 @@ chinoises de Fohy (1703)
 <br><b>Hidden Markov Models</b>
 <br>Rabiner, L. A. Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition.(Proceedings of the IEEE 1989)
 
+<br><b>Genetic Algorithms (GA)</b>
+<br>W. Siedlecki et al. A note on genetic algorithms for large-scale feature selection (Pattern <br>Recognition Letters 1989)
+
 <br><b>MARS(Multivariate Adaptive Regression Splines)</b>
 <br>Friedman, J. H. Multivariate adaptive regression splines. (The Annals of Statzstzcs 1991)
 
@@ -167,6 +170,9 @@ chinoises de Fohy (1703)
 
 <br><b>Penn Treebank</b>
 <br>Mitchell P. Marcus et al. Building a Large Annotated Corpus of English: The Penn Treebank (1993)
+
+<br><b>Locally Linear Embedding (LLE)</b>
+<br>Sam T. Roweis1 and Lawrence K. Saul. Nonlinear Dimensionality Reduction by  Locally Linear Embedding (1993)
 
 <br><b>Word Co-occurrence Probabilities</b>
 <br>Ido Dagan et al. Similarity-Based Estimation of Word Cooccurrence Probabilities (ACL 1994)
@@ -242,6 +248,18 @@ chinoises de Fohy (1703)
 <br><b>EQP(Equation Prover)</b>
 <br>William Mccune. Deep Blue. (1997)
 
+<br><b>Kernel PCA</b>
+<br>Sebastian Mika et al. Kernel PCA and De-Noising in Feature Spaces (NIPS 1998)
+
+<br><b>Support Vector Method for Novelty Detection (SVND)</b>
+<br>Bernhard Scholkopf. Support Vector Method for Novelty Detection. (NIPS 1999)
+
+<br><b>Local Outlier Factor (LOF)</b>
+<br>Markus M. Breunig et al. LOF: identifying density-based local outliers (ACM SIGMOD Record 2000)
+
+<br><b>Isometric Feature Mapping (ISOmap)</b>
+<br> J. B. Tenenbaum et al. A Global Geometric Framework for Nonlinear Dimensionality Reduction. (Science 2000)
+
 <br><b>Random Forest</b>
 <br>Leo Breiman. Random Forests. Machine Learning, Volume 45, pages 5–32. (2001)
 
@@ -256,6 +274,12 @@ chinoises de Fohy (1703)
 
 <br><b>CoNLL-2003</b>
 <br>Sang et al. Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition (NAACL 2003)
+
+<br><b>Kernel Fisher Discriminant (KFD)</b>
+<br>Jian Yang et al. Essence of kernel Fisher discriminant: KPCA plus LDA (Pattern Recognition 2004)
+
+<br><b>Support Vector Data Description (SVDD)</b>
+<br>David M.J. Tax et al. Support Vector Data Description (Machine Learning 2004)
 
 <br><b>DRIVE (Digital Retinal Images for Vessel Extraction)</b>
 <br>Joes Staal et al. Ridge-based vessel segmentation in color images of the retina (IEEE 2004)
@@ -278,6 +302,9 @@ chinoises de Fohy (1703)
 
 <br><b>Autoencoder</b>
 <br>Reducing the dimensionality of data with neural networks (2006)
+
+<br><b>Support Vector Regression (SVR)</b>
+<br>Harris Drucker et al. Support Vector Regression Machines (Statistics and Computing 2007) 
 
 <br><b>Greedy layer-wise training </b>
 <br>Bengio, Yoshua, et al. "Greedy layer-wise training of deep networks. (NeurlIPS 2007)
@@ -308,6 +335,10 @@ chinoises de Fohy (1703)
 
 <br><b>t-SNE</b>
 <br>Laurens van der Maaten et al. Visualizing Data using t-SNE (JMLR 2008)
+
+<br><b>Isolation Forest</b>
+<br>Fei Tony Liu et al. Isolation Forest (ICDM 2008)
+<br>Sahand Hariri et al. Extended Isolation Forest (2018)
 
 <br><b>Relation Extraction</b>
 <br>Mintz et al. Distant supervision for relation extraction without labeled data (ACL | IJCNLP 2009)
@@ -779,6 +810,9 @@ Face Recognition (CVPR 2015)
 <br><b>Robotics: Vision and Touch Representation</b>
 <br>Michelle A. Lee et al. Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks (ICRA 2019)
 
+<br><b>OCGAN
+<br>Pramuditha Perera et al. OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations (CVPR 2019)
+
 <br><b>MuZero</b>
 <br>Julian Schrittwieser et al. Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model  (Nature 2020)
 
@@ -940,6 +974,10 @@ Face Recognition (CVPR 2015)
 
 <br><b>DPO</b>
 <br>Rafael Rafailov et al. Direct Preference Optimization: Your Language Model is Secretly a Reward Model (NeurIPS 2023)
+
+<br><b>PINN (Physics-informed neural network) VS FEM(Finite Element Method)
+<br>T.G. Grossmann et al. Can Physics-Informed Neural Networks beat the Finite Element Method? (2024)
+<br>A.S. Kishnapriyan et al. Characterizing possible failure modes in physics-informed neural networks. (NeurIPS 2021)
 
 <br><b>Semantic Planner</b>
 <br>Ma et al. Eureka: Human-Level Reward Design via Coding Large Language Models (ICLR 2024)
