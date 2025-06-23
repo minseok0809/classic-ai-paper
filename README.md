@@ -975,7 +975,7 @@ Face Recognition (CVPR 2015)
 <br><b>DPO</b>
 <br>Rafael Rafailov et al. Direct Preference Optimization: Your Language Model is Secretly a Reward Model (NeurIPS 2023)
 
-<br><b>PINN (Physics-informed neural network) VS FEM(Finite Element Method)
+<br><b>PINN (Physics-informed neural network) VS FEM(Finite Element Method)</b>
 <br>T.G. Grossmann et al. Can Physics-Informed Neural Networks beat the Finite Element Method? (2024)
 <br>A.S. Kishnapriyan et al. Characterizing possible failure modes in physics-informed neural networks. (NeurIPS 2021)
 
