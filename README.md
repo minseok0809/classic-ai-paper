@@ -27,7 +27,11 @@ chinoises de Fohy (1703)
 <br>J Von Neumann. First Draft of a Report on EDVAC (1945)
 
 <br><b>Turing Machine</b>
+<br>A. M. Turing. On Computable Numbers, with an Application to the Entscheidungsproblem (1936)
 <br>A. M. Turing. Intelligent Machinery (1948) 
+
+<br><b>Hebbian Learning</b>
+<br>Donald O. Hebb. The organization of behaviour (1949)
 
 <br><b>Turing Test</b>
 <br>A. M. Turing. Computing Machinery and Intelligence (1950) 
@@ -43,9 +47,16 @@ chinoises de Fohy (1703)
 
 <br><b>Perceptron</b>
 <br>Frank Rosenblatt. The perceptron: A probabilistic model for information storage and organization in the brain (Psychological Review 1958)
+<br>Marvin Minsky and Seymour Papert. Perceptrons (1969)
 
 <br><b>LISP (List Processing)</b>
 <br>By John McCarthy (1958)
+
+<br><b>Logical AI</b>
+<br>John McCarthy. Programs with Common Sense (1958)
+
+<br><b>Machine Learning</b>
+<br>Arthur L. Samuel. Some Studies in Machine Learning Using the Game of Checkers (1959)
 
 <br><b>Alpha-Beta Pruning</b>
 <br>Arthur L. Samuel. Some studies in mahine learning using the game of checkers (1959)
@@ -56,12 +67,21 @@ chinoises de Fohy (1703)
 <br><b>Iris</b>
 <br>R.A. Fisher' et al.  The Use of Multiple Measurements in Taxonomic Problems (1963)
 
+<br><b>Alchemy and Artificial Intelligence</b>
+<br>Hubert Dreyfus. Alchemy and Artificial Intelligence (1965)
+
+<br><b>ELIZA</b>
+<br>Joseph Weizenbaum. ELIZA—a computer program for the study of natural language communication between man and machine (1966)
+
 <br><b>Automata</b>
 <br>J Von Neumann, AW Burks. Theory of self-reproducing automata. (1966)
 <br>Bingbin Liu. Transformers Learn Shortcuts to Automata. (ICLR 2023)
 
 <br><b>K-Nearest Neighbors (K-NN)</b>
 <br>T. M. COVER. Nearest Neighbor Pattern Classification (1967)
+
+<br><b>Student</b>
+<br>Daniel Bobrow et al. Binary Message Forms in Computer Networks (1968)
 
 <br><b>Symbolic AI</b>
 <br>Newell, J. C. Shaw, Allen Simon. Empirical explorations of the logic theory machine: a case study in heuristic (1957)
@@ -79,6 +99,12 @@ chinoises de Fohy (1703)
 <br>A. Klopf. Brain Function and Adaptive Systems: A Heterostatic Theory (1972)
 <br>Satinder P.Singh & Rechard S.Sutton. Reinforcement learning with replacing eligibility traces (1996)
 
+<br><b>Frame</b>
+<br>Marvin Minsky. Framework for Representing Knowledge (1974)
+
+<br><b>Cognitron</b>
+<br>Kunihiko Fukushima. Cognitron: A self-organizing multilayered neural network (Biological Cybernetics  1975)
+
 <br><b>Beam Search</b>
 <br>B. T. Lowerre. The harpy speech recognition system. Carnegie Mellon University. (1976)
 <br>PENG SI OW et al. Filtered beam search in scheduling. (1986)
@@ -92,6 +118,9 @@ chinoises de Fohy (1703)
 
 <br><b>Constraint Satisfaction Problem</b>
 <br>Geoffrey E Hinton. Using Relaxation to Find a Puppet. (1979)
+
+<br><b>Chinese Room Argument</b>
+<br>John Searle. Minds, brains, and programs (1980) 
 
 <br><b>Outliers Detection</b>
 <br>D. Hawkins. Identification of Outliers (1980)
@@ -115,11 +144,20 @@ chinoises de Fohy (1703)
 <br><b>Hopfield Network</b>
 <br>J J Hopfield. Neural networks and physical systems with emergent collective computational abilities (1982)
 
+<br><b>Cognitive wheels</b>
+<br>Daniel Dennett. Cognitive wheels: The frame problem of AI (1984)
+
+<br><b>Euriko</b>
+<br>by Douglas Lenat (1984)
+
 <br><b>CART</b>
 <br>Breiman, L et al. Classzfication and Regression Trees. (Belmont, CA: Wadsworth International Group 1984)
 
 <br><b>Boltzmann Machines</b>
 <br>Geoffrey E. Hinton et al. A Learning Algorithm for Boltzmann Machines (1985)
+
+<br><b>KL-ONE</b>
+<br>Ronald J. Brachman et al. An overview of the KL-ONE Knowledge Representation System (Cognitive Science 1985)
 
 <br><b>Distributed representations</b>
 <br>Geoffrey E. Hinton et al.  Distributed representations (1986) 
@@ -127,8 +165,13 @@ chinoises de Fohy (1703)
 <br><b>Iterative Dichotomiser 3</b>
 <br>Quinlan, R. Induction of decision trees. (Machane Learnzng 1986)
 
+<br><b>NETtalk</b>
+<br>Terrence J. Sejnowski et al. NETtalk: a parallel network that learns to read aloud  (1986)
+
 <br><b>Backpropagation</b>
 <br>H. J. Kelley. Gradient Theory of Optimal Flight Paths. ARS Journal, Vol. 30, No. 10, pp. 947-954. (1960)
+<br>Stuart Dreyfus. The numerical solution of variational problems (1962)
+<br>S. Linnainmaa. The representation of the cumulative rounding error of an algorithm as a Taylor expansion of the local rounding errors (1970)
 <br>David E. Rumelhart et al. Learning representations by back-propagating errors (1986)
 
 <br><b>Katz's back-off model</b>
@@ -139,6 +182,12 @@ chinoises de Fohy (1703)
 
 <br><b>Genetic Algorithms (GA)</b>
 <br>W. Siedlecki et al. A note on genetic algorithms for large-scale feature selection (Pattern <br>Recognition Letters 1989)
+
+<br><b>Symbol Grounding</b>
+<br>Stevan Harnad. The symbol grounding problem (1990)
+
+<br><b>Nouvelle AI</b>
+<br>Rodney A. Brooks. Elephants Don't Play Chess (Robotics and Autonomous Systems 1990)
 
 <br><b>MARS(Multivariate Adaptive Regression Splines)</b>
 <br>Friedman, J. H. Multivariate adaptive regression splines. (The Annals of Statzstzcs 1991)
@@ -158,8 +207,6 @@ chinoises de Fohy (1703)
 <br>Barret Zoph et al. ST-MoE: Designing Stable and Transferable Sparse Expert Models (2022)
 <br>Trevor Gale et al. MegaBlocks: Efficient Sparse Training with Mixture-of-Experts (2022)
 <br>Sheng Shen et al. Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models (ICLR 2024)
-
-
 <br>Albert Q. Jiang et al. Mixture of Experts (2024)
 
 <br><b>Object Recognition</b>
@@ -1033,6 +1080,13 @@ Face Recognition (CVPR 2015)
 
 <br><b>Aurora</b>
 <br>Cristian Bodnar et al. A Foundation Model for the Earth System (Nature 2025)
+
+<br><b>The Common pile v.01</b>
+<br>Nikhil Kandpal et al. The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text (2025)
+
+<br><b>Misaligned persona</b>
+<br>Miles Wang et al. Persona Features Control Emergent Misalignment (2025)
+
 
 <br><br><br>
 
