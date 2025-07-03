@@ -1096,7 +1096,7 @@ Face Recognition (CVPR 2015)
 <br>Miles Wang et al. Persona Features Control Emergent Misalignment (2025)
 
 <br><b>Amzon DeepFleet</b>
-<br>[Amazon launches a new AI foundation model to power its robotic fleet and deploys its 1 millionth robot] (2025) (https://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model)
+<br>[Amazon launches a new AI foundation model to power its robotic fleet and deploys its 1 millionth robot](https://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model) (2025) 
 <br>[Amazon’s tiny robot drives do the heavy lifting](https://www.amazon.science/latest-news/amazon-robotics-autonomous-drive-units-hercules-pegasus-xanthus-xbot) (2022)
 
 <br><br><br>
