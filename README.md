@@ -539,6 +539,9 @@ chinoises de Fohy (1703)
 <br>Jiankang Deng, Jia Guo, Jing Yang, Niannan Xue, Irene Kotsia, and Stefanos Zafeiriou. ArcFace: Additive Angular Margin Loss for Deep
 Face Recognition (CVPR 2015)
 
+<br><b>PReLU(Parametric Rectified Lienar Unit)</b>
+<br>Kaiming He et al. Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (2015)
+
 <br><b>SUN RGB-D</b>
 <br>Song et al. SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite (IEEE 2015)
 
@@ -577,7 +580,7 @@ Face Recognition (CVPR 2015)
 <br>Yann LeCun, Yoshua Bengio, Geoffrey Hinton. Deep learning (NatureDeepReview 2015)
 
 <br><b>TRPO</b>
-<br>Schulman, John et al. Trust Region Policy Optimization. (2015)
+<br>Schulman, John et al. Trust Region Policy Optimization (2015)
 
 <br><b>A3C (Asynchronous Advantage Actor Critic)</b>
 <br>Volodymyr Mni et al. Asynchronous Methods for Deep Reinforcement Learning (ICML 2016)
@@ -662,6 +665,11 @@ Face Recognition (CVPR 2015)
 
 <br><b>Continual Learning</b>
 <br>James Kirkpatrick et al. Overcoming catastrophic forgetting in neural networks (2016)
+
+<br><b>Federated Learning</b>
+<br>H. Brendan McMahan et al. Communication-Efficient Learning of Deep Networks from Decentralized Data (2016)
+<br>Jakub Konečný et al. Federated Learning: Strategies for Improving Communication Efficiency (2018)
+<br>Tian Li et al. Federated Learning: Challenges, Methods, and Future Directions (2020)
 
 <br><b>Random Erasing</b>
 <br>Sachin Ravi et al. Optimization as a Model For Few-Shot Learning (2016)
@@ -1087,6 +1095,9 @@ Face Recognition (CVPR 2015)
 <br><b>Misaligned persona</b>
 <br>Miles Wang et al. Persona Features Control Emergent Misalignment (2025)
 
+<br><b>Amzon DeepFleet</b>
+<br>[Amazon launches a new AI foundation model to power its robotic fleet and deploys its 1 millionth robot] (2025) (https://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model)
+<br>[Amazon’s tiny robot drives do the heavy lifting](https://www.amazon.science/latest-news/amazon-robotics-autonomous-drive-units-hercules-pegasus-xanthus-xbot) (2022)
 
 <br><br><br>
 
