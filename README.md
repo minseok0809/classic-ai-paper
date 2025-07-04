@@ -1118,7 +1118,7 @@ Face Recognition (CVPR 2015)
 <br>Miles Wang et al. Persona Features Control Emergent Misalignment (2025)
 
 <br><b>AlphaGenome</b>
-<br>Žiga Avsec et al. AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model (Google DeepMind 2025)
+<br>Žiga Avsec et al. AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model (2025)
 
 <br><b>Amzon DeepFleet</b>
 <br>[Amazon launches a new AI foundation model to power its robotic fleet and deploys its 1 millionth robot](https://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model) (2025) 
