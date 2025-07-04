@@ -591,6 +591,9 @@ Face Recognition (CVPR 2015)
 <br><b>DeepLab</b>
 <br>Liang-Chieh Chen et al. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs (TPAMI 2016)
 
+<br><b>Face Rigging</b>
+<br>Reconstruction of Personalized 3D Face Rigs from Monocular Video (ACM 2016)
+
 <br><b>R-FCN</b>
 <br>Jifeng Dai et al. R-FCN: Object Detection via Region-based Fully Convolutional Networks (2016)
 
@@ -802,6 +805,9 @@ Face Recognition (CVPR 2015)
 <br><b>Albumentations</b>
 <br>Alexander Buslaev et al. Albumentations: fast and flexible image augmentations (2018)
 
+<br><b>ERNIE</b>
+<br>Yu Sun et al. ERNIE: Enhanced Representation through Knowledge Integration (2019)
+
 <br><b>AlphaStar</b>
 <br>Google Deepmind. AlphaStar: Mastering the real-time strategy game StarCraft II (2019)
 
@@ -837,6 +843,9 @@ Face Recognition (CVPR 2015)
 
 <br><b>CoLA (Corpus of Linguistic Acceptability)</b>
 <br>Warstadt et al. Neural Network Acceptability Judgments (TACL 2019)
+
+<br><b>Capture of Facial Geometry</b>
+<br>Thabo Beeler et al. High-Quality Single-Shot Capture of Facial Geometry (ACM 2019)
 
 <br><b>Data Augmentation </b>
 <br>Jason Wei et al. EDA : Easy Data Augmentation Techniques for Boosting Performance on Text Classification (EMNLP-IJCNLP 2019)
@@ -953,6 +962,7 @@ Face Recognition (CVPR 2015)
 
 <br><b>Stable Diffusion</b>
 <br>Rombach et al. High-Resolution Image Synthesis with Latent Diffusion Models (2021)
+<br>Lvmin Zhang et al. Adding Conditional Control to Text-to-Image Diffusion Models (2023)
 
 <br><b>AlphaFold</b>
 <br>Richard Evans et al. Protein complex prediction with AlphaFold-Multimer. (2021)
@@ -1001,6 +1011,15 @@ Face Recognition (CVPR 2015)
 
 <br><b>Joint Embedding Predictive Architecture(JEPA)</b>
 <br>Yann LeCun et al. A Path Towards Autonomous Machine Intelligence (2022)
+
+<br><b>Neural Jacobian Fields (NJF)</b>
+<br>Noam Aigerman et al. Neural Jacobian Fields: Learning Intrinsic Mappings of Arbitrary Meshes (ACM 2022)
+<br>Sizhe Lester Li et al. Controlling diverse robots by inferring Jacobian fields with deep networks (Nature 2025)
+
+<br><b>Qwen-VL</b>
+<br>Jinze Bai et al. Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond (2023)
+<br>Peng Wanget al. Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution (2024)
+<br>Shuai Bai et al. Qwen2.5-VL Technical Report (2025)
 
 <br><b>GPT-4</b>
 <br>Baolin Peng et al. Instruction Tuning with GPT-4 (EMNLP 2023)
@@ -1052,6 +1071,9 @@ Face Recognition (CVPR 2015)
 <br>Martin Pawelczyk et al. In-Context Unlearning: Language Models as Few-Shot Unlearners (ICML 2024)
 <br>Michael Duan et al. Do Membership Inference Attacks Work on Large Language Models (COLM 2024)
 
+<br><b>Visual AutoRegressive Modeling </b>
+<br>Keyu Tian et al. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction (NeurIPS 2024)
+
 <br><b>Veo & Imagen</b>
 <br>Google Deepmind. State-of-the-art video and image generation with Veo 2 and Imagen 3 (2024)
 
@@ -1094,6 +1116,9 @@ Face Recognition (CVPR 2015)
 
 <br><b>Misaligned persona</b>
 <br>Miles Wang et al. Persona Features Control Emergent Misalignment (2025)
+
+<br><b>AlphaGenome</b>
+<br>Žiga Avsec et al. AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model (Google DeepMind 2025)
 
 <br><b>Amzon DeepFleet</b>
 <br>[Amazon launches a new AI foundation model to power its robotic fleet and deploys its 1 millionth robot](https://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model) (2025) 
