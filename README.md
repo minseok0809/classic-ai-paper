@@ -281,6 +281,7 @@ chinoises de Fohy (1703)
 <br><b>RNN</b>
 <br>Rumelhart, David E; Hinton, Geoffrey E, and Williams, Ronald J. Learning internal representations by error propagation (Sept. 1985)
 <br>Jordan, Michael I. Serial order: a parallel distributed processing approach (1986)
+<br>Williams, R. J et al. Gradient-based learning algorithms for recurrent networks and their computational complexity. In Back-propagation: Theory, Architectures and Applications (1992)
 
 <br><b>DENDRAL</b>
 <br>Edward A. Feigenbaum, Bruce G. Buchanan. DENDRAL and Meta-DENDRAL roots of knowledge systems and expert system applications (1993)
@@ -290,7 +291,7 @@ chinoises de Fohy (1703)
 <br>Diederik P Kingma, Max Welling. Auto-Encoding Variational Bayes (2013)
 
 <br><b>LSTM</b>
-<br>S. Hochreiter and J. Schmidhuber. Long Short-Term Memory. (1995)
+<br>S. Hochreiter and J. Schmidhuber. Long Short-Term Memory (1995)
 
 <br><b>EQP(Equation Prover)</b>
 <br>William Mccune. Deep Blue. (1997)
