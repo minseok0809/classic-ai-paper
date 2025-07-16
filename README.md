@@ -770,6 +770,10 @@ Face Recognition (CVPR 2015)
 <br><b>RoBERTa</b>
 <br>Yinhan Liu et al. RoBERTa: A Robustly Optimized BERT Pretraining Approach (2018)
 
+<br><b>Reinforcement Learning</b>
+<br>Richard S. Sutton and Andrew G. Barto. Reinforcement Learning: An Introduction (2018)
+<br>David Silver et al. Reward is enough (Artificial Intelligentce 2021)
+
 <br><b>CornerNet</b>
 <br>Hei Law et al. CornerNet: Detecting Objects as Paired Keypoints (ECCV 2018)
 
@@ -1117,6 +1121,12 @@ Face Recognition (CVPR 2015)
 
 <br><b>Misaligned persona</b>
 <br>Miles Wang et al. Persona Features Control Emergent Misalignment (2025)
+
+<br><b>SeRL</b>
+<br>Wenkai Fang et al. SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data (2025)
+
+<br><b>Strategic Deception</b>
+<br>Kai Wang et al. When Thinking LLMs Lie: Unveiling the Strategic Deception in Representations of Reasoning Models (2025)
 
 <br><b>AlphaGenome</b>
 <br>Žiga Avsec et al. AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model (2025)
