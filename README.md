@@ -1,8 +1,45 @@
 # Classic AI Paper
 
+<br><b>Talos</b>
+<br>Greek & Roman Mythology
+
+<br><b>Automatic Slave</b>
+<br>Aristotle. Politics (BC 350)
+
+<br><b>Automata </b>
+<br>Hero. About Automata (1589)
+
+<br><b>Tree of Porphyry</b>
+<br>Porphyry (3 Century)
+
+<br><b>Takwin</b>
+<br>Abir Ibn Hayyan. Book of Stones  (7-8 Century)
+
+<br><b>Ars magna</b>
+<br>Ramon Llull (1232–1315)
+
+<br><b>Golem</b>
+<br>Rabbi Loew (15-16th century)
+
+<br><b>Problem of Points</b>
+<br>Pascal’s Letters to Fermat on the "Problem of Points" (1654)
+
+<br><b>Chain Rule</b>
+<br>Godefroy-Guillaume Leibnitz (1676)
+
 <br><b>Binary arithmetic</b>
 <br>Godefroy-Guillaume Leibnitz. Explication de l’arithmétique binaire, qui se sert des seuls caractères O et I avec des remarques sur son utilité et sur ce qu’elle donne le sens des anciennes figures
 chinoises de Fohy (1703)
+
+<br><b>Laputa</b>
+<br>Jonathan Swift. Gulliver's Travels (1726)
+
+<br><b>Bayes' theorem</b>
+<br>Thomas Bayes. An Essay Towards Solving a Problem in the Doctrine of Chance (1763)
+
+<br><b>Ordinary Least Squares (OLS)</b>
+<br>Legendre (1805)
+<br>Gauss (1809)
 
 <br><b>Boolean Algebra</b>
 <br>George Boole. The Laws of Thought (1854)
@@ -11,11 +48,39 @@ chinoises de Fohy (1703)
 <br>Ludwig Boltzmann. On the Relationship between the Second Fundamental Theorem of the Mechanical Theory of Heat and Probability Calculations Regarding the Conditions for Thermal Equilibrium (1877)
 <br>Claude E. Shannon. A Mathematical Theory of Communication (1948)
 
+<br><b>First-Order Logic</b>
+<br>Gottlob Frege. Concept Writing (1879)
+
 <br><b>Anomaly Detection</b>
 <br>K. Pearson. On lines and planes of closest fit to systems of points in space (Philosophical Magazine 1901)
 
+<br><b>Principia Mathematica</b>
+<br>Russell and Whitehead. Principia Mathematica (1910-1913)
+
+<br><b>El Ajedrecista </b>
+<br>Torres Quevedo (1912)
+
+<br><b>Ising model </b>
+<br>Ernst Ising and Wilhelm Lenz. The Ising model (or Lenz–Ising model) (1925)
+
+<br><b>Incompleteness Theorems</b>
+<br>Kurt Friedrich Gödel. On Formally Undecidable Propositions of Principia Mathematica and Related Systems (1931)
+
+<br><b>Lambda Calculus</b>
+<br>Alonzo Church. An Unsolvable Problem of Elementary Number Theory (1936)
+
 <br><b>Logic Gate</b>
 <br>Claude E. Shannon. A Symbolic Analysis of Relay and Switching Circuits (1937)
+
+<br><b>Z3 </b>
+<br>Konrad Zuse (1938-1941)
+<br>R. Rojas. How to make Zuse's Z3 a universal computer (1998)
+
+<br><b>Nimatron</b>
+<br>Edward Condon (1940)
+
+<br><b>Process Control Computer</b>
+<br>Konrad Zuse (1941)
 
 <br><b>McCulloch & Pitss Model</b>
 <br>Warren McCulloch and Walter Pitss et al. A Logical Calculus of The Ideas Immanent in Nervous Activity (1943)
@@ -25,6 +90,12 @@ chinoises de Fohy (1703)
 
 <br><b>Von Neumann Architecture</b>
 <br>J Von Neumann. First Draft of a Report on EDVAC (1945)
+
+<br><b>As We May Think</b>
+<br>Vannevar Bush. As We May Think (1945)
+
+<br><b>Cybernetics</b>
+<br>Norbert Wiener. Cybernetics: Or Control and Communication in the Animal and the Machine (1948)
 
 <br><b>Turing Machine</b>
 <br>A. M. Turing. On Computable Numbers, with an Application to the Entscheidungsproblem (1936)
@@ -57,6 +128,9 @@ chinoises de Fohy (1703)
 
 <br><b>Machine Learning</b>
 <br>Arthur L. Samuel. Some Studies in Machine Learning Using the Game of Checkers (1959)
+
+<br><b>Dependency Grammar</b>
+<br>Lucien Tesnière (1959) 
 
 <br><b>Alpha-Beta Pruning</b>
 <br>Arthur L. Samuel. Some studies in mahine learning using the game of checkers (1959)
@@ -182,6 +256,9 @@ chinoises de Fohy (1703)
 
 <br><b>Genetic Algorithms (GA)</b>
 <br>W. Siedlecki et al. A note on genetic algorithms for large-scale feature selection (Pattern <br>Recognition Letters 1989)
+
+<br><b>Chinook</b>
+<br>Jonathan Schaeffer et al. (1989)
 
 <br><b>Symbol Grounding</b>
 <br>Stevan Harnad. The symbol grounding problem (1990)
@@ -1028,6 +1105,7 @@ Face Recognition (CVPR 2015)
 
 <br><b>GPT-4</b>
 <br>Baolin Peng et al. Instruction Tuning with GPT-4 (EMNLP 2023)
+<br>OpenAI. GPT-4 Technical Report (2023)
 
 <br><b>LLAMA</b>
 <br>Touvron et al. LLaMA: Open and Efficient Foundation Language Models (2023)
@@ -1110,6 +1188,36 @@ Face Recognition (CVPR 2015)
 <br>DeepSeek-AI. DeepSeek-V3 Technical Report (2024)
 <br>DeepSeek-AI. DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (2025)
 
+<br><b>WinoGrande</b>
+<br>Keisuke Sakaguchi et al. WinoGrande: An Adversarial Winograd Schema Challenge at Scale (2019)
+
+<br><b>HellaSwag</b>
+<br>Rowan Zellers et al. HellaSwag: Can a Machine Really Finish Your Sentence? (ACL 2019)
+
+<br><b>Measuring Massive Multitask Language Understanding (MMLU) </b>
+<br>Dan Hendrycks et al. Measuring Massive Multitask Language Understanding (ICLR 2021)
+<br>Yubo Wang et al. MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark (NeurIPS 2024)
+
+<br><b>Codex. HumanEval</b>
+<br>Mark Chen et al. Evaluating Large Language Models Trained on Code (2021)
+
+<br><b>TruthfulQA</b>
+<br>Stephanie Lin et al. TruthfulQA: Measuring How Models Mimic Human Falsehoods (ACL 2022)
+
+<br><b>FrontierMath</b>
+<br>Elliot Glazer et al. FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI (2024)
+
+<br><b>SWE-Lancer</b>
+<br>Samuel Miserendino et al. SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering? (2025)
+
+<br><b>ARC-AGI</b>
+<br>Francois Chollet. On the Measure of Intelligence (2019)
+<br>Francois Chollet et al. ARC Prize 2024: Technical Report (2024)
+<br>Francois Chollet et al.  ARC-AGI-2: A New Challenge for Frontier AI Reasoning Systems (2025)
+
+<br><b>Humanity's Last Exam (HLE)</b>
+<br>Long Phan et al. Humanity's Last Exam (2025)
+
 <br><b>MCP (Model Context Protocol)</b>
 <br>Narajala, V. S. et al.  Enterprise-grade security for the Model Context Protocol (MCP): Frameworks and mitigation strategies  (2025)
 
@@ -1146,6 +1254,7 @@ Face Recognition (CVPR 2015)
 <br>[Awesome - Most Cited Deep Learning Papers (Terryum)](https://github.com/terryum/awesome-deep-learning-papers)
 <br>[Papers With Code Machine Learning Datasets](https://paperswithcode.com/datasets)
 <br>[야사와 만화로 배우는 인공지능 강의](https://brunch.co.kr/magazine/yamanin)
+<br>[History of AI](https://www.jform.co.kr/ai/history/)
 <br>[The Nobel Prize in Physics 2024](https://www.nobelprize.org/prizes/physics/2024/summary/)
 <br>[The Nobel Prize in Chemistry 2024](https://www.nobelprize.org/prizes/chemistry/2024/summary/)
 
