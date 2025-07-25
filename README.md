@@ -1243,6 +1243,15 @@ Face Recognition (CVPR 2015)
 <br>[Amazon launches a new AI foundation model to power its robotic fleet and deploys its 1 millionth robot](https://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model) (2025) 
 <br>[Amazon’s tiny robot drives do the heavy lifting](https://www.amazon.science/latest-news/amazon-robotics-autonomous-drive-units-hercules-pegasus-xanthus-xbot) (2022)
 
+<br><b>Choice-Supportive Bias</b>
+<br>Dharshan Kumaran et al. How Overconfidence in Initial Choices and Underconfidence Under Criticism Modulate Change of Mind in Large Language Models (2025)
+
+<br><b>Arch-Router</b>
+<br>Co Tran et al. Arch-Router: Aligning LLM Routing with Human Preferences  (2025)
+
+<br><b>Monte Carlo Tree Diffusion (MCTD)</b>
+<br>Jaesik Yoon et al. Monte Carlo Tree Diffusion for System 2 Planning (2025)
+
 <br><br><br>
 
 
