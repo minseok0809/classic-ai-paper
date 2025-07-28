@@ -239,6 +239,9 @@ chinoises de Fohy (1703)
 <br><b>KL-ONE</b>
 <br>Ronald J. Brachman et al. An overview of the KL-ONE Knowledge Representation System (Cognitive Science 1985)
 
+<br><b>On Bullshit</b>
+<br>Harry Frankfurt (1986)
+
 <br><b>Distributed representations</b>
 <br>Geoffrey E. Hinton et al.  Distributed representations (1986) 
 
@@ -1194,6 +1197,12 @@ Face Recognition (CVPR 2015)
 <br><b>Veo & Imagen</b>
 <br>Google Deepmind. State-of-the-art video and image generation with Veo 2 and Imagen 3 (2024)
 
+<br><b>Antagonistic AI </b>
+<br>Alice Cai et al. Antagonistic AI (2024)
+
+<br><b>Semantic Entropy</b>
+<br>Sebastian Farquhar et al. Detecting hallucinations in large language models using semantic entropy (Nature 2024)
+
 <br><b>RT-X</b>
 <br>Abby O’Neill et al. Open X-Embodiment: Robotic Learning Datasets and RT-X Models (2024)
 
@@ -1241,6 +1250,12 @@ Face Recognition (CVPR 2015)
 <br><b>FrontierMath</b>
 <br>Elliot Glazer et al. FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI (2024)
 
+<br><b>Social Sycophancy</b>
+<br>Myra Cheng et al. Social Sycophancy: A Broader Understanding of LLM Sycophancy (2025)
+
+<br><b>Cognitive Debt</b>
+<br>Nataliya Kosmyna et al. Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task (2025)
+
 <br><b>SWE-Lancer</b>
 <br>Samuel Miserendino et al. SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering? (2025)
 
@@ -1253,7 +1268,7 @@ Face Recognition (CVPR 2015)
 <br>Long Phan et al. Humanity's Last Exam (2025)
 
 <br><b>MCP (Model Context Protocol)</b>
-<br>Narajala, V. S. et al.  Enterprise-grade security for the Model Context Protocol (MCP): Frameworks and mitigation strategies  (2025)
+<br>Narajala, V. S. et al.  Enterprise-grade security for the Model Context Protocol (MCP): Frameworks and mitigation strategies (2025)
 
 <br><b>Aurora</b>
 <br>Cristian Bodnar et al. A Foundation Model for the Earth System (Nature 2025)
@@ -1263,6 +1278,9 @@ Face Recognition (CVPR 2015)
 
 <br><b>Misaligned persona</b>
 <br>Miles Wang et al. Persona Features Control Emergent Misalignment (2025)
+
+<br><b>Agentic Misalignment</b>
+<br>Anthropic. Agentic Misalignment: How LLMs could be insider threats (2025)
 
 <br><b>SeRL</b>
 <br>Wenkai Fang et al. SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data (2025)
