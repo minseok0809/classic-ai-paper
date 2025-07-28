@@ -13,7 +13,7 @@
 <br>Porphyry (3 Century)
 
 <br><b>Takwin</b>
-<br>Abir Ibn Hayyan. Book of Stones  (7-8 Century)
+<br>Abir Ibn Hayyan. Book of Stones (7-8 Century)
 
 <br><b>Ars magna</b>
 <br>Ramon Llull (1232–1315)
@@ -104,6 +104,9 @@ chinoises de Fohy (1703)
 <br><b>Hebbian Learning</b>
 <br>Donald O. Hebb. The organization of behaviour (1949)
 
+<br><b>Playing Chess</b>
+<br>Claude Elwood Shannon. Programming a Computer for Playing Chess (Philosophical Magazine 1950)
+
 <br><b>Turing Test</b>
 <br>A. M. Turing. Computing Machinery and Intelligence (1950) 
 
@@ -134,6 +137,9 @@ chinoises de Fohy (1703)
 
 <br><b>Alpha-Beta Pruning</b>
 <br>Arthur L. Samuel. Some studies in mahine learning using the game of checkers (1959)
+
+<br><b>GPS(General Problem Solver)</b>
+<br>Allen Newell. A Guide to The General Problem-solver Program GPS-2-2 (1963)
 
 <br><b>Decision Tree</b>
 <br>Morgan, J.N. & Sonquist, J.A. Problems in the analysis of survey data, and a proposal. (1963)
@@ -177,7 +183,7 @@ chinoises de Fohy (1703)
 <br>Marvin Minsky. Framework for Representing Knowledge (1974)
 
 <br><b>Cognitron</b>
-<br>Kunihiko Fukushima. Cognitron: A self-organizing multilayered neural network (Biological Cybernetics  1975)
+<br>Kunihiko Fukushima. Cognitron: A self-organizing multilayered neural network (Biological Cybernetics 1975)
 
 <br><b>Beam Search</b>
 <br>B. T. Lowerre. The harpy speech recognition system. Carnegie Mellon University. (1976)
@@ -250,6 +256,9 @@ chinoises de Fohy (1703)
 
 <br><b>Katz's back-off model</b>
 <br>Katz, S. M. Estimation of probabilities from sparse data for the language model component of a speech recognizer (1987)
+
+<br><b>Connect-Four</b>
+<br>Victor Allis. A Knowledge-Based Approach of Connect-Four (ICGA Journal 1988)
 
 <br><b>Hidden Markov Models</b>
 <br>Rabiner, L. A. Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition.(Proceedings of the IEEE 1989)
@@ -328,6 +337,9 @@ chinoises de Fohy (1703)
 <br><b>TF-IDF</b>
 <br>Thorsten Joachims. A probabilistic analysis of the rocchio algorithm with tfidf for text categorization (1996)
 
+<br><b>Logistello</b>
+<br>Michael Buro. The othello match of the year: Takeshi murakami vs. logistello (ICGA Journal 1997)
+
 <br><b>LeNet</b>
 <br>Yann LeCun et al. GradientBased Learning Applied to Document Recognition (IEEE 1998)
 
@@ -390,6 +402,9 @@ chinoises de Fohy (1703)
 
 <br><b>Deap Blue</b>
 <br>M Campbell. Deep Blue. (2002)
+
+<br><b>Kismet</b>
+<br>Cynthia Breazeal.  Emotion and sociable humanoid robots (IJHCS 2003)
 
 <br><b>NPLM(Neural Probabilistic Language Model)</b>
 <br>Yoshua Bengio et al. A neural probabilistic language model (Journal of Machine Learning Research 2003)
@@ -549,6 +564,9 @@ chinoises de Fohy (1703)
 <br><b>Anomaly Detection</b>
 <br>Charu C Aggarwal. An introduction to outlier analysis (2013)
 
+<br><b>Never Ending Image Learner (NEIL)</b> 
+<br>Xinlei Chen et al. NEIL: Extracting Visual Knowledge from Web Data (ICCV 2013)
+
 <br><b>Dropout</b>
 <br>N. Srivastava et al. Dropout: A simple way to prevent neural networks from overfitting (2014)
 
@@ -597,6 +615,9 @@ chinoises de Fohy (1703)
 
 <br><b>Text Classification with CNN</b>
 <br>Yoon Kim. Convolutional Neural Networks for Sentence Classification (EMNLP 2014)
+
+<br><b>Autonomous Weapons Open Letter: AI & Robotics Researchers</b>
+<br>Barbara J. Grosz, Demis Hassabis, Stephen Hawking, Kathryn McElroy, Elon Musk, Steve Wozniak et al. (IJCAI 2015)
 
 <br><b>CAM(Class-Activation Map)</b>
 <br>Maxime Oquab et al. Is Object Localization for Free? - Weakly-Supervised Learning With Convolutional Neural Networks (CVPR 2015)
@@ -659,6 +680,10 @@ Face Recognition (CVPR 2015)
 
 <br><b>TRPO</b>
 <br>Schulman, John et al. Trust Region Policy Optimization (2015)
+
+<br><b>Eugene Goostman 2014</b>
+<br>Kevin Warwick and Huma Shah. Can machines think? A report on Turing test experiments at the Royal Society (JEAIL 2016)
+<br>Kevin Warwick and Huma Shah. Passing the Turing Test Does Not Mean the End of Humanity (Cognitive Computation 2016)
 
 <br><b>A3C (Asynchronous Advantage Actor Critic)</b>
 <br>Volodymyr Mni et al. Asynchronous Methods for Deep Reinforcement Learning (ICML 2016)
@@ -755,6 +780,9 @@ Face Recognition (CVPR 2015)
 <br><b>Random Erasing</b>
 <br>Sachin Ravi et al. Optimization as a Model For Few-Shot Learning (2016)
 <br>Zhun Zhong et al. Random Erasing Data Augmentation (2017)
+
+<br><b>Sophia</b>
+<br>Ben Goertzel et al. Loving AI: Humanoid Robots as Agents of Human Consciousness Expansion (summary of early research progress) (2017)
 
 <br><b>RetinaNet</b>
 <br>Tsung-Yi Lin et al. Focal loss for dense object detection (2017)
@@ -1103,6 +1131,12 @@ Face Recognition (CVPR 2015)
 <br>Peng Wanget al. Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution (2024)
 <br>Shuai Bai et al. Qwen2.5-VL Technical Report (2025)
 
+<br><b>Gemini</b>
+<br>Google. Gemini: A Family of Highly Capable Multimodal Models (2023)
+<br>Google. Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context (2024)
+<br>Google Deepmind. Gemini Robotics: Bringing AI into the Physical World (2025)
+<br>Google. Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities (2025)
+
 <br><b>GPT-4</b>
 <br>Baolin Peng et al. Instruction Tuning with GPT-4 (EMNLP 2023)
 <br>OpenAI. GPT-4 Technical Report (2023)
@@ -1251,6 +1285,18 @@ Face Recognition (CVPR 2015)
 
 <br><b>Monte Carlo Tree Diffusion (MCTD)</b>
 <br>Jaesik Yoon et al. Monte Carlo Tree Diffusion for System 2 Planning (2025)
+
+<br><b>Inverse Scaling</b>
+<br>Aryo Pradipta Gema et al. Inverse Scaling in Test-Time Compute (2025)
+
+<br><b>Alignment Audits</b>
+<br>Samuel Marks et al. Auditing language models for hidden objectives (2025)
+
+<br><b>Subliminal Learning</b>
+<br>Alex Cloud et al. Subliminal Learning: Language models transmit behavioral traits via hidden signals in data (2025)
+
+<br><b>MaViLa</b>
+<br>Haolin Fan et al. MaViLa: Unlocking new potentials in smart manufacturing through vision language models (Journal of Manufacturing Systems 2025)
 
 <br><br><br>
 
