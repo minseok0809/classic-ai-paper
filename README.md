@@ -1191,6 +1191,11 @@ Face Recognition (CVPR 2015)
 <br>Martin Pawelczyk et al. In-Context Unlearning: Language Models as Few-Shot Unlearners (ICML 2024)
 <br>Michael Duan et al. Do Membership Inference Attacks Work on Large Language Models (COLM 2024)
 
+<br><b>Hunyuan3D</b>
+<br>Tencent. Hunyuan3D 1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation (2024)
+<br>Tencent. Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation (2025)
+<br>Tencent. Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material (2025)
+
 <br><b>Visual AutoRegressive Modeling </b>
 <br>Keyu Tian et al. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction (NeurIPS 2024)
 
