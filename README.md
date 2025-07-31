@@ -918,6 +918,12 @@ Face Recognition (CVPR 2015)
 <br><b>Albumentations</b>
 <br>Alexander Buslaev et al. Albumentations: fast and flexible image augmentations (2018)
 
+<br><b>PINN</b>
+<br>Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations (Journal of Computational Physics 2019)
+
+<br><b>DeepXDE</b>
+<br>DeepXDE: A Deep Learning Library for Solving Differential Equations (Journal of Computational Physics 2019)
+
 <br><b>ERNIE</b>
 <br>Yu Sun et al. ERNIE: Enhanced Representation through Knowledge Integration (2019)
 
@@ -1053,6 +1059,9 @@ Face Recognition (CVPR 2015)
 <br>Jordan Hoffmann et al. Training Compute-Optimal Large Language Models (NeurIPS 2022)
 <br>Jason Wei et al. Emergent Abilities of Large Language Models (TMLR 2022)
 
+<br><b>DeepONet</b>
+<br>Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators (Nature machine intelligence 2021)
+
 <br><b>Prefix Tuning</b>
 <br>Xiang Lisa Li and Percy Liang. Prefix-tuning: Optimizing continuous prompts for generation. (ACL 2021)
 
@@ -1172,6 +1181,9 @@ Face Recognition (CVPR 2015)
 <br><b>PINN (Physics-informed neural network) VS FEM(Finite Element Method)</b>
 <br>T.G. Grossmann et al. Can Physics-Informed Neural Networks beat the Finite Element Method? (2024)
 <br>A.S. Kishnapriyan et al. Characterizing possible failure modes in physics-informed neural networks. (NeurIPS 2021)
+
+<br><b>Titans</b>
+<br>Ali Behrouz et al. Titans: Learning to Memorize at Test Time (2024)
 
 <br><b>Semantic Planner</b>
 <br>Ma et al. Eureka: Human-Level Reward Design via Coding Large Language Models (ICLR 2024)
