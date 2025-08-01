@@ -1339,7 +1339,7 @@ Face Recognition (CVPR 2015)
 <br><b>Subliminal Learning</b>
 <br>Alex Cloud et al. Subliminal Learning: Language models transmit behavioral traits via hidden signals in data (2025)
 
-<br><b>AI collusion driven by “artificial stupidity.”</b>
+<br><b>AI Collusion Driven by “Artificial Stupidity.”</b>
 <br>Winston Wei Dou et al. AI-Powered Trading, Algorithmic Collusion, And Price Efficiency (NBER 2025)
 
 <br><b>The General-Purpose AI Code of Practice</b>
