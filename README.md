@@ -564,6 +564,9 @@ chinoises de Fohy (1703)
 <br><b>Word2Vec</b>
 <br>T. Mikolov et al. Efficient estimation of word representations in vector space (2013)
 
+<br><b>Linear representation Hypothesis</b>
+<br>T. Mikolov et al. Linguistic regularities in continuous space word representations (NAACL 2013)
+
 <br><b>Anomaly Detection</b>
 <br>Charu C Aggarwal. An introduction to outlier analysis (2013)
 
@@ -1104,6 +1107,9 @@ Face Recognition (CVPR 2015)
 <br><b>Stochastic Parrot</b>
 <br>Emily M. Bender et al. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜 (2021)
 
+<br><b>Superposition Hypothesis</b>
+<br>Elhage et al. Toy Models of Superposition (2022)
+
 <br><b>Langchain</b>
 <br>Shunyu Yao et al. ReAct: Synergizing Reasoning and Acting in Language Models (ICLR 2022)
 
@@ -1202,6 +1208,9 @@ Face Recognition (CVPR 2015)
 <br>Weijia Shi et al. Detecting Pretraining Data from Large Language Models (ICLR 2024)
 <br>Martin Pawelczyk et al. In-Context Unlearning: Language Models as Few-Shot Unlearners (ICML 2024)
 <br>Michael Duan et al. Do Membership Inference Attacks Work on Large Language Models (COLM 2024)
+
+<br><b>Claude</b>
+<br>Adly Templeton et al. Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet (2024)
 
 <br><b>Hunyuan3D</b>
 <br>Tencent. Hunyuan3D 1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation (2024)
@@ -1330,8 +1339,21 @@ Face Recognition (CVPR 2015)
 <br><b>Subliminal Learning</b>
 <br>Alex Cloud et al. Subliminal Learning: Language models transmit behavioral traits via hidden signals in data (2025)
 
+<br><b>AI collusion driven by “artificial stupidity.”</b>
+<br>Winston Wei Dou et al. AI-Powered Trading, Algorithmic Collusion, And Price Efficiency (NBER 2025)
+
+<br><b>The General-Purpose AI Code of Practice</b>
+<br>European Comission (2025)
+
 <br><b>MaViLa</b>
 <br>Haolin Fan et al. MaViLa: Unlocking new potentials in smart manufacturing through vision language models (Journal of Manufacturing Systems 2025)
+
+<br><b>Wan</b>
+<br>Alibaba. Wan: Open and Advanced Large-Scale Video Generative Models (2025)
+
+<br><b>AlphaEarth Foundations</b>
+<br>Christopher F. Brown et al. AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data (2025)
+
 
 <br><br><br>
 
