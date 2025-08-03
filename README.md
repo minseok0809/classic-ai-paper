@@ -403,6 +403,9 @@ chinoises de Fohy (1703)
 <br><b>Random Forest</b>
 <br>Leo Breiman. Random Forests. Machine Learning, Volume 45, pages 5–32. (2001)
 
+<br><b>Kernel Learning</b>
+<br>Scholkopf and Smola. Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond (2001)
+
 <br><b>Deap Blue</b>
 <br>M Campbell. Deep Blue. (2002)
 
