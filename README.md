@@ -319,6 +319,11 @@ chinoises de Fohy (1703)
 <br><b>Complementary priors</b>
 <br>Geoffrey E. Hinton et al. A fast learning algorithm for deep belief nets (1994)
 
+<br><b>Kernel Learning</b>
+<br>Vladimir Vapnik. The Nature of Statistical Learning Theory (1995)
+<br>Christopher J.C. Burges et al. Advances in Kernel Methods: Support Vector LearningUnavailable (1998)
+<br>Scholkopf and Smola. Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond (2001)
+
 <br><b>Kneser-Ney Smoothing</b>
 <br>Reinhard Kneser and Hermann Ney. 1995. Improved backing-off for M-gram language modeling (ICASSP 1995)
 
@@ -402,9 +407,6 @@ chinoises de Fohy (1703)
 
 <br><b>Random Forest</b>
 <br>Leo Breiman. Random Forests. Machine Learning, Volume 45, pages 5–32. (2001)
-
-<br><b>Kernel Learning</b>
-<br>Scholkopf and Smola. Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond (2001)
 
 <br><b>Deap Blue</b>
 <br>M Campbell. Deep Blue. (2002)
