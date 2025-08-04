@@ -1359,6 +1359,8 @@ Face Recognition (CVPR 2015)
 <br><b>AlphaEarth Foundations</b>
 <br>Christopher F. Brown et al. AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data (2025)
 
+<br><b>Persona Vectors</b>
+<br>Runjin Chen et al. Persona Vectors: Monitoring and Controlling Character Traits in Language Models (2025)
 
 <br><br><br>
 
