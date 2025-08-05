@@ -1298,7 +1298,10 @@ Face Recognition (CVPR 2015)
 <br><b>Humanity's Last Exam (HLE)</b>
 <br>Long Phan et al. Humanity's Last Exam (2025)
 
-<br><b>MCP (Model Context Protocol)</b>
+<br><b>Agent2Agent Protocol (A2A)</b>
+<br>Rao Surapaneni et al. Announcing the Agent2Agent Protocol (A2A) (2025)
+
+<br><b>Model Context Protocol (MCP)</b>
 <br>Narajala, V. S. et al.  Enterprise-grade security for the Model Context Protocol (MCP): Frameworks and mitigation strategies (2025)
 
 <br><b>Aurora</b>
