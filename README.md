@@ -1193,6 +1193,20 @@ Face Recognition (CVPR 2015)
 <br>T.G. Grossmann et al. Can Physics-Informed Neural Networks beat the Finite Element Method? (2024)
 <br>A.S. Kishnapriyan et al. Characterizing possible failure modes in physics-informed neural networks. (NeurIPS 2021)
 
+<br><b>Generalist Medical AI (GMAI)</b>
+<br>Michael Moor et al. Foundation models for generalist medical artificial intelligence (Nature 2023)
+
+<br><b>Med-PaLM</b>
+<br>Karan Singhal et al. Large language models encode clinical knowledge (Nature 2023)
+<br>Karan Singhal et al. Towards Expert-Level Medical Question Answering with Large Language Models
+<br>Tao Tu et al. Towards Generalist Biomedical AI (2023)
+
+<br><b>Provide responses to patient questions</b>
+<br>John W. Ayers et al. Comparing Physician and Artificial Intelligence Chatbot Responses to Patient Questions Posted to a Public Social Media Forum (JAMA Intern Med 2023)
+
+<br><b>Clinical Text Summarization</b>
+<br>Dave Van Veen et al. Adapted large language models can outperform medical experts in clinical text summarization  (Nature 2024) 
+
 <br><b>Titans</b>
 <br>Ali Behrouz et al. Titans: Learning to Memorize at Test Time (2024)
 
@@ -1358,6 +1372,12 @@ Face Recognition (CVPR 2015)
 
 <br><b>Wan</b>
 <br>Alibaba. Wan: Open and Advanced Large-Scale Video Generative Models (2025)
+
+<br><b>MAI-DxO</b>
+<br>Microsoft. The Path to Medical Superintelligence (2025)
+
+<br><b>HealthBench</b>
+<br>Rahul K. Arora et al. HealthBench: Evaluating Large Language Models Towards Improved Human Health (2025)
 
 <br><b>AlphaEarth Foundations</b>
 <br>Christopher F. Brown et al. AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data (2025)
