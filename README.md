@@ -554,6 +554,9 @@ chinoises de Fohy (1703)
 <br>A. Krizhevsky, I. Sutskever, G. E. Hinton. ImageNet Classification with Deep Convolutional Neural Networks (2012)
 <br>Matthew D. Zeiler and Rob Fergus. Visualizing and Understanding Convolutional Networks (ECCV 2014)
 
+<br><b>Watson</b>
+<br>[Watson and the Jeopardy! Challenge (IBM Research)](https://www.youtube.com/watch?v=P18EdAKuC1U) (2023)
+
 <br><b>SST (Stanford Sentiment Treebank)</b>
 <br>Socher et al. Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank (EMNLP 2013)
 
@@ -934,6 +937,7 @@ Face Recognition (CVPR 2015)
 
 <br><b>ERNIE</b>
 <br>Yu Sun et al. ERNIE: Enhanced Representation through Knowledge Integration (2019)
+<br>ERNIE Team. ERNIE 4.5 Technical Report (2025)
 
 <br><b>AlphaStar</b>
 <br>Google Deepmind. AlphaStar: Mastering the real-time strategy game StarCraft II (2019)
@@ -991,6 +995,11 @@ Face Recognition (CVPR 2015)
 
 <br><b>T5</b>
 <br>Colin Raffel et al. Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (The Journal of Machine Learning Research 2019)
+
+<br><b>PP-OCR</b>
+<br>Yuning Du et al. PP-OCR: A Practical Ultra Lightweight OCR System (2020)
+<br>Yuning Du et al. PP-OCRv2: Bag of Tricks for Ultra Lightweight OCR System (2021)
+<br>Chenxia Li et al. PP-OCRv3: More Attempts for the Improvement of Ultra Lightweight OCR System (2022)
 
 <br><b>RAG</b>
 <br>Patrick Lewis et al. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (NeurIPS 2020)
@@ -1154,6 +1163,9 @@ Face Recognition (CVPR 2015)
 <br>Peng Wanget al. Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution (2024)
 <br>Shuai Bai et al. Qwen2.5-VL Technical Report (2025)
 
+<br><b>Qwen-Image</b>
+<br>Chenfei Wu et al. Qwen-Image Technical Report (2025)
+
 <br><b>Gemini</b>
 <br>Google. Gemini: A Family of Highly Capable Multimodal Models (2023)
 <br>Google. Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context (2024)
@@ -1163,6 +1175,10 @@ Face Recognition (CVPR 2015)
 <br><b>GPT-4</b>
 <br>Baolin Peng et al. Instruction Tuning with GPT-4 (EMNLP 2023)
 <br>OpenAI. GPT-4 Technical Report (2023)
+<br>Sébastien Bubeck et al. Sparks of Artificial General Intelligence: Early experiments with GPT-4 (2023)
+
+<br><b>Sycophancy</b>
+<br>Mrinank Sharma et al. Towards Understanding Sycophancy in Language Models (2023)
 
 <br><b>LLAMA</b>
 <br>Touvron et al. LLaMA: Open and Efficient Foundation Language Models (2023)
@@ -1275,6 +1291,7 @@ Face Recognition (CVPR 2015)
 <br>DeepSeek-AI. DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model (2024)
 <br>DeepSeek-AI. DeepSeek-V3 Technical Report (2024)
 <br>DeepSeek-AI. DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (2025)
+<br>Chengsong Huang et al. R-Zero: Self-Evolving Reasoning LLM from Zero Data (2025)
 
 <br><b>WinoGrande</b>
 <br>Keisuke Sakaguchi et al. WinoGrande: An Adversarial Winograd Schema Challenge at Scale (2019)
@@ -1317,6 +1334,7 @@ Face Recognition (CVPR 2015)
 
 <br><b>Model Context Protocol (MCP)</b>
 <br>Narajala, V. S. et al.  Enterprise-grade security for the Model Context Protocol (MCP): Frameworks and mitigation strategies (2025)
+<br>MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers (2025)
 
 <br><b>Aurora</b>
 <br>Cristian Bodnar et al. A Foundation Model for the Earth System (Nature 2025)
@@ -1384,6 +1402,36 @@ Face Recognition (CVPR 2015)
 
 <br><b>Persona Vectors</b>
 <br>Runjin Chen et al. Persona Vectors: Monitoring and Controlling Character Traits in Language Models (2025)
+
+<br><b>PaddleOCR</b>
+<br>Cheng Cui et al. PaddleOCR 3.0 Technical Report (2025)
+
+<br><b>K2-Think</b>
+<br>Zhoujun Cheng et al. K2-Think: A Parameter-Efficient Reasoning System (2025)
+
+<br><b>FLUX.1 Kontext</b>
+<br>Black Forest Labs. FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space (2025)
+
+<br><b>Memento</b>
+<br>Huichi Zhou et al. Memento: Fine-tuning LLM Agents without Fine-tuning LLMs (2025)
+
+<br><b>REFRAG</b>
+<br>Xiaoqiang Lin et al. REFRAG: Rethinking RAG based Decoding (2025)
+
+<br><b>Hallucination</b>
+<br>Adam Tauman Kalai et al. Why Language Models Hallucinate (2025)
+
+<br><b>Persuasion</b>
+<br>Lennart Meincke et al. Call Me A Jerk: Persuading AI to Comply with Objectionable Requests (2025)
+
+<br><b>Mobile-Agent-v3</b>
+<br>Alibaba Group. Mobile-Agent-v3: Fundamental Agents for GUI Automation (2025)
+
+<br><b>GEPA(Genetic-Pareto)</b>
+<br>Lakshya A Agrawal et al. GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning (2025)
+
+<br><b>NVIDIA Nemotron Nano</b>
+<br>Aarti Basant et al. NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model (2025)
 
 <br><br><br>
 
