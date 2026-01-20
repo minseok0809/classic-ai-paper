@@ -1433,6 +1433,12 @@ Face Recognition (CVPR 2015)
 <br><b>NVIDIA Nemotron Nano</b>
 <br>Aarti Basant et al. NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model (2025)
 
+<br><b>Beware Tunnel Vision in AI Retrieval</b>
+<br>Colin Harman. Beware Tunnel Vision in AI Retrieval. (2023)
+
+<br><b>RAG Is Not Dead</b>
+<br>Hamel Husain and Ben Clavié. Stop Saying RAG Is Dead. (2025)
+
 <br><br><br>
 
 
