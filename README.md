@@ -260,6 +260,9 @@ chinoises de Fohy (1703)
 <br><b>Katz's back-off model</b>
 <br>Katz, S. M. Estimation of probabilities from sparse data for the language model component of a speech recognizer (1987)
 
+<br><b>Moravec's Paradox</b>
+<br>Hans Peter Moravec. Mind Children (1988)
+
 <br><b>Connect-Four</b>
 <br>Victor Allis. A Knowledge-Based Approach of Connect-Four (ICGA Journal 1988)
 
@@ -1438,6 +1441,15 @@ Face Recognition (CVPR 2015)
 
 <br><b>RAG Is Not Dead</b>
 <br>Hamel Husain and Ben Clavié. Stop Saying RAG Is Dead. (2025)
+
+<br><b>Ontology</b>
+<br>Gruber, T. R. A Translation Approach to Portable Ontology Specifications. (1993 Knowledge Acquisition)
+<br>Berners-Lee, T et al. The Semantic Web. (2001 Scientific American)
+<br>Strickland, E. IBM Watson, Heal Thyself: How IBM Overpromised and Underdelivered on AI Health Care (2019 IEEE Spectrum)
+<br>Singhal, A. Introducing the Knowledge Graph: Things, Not Strings. (2012 Google Official Blog)
+<br>Grieves, M. Digital Twin: Manufacturing Excellence through Virtual Factory Replication (2014 Whitepaper)
+<br>Palantir Technologies. The Palantir Ontology: Semantic, Kinetic, Dynamic (2021 Official Documentation)
+
 
 <br><br><br>
 
