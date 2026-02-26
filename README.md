@@ -1450,6 +1450,9 @@ Face Recognition (CVPR 2015)
 <br>Grieves, M. Digital Twin: Manufacturing Excellence through Virtual Factory Replication (2014 Whitepaper)
 <br>Palantir Technologies. The Palantir Ontology: Semantic, Kinetic, Dynamic (2021 Official Documentation)
 
+<br><b>Moltbook</b>
+<br>Ning Li. The Moltbook Illusion: Separating Human Influence from Emergent Behavior in AI Agent Societies (2026)
+
 
 <br><br><br>
 
