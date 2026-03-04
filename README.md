@@ -1436,6 +1436,9 @@ Face Recognition (CVPR 2015)
 <br><b>NVIDIA Nemotron Nano</b>
 <br>Aarti Basant et al. NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model (2025)
 
+<br><b>Lost in Conversation</b>
+<br>Philippe Laban et al. LLMs Get Lost In Multi-Turn Conversation (2025)
+
 <br><b>Beware Tunnel Vision in AI Retrieval</b>
 <br>Colin Harman. Beware Tunnel Vision in AI Retrieval. (2023)
 
@@ -1453,6 +1456,8 @@ Face Recognition (CVPR 2015)
 <br><b>Moltbook</b>
 <br>Ning Li. The Moltbook Illusion: Separating Human Influence from Emergent Behavior in AI Agent Societies (2026)
 
+<br><b>An Analysis of Frontier Developers’ Privacy Policies</b>
+<br>Jennifer King et al. User Privacy and Large Language Models: An Analysis of Frontier Developers' Privacy Policies (2026)
 
 <br><br><br>
 
