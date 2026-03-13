@@ -1459,6 +1459,9 @@ Face Recognition (CVPR 2015)
 <br><b>An Analysis of Frontier Developers’ Privacy Policies</b>
 <br>Jennifer King et al. User Privacy and Large Language Models: An Analysis of Frontier Developers' Privacy Policies (2026)
 
+<br><b>Scheming</b>
+<br>Bronson Schoen et al. Stress Testing Deliberative Alignment for Anti-Scheming Training (2025)
+
 <br><b>Artificial Hivemind</b>
 <br>Liwei Jiang et al. Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond) (NeurlIPS 2025)
 
