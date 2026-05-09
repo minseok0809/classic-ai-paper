@@ -113,6 +113,10 @@ chinoises de Fohy (1703)
 <br><b>Artificial Intelligence</b>
 <br>John McCarthy, Marvin L. Minsky, Nathaniel Rochester, and Claude E. Shannon. A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence (1955)
 
+<br><b>Bellman Equation</b>
+<br>Richard Bellman. The Theory of Dynamic Programming (1954)
+<br>Richard Bellman. Dynamic Programming (1957)
+
 <br><b>Bounded Rationality </b>
 <br>Simon, Herbert A.  A Behavioral Model of Rational Choice (1955)
 
@@ -280,6 +284,9 @@ chinoises de Fohy (1703)
 
 <br><b>Nouvelle AI</b>
 <br>Rodney A. Brooks. Elephants Don't Play Chess (Robotics and Autonomous Systems 1990)
+
+<br><b>The Computer for the 21st Century</b>
+<br>Mark Weiser. The Computer for the 21st Century (1991) 
 
 <br><b>MARS(Multivariate Adaptive Regression Splines)</b>
 <br>Friedman, J. H. Multivariate adaptive regression splines. (The Annals of Statzstzcs 1991)
@@ -794,6 +801,12 @@ Face Recognition (CVPR 2015)
 <br>Jakub Konečný et al. Federated Learning: Strategies for Improving Communication Efficiency (2018)
 <br>Tian Li et al. Federated Learning: Challenges, Methods, and Future Directions (2020)
 
+<br><b>Software 2.0</b>
+<br>Andrej Karpathy. Software 2.0 (2017)
+
+<br><b>The Seven Deadly Sins of AI Predictions</b>
+<br>Rodney Brooks. The Seven Deadly Sins of AI Predictions (2017)
+
 <br><b>Random Erasing</b>
 <br>Sachin Ravi et al. Optimization as a Model For Few-Shot Learning (2016)
 <br>Zhun Zhong et al. Random Erasing Data Augmentation (2017)
@@ -931,6 +944,15 @@ Face Recognition (CVPR 2015)
 
 <br><b>Albumentations</b>
 <br>Alexander Buslaev et al. Albumentations: fast and flexible image augmentations (2018)
+
+<br><b>Deep Reinforcement Learning Doesn't Work Yet</b>
+<br>Irpan Alex. Deep Reinforcement Learning Doesn't Work Yet (2018)
+
+<br><b>The Bitter Lesson</b>
+<br>Rich Sutton. The Bitter Lesson (2019)
+
+<br><b>A Better Lesson</b>
+<br>Rodney Brooks. A Better Lesson (2019)
 
 <br><b>PINN</b>
 <br>Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations (Journal of Computational Physics 2019)
@@ -1079,6 +1101,21 @@ Face Recognition (CVPR 2015)
 <br>Jordan Hoffmann et al. Training Compute-Optimal Large Language Models (NeurIPS 2022)
 <br>Jason Wei et al. Emergent Abilities of Large Language Models (TMLR 2022)
 
+<br><b>Offline Reinforcement Learning/b>
+<br>Sergey Levine. Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems (2020)
+
+<br><b>The Hardware Lottery</b>
+<br>Sara Hooker. The Hardware Lottery (2020)
+
+<br><b>Understanding the World Through Action</b>
+<br>Sergey Levine. Understanding the World Through Action (CoRL 2021)
+
+<br><b>Why Software Is Eating The World</b>
+<br>Marc Andreessen. Why Software Is Eating The World (2011)
+
+<br><b>Moore's Law for Everything</b>
+<br>Sam Altman. Moore's Law for Everything (2021)
+
 <br><b>DeepONet</b>
 <br>Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators (Nature machine intelligence 2021)
 
@@ -1160,6 +1197,21 @@ Face Recognition (CVPR 2015)
 <br><b>Neural Jacobian Fields (NJF)</b>
 <br>Noam Aigerman et al. Neural Jacobian Fields: Learning Intrinsic Mappings of Arbitrary Meshes (ACM 2022)
 <br>Sizhe Lester Li et al. Controlling diverse robots by inferring Jacobian fields with deep networks (Nature 2025)
+
+<br><b>Deep Learning Is Hitting a Wall</b>
+<br>Gary Marcus. Deep Learning Is Hitting a Wall (2022)
+
+<br><b>A Path Towards Autonomous Machine Intelligence</b>
+<br>Yann LeCun. A Path Towards Autonomous Machine Intelligence (2022)
+
+<br><b>Talking About Large Language Models</b>
+<br>Murray Shanahan. Talking About Large Language Models (2022)
+
+<br><b>Artificial General Intelligence Is Already Here</b> 
+<br>Blaise Agüera y Arcas & Peter Norvig. Artificial General Intelligence Is Already Here (2023)
+
+<br><b>Stephen Wolfram</b>
+<br>Stephen Wolfram. What Is ChatGPT Doing … and Why Does It Work? (2023)
 
 <br><b>Qwen-VL</b>
 <br>Jinze Bai et al. Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond (2023)
