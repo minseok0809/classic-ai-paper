@@ -1101,7 +1101,7 @@ Face Recognition (CVPR 2015)
 <br>Jordan Hoffmann et al. Training Compute-Optimal Large Language Models (NeurIPS 2022)
 <br>Jason Wei et al. Emergent Abilities of Large Language Models (TMLR 2022)
 
-<br><b>Offline Reinforcement Learning/b>
+<br><b>Offline Reinforcement Learning</b>
 <br>Sergey Levine. Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems (2020)
 
 <br><b>The Hardware Lottery</b>
