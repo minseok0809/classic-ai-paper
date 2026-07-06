@@ -329,6 +329,10 @@ chinoises de Fohy (1703)
 <br><b>Complementary priors</b>
 <br>Geoffrey E. Hinton et al. A fast learning algorithm for deep belief nets (1994)
 
+
+<br><b>The Helmholtz Machine</b>
+<br>Peter Dayan et al. The Helmholtz Machine (1994)
+
 <br><b>Kernel Learning</b>
 <br>Vladimir Vapnik. The Nature of Statistical Learning Theory (1995)
 <br>Christopher J.C. Burges et al. Advances in Kernel Methods: Support Vector LearningUnavailable (1998)
