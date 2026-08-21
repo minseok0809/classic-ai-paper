@@ -1240,6 +1240,10 @@ Face Recognition (CVPR 2015)
 <br><b>Qwen-Image</b>
 <br>Chenfei Wu et al. Qwen-Image Technical Report (2025)
 
+<br><b>Qwen3-Next</b>
+<br>Qwen3 Technical Report
+<br>Qwen2.5-1M Technical Report
+
 <br><b>Gemini</b>
 <br>Google. Gemini: A Family of Highly Capable Multimodal Models (2023)
 <br>Google. Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context (2024)
@@ -1314,11 +1318,26 @@ Introducing SynthID Text (2024)
 <br><b>Semantic Planner</b>
 <br>Ma et al. Eureka: Human-Level Reward Design via Coding Large Language Models (ICLR 2024)
 
+<br><b>AlphaTensor</b>
+<br>Huang, Y. et al. Discovering Faster Matrix Multiplication Algorithms with Reinforcement Learning (Nature 2022)
+
+<br><b>Cap Set Problem & Online Bin Packing</b>
+<br>Romera-Paredes, B. et al. Mathematical Discoveries from Program Search with Large Language Models (Nature 2024)
+
+<br><b>Inequality Proving</b>
+<br>Pan Lu et al. Solving Inequality Proofs with Large Language Models (NeurIPS 2025)
+
+<br><b>AlphaGeometry</b>
+<br>Trieu H. Trinh et al. Solving Olympiad Geometry without Human Demonstrations (Nature 2024)
+
 <br><b>AlphaGeometry</b>
 <br>Trieu H. Trinh et al. Solving olympiad geometry without human demonstrations (2024)
 
 <br><b>AlphaProof</b>
 <br>Google Deepmind. AI achieves silver-medal standard solving International Mathematical Olympiad problems  (2024)
+
+<br><b>Gemini 2.5 Pro Capable of Winning Gold at IMO 2025</b>
+<br>Winning Gold at IMO 2025 with a Model-Agnostic Verification-and-Refinement Pipeline (IMO 2025)
 
 <br><b>Habsburg AI</b>
 <br>Ilia Shumailov et al. The Curse of Recursion: Training on Generated Data Makes Models Forget (2023)
@@ -1550,11 +1569,24 @@ Introducing SynthID Text (2024)
 <br><b>Artificial Hivemind</b>
 <br>Liwei Jiang et al. Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond) (NeurlIPS 2025)
 
+<br><b>Seedream</b>
+<b>Lixue Gong et al. Seedream 2.0: A Native Chinese-English Bilingual Image Generation Foundation Model (2025)
+<br>Yu Gao et al. Seedream 3.0 Technical Report (2025)
+
+<br><b>Hunyuan-MT</b>
+<br>Mao Zheng et al. Hunyuan-MT Technical Report (2025)
+     
+<br><b>ReasoningBank</b>
+<br>Siru Ouyang et al. ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory  (ICLR 2026)
+
+<br><b>LIMIT: A real-world instantiation</b>
+<br>Orion Weller et al. On the Theoretical Limitations of Embedding-Based Retrieval (ICLR 2026)
+
 <br><b>DAAAM</b>
 <br>Nicolas Gorlo et al. Describe Anything Anywhere At Any Moment (CVPR 2026)
 
 <br><b>The Impact of Generative AI and the Novel</b>
-<br>Dr Clementine. The Impact of Generative AI and the Novel (2026)
+<br>Dr.Clementine. The Impact of Generative AI and the Novel (2026)
 
 <br><b>MathNet</b>
 <br>Shaden Alshammari et al. MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval (ICLR 2026)
