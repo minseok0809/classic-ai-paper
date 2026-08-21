@@ -63,6 +63,10 @@ chinoises de Fohy (1703)
 <br><b>Ising model </b>
 <br>Ernst Ising and Wilhelm Lenz. The Ising model (or Lenz–Ising model) (1925)
 
+<br><b>Random Utility Models, RUMs</b>
+<br>Thurstone, L. L. A law of comparative judgment. 1927
+<br>Yeshwanth Cherapanamjeri et al. Learning correlated reward models: Statistical barriers and opportunities (ICLR 2026)
+
 <br><b>Incompleteness Theorems</b>
 <br>Kurt Friedrich Gödel. On Formally Undecidable Propositions of Principia Mathematica and Related Systems (1931)
 
@@ -1150,6 +1154,14 @@ Face Recognition (CVPR 2015)
 <br>Rombach et al. High-Resolution Image Synthesis with Latent Diffusion Models (2021)
 <br>Lvmin Zhang et al. Adding Conditional Control to Text-to-Image Diffusion Models (2023)
 
+<br><b>Neural Operator</b>
+<br>Fourier Neural Operator for Parametric Partial Differential Equations (ICLR 2021)
+<br>Neural Operator: Learning Maps Between Function Spaces (Machine Learning Research 2022)
+<br>Neural Operator: Learning Maps Between Function Spaces With Applications to PDEs (Machine Learning Research 2023)
+
+<br><b>Voyager</b>
+<br>Voyager: An open-ended embodied agent with large language models (2023)
+
 <br><b>AlphaFold</b>
 <br>Richard Evans et al. Protein complex prediction with AlphaFold-Multimer. (2021)
 <br>John Jumper et al. Highly accurate protein structure prediction with AlphaFold (Nature 2021)
@@ -1282,8 +1294,19 @@ Face Recognition (CVPR 2015)
 <br><b>Provide responses to patient questions</b>
 <br>John W. Ayers et al. Comparing Physician and Artificial Intelligence Chatbot Responses to Patient Questions Posted to a Public Social Media Forum (JAMA Intern Med 2023)
 
+<br><b>WRING(Weighted Rotational DebiasING)</b>
+<br>Zhiheng Li et al. A Whac-A-Mole Dilemma: Shortcuts Come in Multiples Where Mitigating One Amplifies Others (CVPR 2023)
+<br>Walter Gerych et al. WRING Out The Bias: A Rotation-Based Alternative To Projection Debiasing (ICLR 2026)
+
+<br><b>Watermarking </b>
+<br>Scalable watermarking for identifying large language model outputs (Sumanth Dathathri 2024)
+Introducing SynthID Text (2024)
+
+<br><b>PlantRNA-FM</b>
+<br>Haopeng Yu et al. An interpretable RNA foundation model for exploring functional RNA motifs in plants (Nature Machine Intelligence 2024)
+
 <br><b>Clinical Text Summarization</b>
-<br>Dave Van Veen et al. Adapted large language models can outperform medical experts in clinical text summarization  (Nature 2024) 
+<br>Dave Van Veen et al. Adapted large language models can outperform medical experts in clinical text summarization (Nature 2024) 
 
 <br><b>Titans</b>
 <br>Ali Behrouz et al. Titans: Learning to Memorize at Test Time (2024)
@@ -1373,6 +1396,9 @@ Face Recognition (CVPR 2015)
 
 <br><b>FrontierMath</b>
 <br>Elliot Glazer et al. FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI (2024)
+
+<br><b>Teaching VLM</b>
+<br>Sivan Doveh et al. Teaching VLMs to Localize Specific Objects from In-context Examples (ICCV 2025)
 
 <br><b>Social Sycophancy</b>
 <br>Myra Cheng et al. Social Sycophancy: A Broader Understanding of LLM Sycophancy (2025)
@@ -1524,6 +1550,23 @@ Face Recognition (CVPR 2015)
 <br><b>Artificial Hivemind</b>
 <br>Liwei Jiang et al. Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond) (NeurlIPS 2025)
 
+<br><b>DAAAM</b>
+<br>Nicolas Gorlo et al. Describe Anything Anywhere At Any Moment (CVPR 2026)
+
+<br><b>The Impact of Generative AI and the Novel</b>
+<br>Dr Clementine. The Impact of Generative AI and the Novel (2026)
+
+<br><b>MathNet</b>
+<br>Shaden Alshammari et al. MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval (ICLR 2026)
+
+<br><b>SHOOT FIRST, ASK QUESTIONS LATER?</b>
+<br>Gabriel Grand et al. Shoot First, Ask Questions Later? Building Rational Agents that Explore and Act Like People (ICLR 2026)
+
+<br><b>MICRO</b>
+<br>Badr AlKhamissi et al. Mixture of Cognitive Reasoners: Modular Reasoning with Brain-Like Specialization (ICLR 2026)
+
+<br><b>A Framework for Frontier AI and the Dawning of a New Age </b>
+<br>Demis Hassabis. A Framework for Frontier AI and the Dawning of a New Age (2026)
 
 <br><br><br>
 
