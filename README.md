@@ -520,6 +520,9 @@ chinoises de Fohy (1703)
 <br><b>Fold It (Rosetta-based game) </b>
 <br>Seth Cooper et al. Predicting protein structures with a multiplayer online game (Nature 2010)
 
+<br><b>PRA(Path Ranking Algorithm) </b>
+<br>Ni Lao and William W Cohen.  Relational retrieval using a combination of path-constrained random walks (Machine learning 2010)
+
 <br><b>Graphical Models</b>
 <br>Sebastian Nowozin and Christoph H. Lampert. Structured Learning and Prediction in Computer Vision (2011)
 
