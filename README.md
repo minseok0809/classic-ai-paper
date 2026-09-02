@@ -1570,7 +1570,7 @@ Introducing SynthID Text (2024)
 <br>Liwei Jiang et al. Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond) (NeurlIPS 2025)
 
 <br><b>Seedream</b>
-<b>Lixue Gong et al. Seedream 2.0: A Native Chinese-English Bilingual Image Generation Foundation Model (2025)
+<br>Lixue Gong et al. Seedream 2.0: A Native Chinese-English Bilingual Image Generation Foundation Model (2025)
 <br>Yu Gao et al. Seedream 3.0 Technical Report (2025)
 
 <br><b>Hunyuan-MT</b>
