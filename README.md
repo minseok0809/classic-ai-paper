@@ -1600,6 +1600,15 @@ Introducing SynthID Text (2024)
 <br><b>A Framework for Frontier AI and the Dawning of a New Age </b>
 <br>Demis Hassabis. A Framework for Frontier AI and the Dawning of a New Age (2026)
 
+<br><b>Crystal Generator with Valence-Constrained Design (CrysVCD)</b>
+<br>Mouyang Cheng et al. Enhancing materials discovery with valence-constrained design in generative modeling. Nature Computational Science. 2026.
+
+<br><b>Double Blind Evals</b>
+<br>Andrew Tras et al. Double Blind Evals: Resolving the Dual Confidentiality Dilemma in AI Safety Auditing. 2026.
+
+<br><b>CUDA Agent</b>
+<br>Weinan Dai et al. CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation. 2026.
+
 <br><br><br>
 
 
