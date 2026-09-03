@@ -812,6 +812,9 @@ Face Recognition (CVPR 2015)
 <br>Jakub Konečný et al. Federated Learning: Strategies for Improving Communication Efficiency (2018)
 <br>Tian Li et al. Federated Learning: Challenges, Methods, and Future Directions (2020)
 
+<br><b>An Open Letter to the United Nations Convention on Certain Conventional Weapons</b>
+<br>137 founders of robotics and artificial intelligence companies from 28 countries. Killer robots: World's top AI and robotics companies urge United Nations to act on lethal autonomous weapons (2017)
+
 <br><b>Software 2.0</b>
 <br>Andrej Karpathy. Software 2.0 (2017)
 
