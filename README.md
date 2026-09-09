@@ -1612,6 +1612,81 @@ Introducing SynthID Text (2024)
 <br><b>CUDA Agent</b>
 <br>Weinan Dai et al. CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation. 2026.
 
+<br><b>Neural Tangent Kernel</b>
+<br>Jacob et al. Neural Tangent Kernel: Convergence and Generalization in Neural Networks. (NeurlIPS 2018)
+
+<br><b>LoRA vs Full Fine-tuning</b>
+<br>Shuttlewotg et al. LoRA vs Full Fine-tuning: An Illusion of Equivalence (NeurlIPS 2024)
+
+<br><b>GWM World</b>
+<br>Guanxing Lu et al. GWM: Towards Scalable Gaussian World Models for Robotic Manipulation (ICCV 2025)
+
+<br><b>RPM(Research Preference Models)</b>
+<br>Foster et al. AI Research Preference Models (2026)
+
+<br><b>Time-lock Puzzle</b>
+<br>Ball et al. On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment (2026)
+<br>Jaiden Fairoze et al. Bypassing Prompt Guards in Production with Controlled-Release Prompting (2026)
+
+<br><b>JailbreakRadar</b>
+<br>Junjie Chu et al. JailbreakRadar: Comprehensive Assessment of Jailbreak Attacks Against LLMs (ACL 2025)
+
+<br><b>Reasoning-to-Defend</b>
+<br>Junjie Chu et al. Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking (EMNLP 2025)
+
+<br><b>Computer Worms</b>
+<br>Guan et al. AI Agents Enable Adaptive Computer Worms (2026)
+
+<br><b>GOLLuM</b>
+<br>Ranković et al. Large language models as uncertainty-calibrated optimizers for experimental discovery. (Nature 2026)
+
+<br><b>On the Navier–Stokes Millennium Prize Proble</b>
+<br>OpenAI. On the Navier–Stokes Millennium Prize Problem (2026)
+<br>https://openai.com/index/navier-stokes-solution/
+
+<br><b>Fermat’s Last Theorem</b>
+<br>Anthropic. Formalizing Fermat's Last Theorem in Lean (2026)
+
+<br><b>A Proof of the Kepler Conjecture</b>
+<br>Hariharan et al. Progress in Formalizing Sphere Packing in Dimension 8 (2026)
+
+<br><b>Paul Erdős's Planar Unit Distance Problem</b>
+<br>OpenAI. An OpenAI model has disproved a central conjecture in discrete geometry (2026)
+
+<br><b>Mathematicians in the Age of AI</b>
+<br>Jeremy Avigad. Mathematicians in the Age of AI (2026)
+
+<br><b>Persuade Expert</b>
+<br>Hackenburg et al. AI systems out-persuade expert humans (2026)
+
+<br><b>Convexity Conjecture</b>
+<br>HUA et al. On Talagrand’s Convexity Conjecture
+
+<br><b>Lean: Formal Proof</b>
+<br>Thomas Hubert et al. Olympiad-level formal mathematical reasoning with reinforcement learning (Nature 2026)
+
+<br><b>AlphaEvolve</b>
+<br>Alexander Novikov et al. AlphaEvolve: A coding agent for scientific and algorithmic discovery (2025)
+<br>Bogdan Georgiev et al. Mathematical Exploration And Discovery at Scale (2026)
+
+<br><b>Peer Review</b>
+<br>Jiang et al. Demanding peer review is associated with higher impact in published science (2026)
+<br>Gartenberg et al. More Versus Better: Artificial Intelligence, Incentives, and the Emerging Crisis in Peer Review (Organization Science 2026)
+<br>Richard She. Fine-Grained Detection of AI-Generated Writing in the Biomedical Literature (2026)
+<br>Elazar et al. LLM-Generated or Human-Written? Comparing Review and Non-Review Papers on ArXiv (2026)
+
+<br><b>LLM-assisted writing</b>
+<br>Dmitry Kobak et al. Delving into LLM-assisted writing in biomedical publications through excess vocabulary (2026)
+
+<br><b>The AI Apocalypse Is Already Here</b>
+<br>Gregory Conti. The AI Apocalypse Is Already Here (Compact 2026)
+
+<br><b>RLSlow: An Alien Mind</b>
+<br>Jakub Pachocki. An Alien Mind (2026)
+
+
+
+
 <br><br><br>
 
 
