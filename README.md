@@ -333,9 +333,18 @@ chinoises de Fohy (1703)
 <br><b>Complementary priors</b>
 <br>Geoffrey E. Hinton et al. A fast learning algorithm for deep belief nets (1994)
 
-
 <br><b>The Helmholtz Machine</b>
 <br>Peter Dayan et al. The Helmholtz Machine (1994)
+
+<br><b>Manifold Hypothesis</b>
+<br>Geoffrey E Hinton et al. Autoencoders, minimum description length, and helmholtz free energy (NeurIPS 1994)
+<br>Joshua B. Tenenbaum et al. A Global Geometric Framework for Nonlinear Dimensionality Reduction (Science, 2000)
+<br>Sam T. Roweis, Lawrence K. Saul. Nonlinear Dimensionality Reduction by Locally Linear Embedding (Science, 2000)
+<br>Mikhail Belkin, Partha Niyogi. Laplacian Eigenmaps for Dimensionality Reduction and Data Representation (Neural Computation, 2003)
+<br>G. E. Hinton and R. R. Salakhutdinov. Reducing the dimensionality of data with neural networks (2006)
+<br>Laurens van der Maaten, Geoffrey Hinton. Visualizing Data using t-SNE (JMLR 2008)
+<br>Diederik P Kingma, Max Welling. Auto-Encoding Variational Bayes (2013)
+<br>Leland McInnes et al. UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction (2020)
 
 <br><b>Kernel Learning</b>
 <br>Vladimir Vapnik. The Nature of Statistical Learning Theory (1995)
@@ -401,10 +410,6 @@ chinoises de Fohy (1703)
 <br><b>DENDRAL</b>
 <br>Edward A. Feigenbaum, Bruce G. Buchanan. DENDRAL and Meta-DENDRAL roots of knowledge systems and expert system applications (1993)
 
-<br><b>Variational AutoEncoder(VAE)</b>
-<br>Geoffrey E Hinton et al. Autoencoders, minimum description length, and helmholtz free energy (NeurIPS 1994)
-<br>Diederik P Kingma, Max Welling. Auto-Encoding Variational Bayes (2013)
-
 <br><b>LSTM</b>
 <br>S. Hochreiter and J. Schmidhuber. Long Short-Term Memory (1995)
 
@@ -466,8 +471,13 @@ chinoises de Fohy (1703)
 <br>Hinton, Geoffrey E et al. Reducing the dimensionality of data with neural networks (Science 2006)
 <br>Hinton, Geoffrey E et al. Training products of experts by minimizing contrastive divergence (Neural computation 2002)
 
-<br><b>Autoencoder</b>
-<br>Reducing the dimensionality of data with neural networks (2006)
+<br><b>Compression Represents Intelligence Linearly</b>
+<br>Marcus Hutter. The hutter prize. http://prize.hutter1.net (2006)
+<br>Gregoire Deletang et al. Language modeling is compression (ICLR 2024)
+<br>Yuzhen Huang et al. Compression Represents Intelligence Linearly (2024)
+
+<br><b>Universal intelligence</b>
+<br>Shane Legg and Marcus Hutter. Universal intelligence: A definition of machine intelligence (Minds and machines 2007)
 
 <br><b>Support Vector Regression (SVR)</b>
 <br>Harris Drucker et al. Support Vector Regression Machines (Statistics and Computing 2007) 
@@ -480,9 +490,6 @@ chinoises de Fohy (1703)
 
 <br><b>Knowledge Graph</b>
 <br>Fabian M. Suchanek et al. YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia (WWW 2007)
-
-<br><b>t-SNE</b>
-<br>Laurens van der Maaten et al. Visualizing Data using t-SNE (JMLR 2008)
 
 <br><b>Denoising Autoencoder</b>
 <br>Pascal Vincent  et al. Extracting and Composing Robust Features with Denoising Autoencoders (ICML 2008)
@@ -910,12 +917,6 @@ Face Recognition (CVPR 2015)
 <br><b>BERT</b>
 <br>J. Devlin et al. Bert: Pre-training of deep bidirectional transformers for language understanding (2018)
 
-<br><b>GPT</b>
-<br>Alec Radford et al. Improving Language Understanding by Generative Pre-Training (2018)
-
-<br><b>GPT-2</b>
-<br>Alec Radford et al. Language Models are Unsupervised Multitask Learners (2018)
-
 <br><b>RoBERTa</b>
 <br>Yinhan Liu et al. RoBERTa: A Robustly Optimized BERT Pretraining Approach (2018)
 
@@ -1059,12 +1060,6 @@ Face Recognition (CVPR 2015)
 <br>S. Schneider et al. wav2vec: Unsupervised pre-training for speech recognition (Interspeech 2019)
 <br>Alexei Baevski et al. wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations Neural Turing Machines (NeurlIPS 2020)
 
-<br><b>GPT-3, Prompt Tuning</b>
-<br>Brown et al. Language Models are Few-Shot Learners (NeurIPS 2020)
-
-<br><b>UMAP(Uniform Manifold Approximation and Projection)</b>
-<br>Leland McInnes et al. UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction (2020)
-
 <br><b>DETR</b>
 <br>Nicolas Carion et al. End-to-End Object Detection with Transformers (2020)
 
@@ -1198,9 +1193,6 @@ Face Recognition (CVPR 2015)
 <br><b>OPT</b>
 <br>Susan Zhang et al. OPT: Open Pre-trained Transformer Language Models (2022)
 
-<br><b>InstructGPT</b>
-<br>Long Ouyang et al. Training language models to follow instructions with human feedback (2022)
-
 <br><b>PaLM</b>
 <br>Aakanksha Chowdhery et al. PaLM: Scaling Language Modeling with Pathways (2022)
 
@@ -1229,6 +1221,9 @@ Face Recognition (CVPR 2015)
 <br><b>Talking About Large Language Models</b>
 <br>Murray Shanahan. Talking About Large Language Models (2022)
 
+<br><b>RFdiffusion</b>
+<br>L. Watson et al. De novo design of protein structure and function with RFdiffusion (Nature 2023)
+
 <br><b>Artificial General Intelligence Is Already Here</b> 
 <br>Blaise Agüera y Arcas & Peter Norvig. Artificial General Intelligence Is Already Here (2023)
 
@@ -1254,6 +1249,10 @@ Face Recognition (CVPR 2015)
 <br>Google. Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities (2025)
 
 <br><b>GPT-4</b>
+<br>Alec Radford et al. Improving Language Understanding by Generative Pre-Training (2018)
+<br>Alec Radford et al. Language Models are Unsupervised Multitask Learners (2018)'
+<br>Brown et al. Language Models are Few-Shot Learners (NeurIPS 2020)
+<br>Long Ouyang et al. Training language models to follow instructions with human feedback (2022)
 <br>Baolin Peng et al. Instruction Tuning with GPT-4 (EMNLP 2023)
 <br>OpenAI. GPT-4 Technical Report (2023)
 <br>Sébastien Bubeck et al. Sparks of Artificial General Intelligence: Early experiments with GPT-4 (2023)
@@ -1399,6 +1398,7 @@ Introducing SynthID Text (2024)
 <br>DeepSeek-AI. DeepSeek-V3 Technical Report (2024)
 <br>DeepSeek-AI. DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (2025)
 <br>Chengsong Huang et al. R-Zero: Self-Evolving Reasoning LLM from Zero Data (2025)
+<br>DeepSeek-AI. DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression (2026)
 
 <br><b>WinoGrande</b>
 <br>Keisuke Sakaguchi et al. WinoGrande: An Adversarial Winograd Schema Challenge at Scale (2019)
@@ -1604,13 +1604,13 @@ Introducing SynthID Text (2024)
 <br>Demis Hassabis. A Framework for Frontier AI and the Dawning of a New Age (2026)
 
 <br><b>Crystal Generator with Valence-Constrained Design (CrysVCD)</b>
-<br>Mouyang Cheng et al. Enhancing materials discovery with valence-constrained design in generative modeling. Nature Computational Science. 2026.
+<br>Mouyang Cheng et al. Enhancing materials discovery with valence-constrained design in generative modeling. Nature Computational Science (2026)
 
 <br><b>Double Blind Evals</b>
-<br>Andrew Tras et al. Double Blind Evals: Resolving the Dual Confidentiality Dilemma in AI Safety Auditing. 2026.
+<br>Andrew Tras et al. Double Blind Evals: Resolving the Dual Confidentiality Dilemma in AI Safety Auditing (2026)
 
 <br><b>CUDA Agent</b>
-<br>Weinan Dai et al. CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation. 2026.
+<br>Weinan Dai et al. CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation (2026)
 
 <br><b>Neural Tangent Kernel</b>
 <br>Jacob et al. Neural Tangent Kernel: Convergence and Generalization in Neural Networks. (NeurlIPS 2018)
@@ -1633,6 +1633,9 @@ Introducing SynthID Text (2024)
 
 <br><b>Reasoning-to-Defend</b>
 <br>Junjie Chu et al. Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking (EMNLP 2025)
+
+<br><b>Moonlight</b>
+<br>Jingyuan Liu et al. Muon is Scalable for LLM Training (2025)
 
 <br><b>Computer Worms</b>
 <br>Guan et al. AI Agents Enable Adaptive Computer Worms (2026)
