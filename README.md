@@ -1687,6 +1687,26 @@ Introducing SynthID Text (2024)
 <br><b>RLSlow: An Alien Mind</b>
 <br>Jakub Pachocki. An Alien Mind (2026)
 
+<br><b>Intelligence Explosion</b>
+<br>Alan Chan et al. What if automating AI R&D triggers an intelligence explosion? (Frontier AI Working Paper Series No. 2/2026)
+
+<br><b>Thematic Brief of the Independent International Scientific Panel on AI</b>
+<br>AI Agents, Misalignment and the Risk of Losing Human Control: Evidence from the OpenAI-Hugging Face Incident (2026)
+
+<br><b>Misuse of AI</b>
+<br>Anthropic. Detecting and countering misuse of AI: September 2026.
+
+<br><b>Recurrent-Depth Transformer (RDT, Looped Transformer, OpenMythos)</b>
+<br>Damai Dai et al. DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models (2024)
+<br>Harsh Kohli et al. Loop, Think, & Generalize — Implicit Reasoning in Recurrent Depth Transformers (COLM 2026)
+<br>Hayden Prairie et al. Parcae — Scaling Laws for Stable Looped Language Models
+<br>Nikunj Saunshi et al. Reasoning with Latent Thoughts: On the Power of Looped Transformers (ICLR 2025)
+<br>Shibo Hao et al. Training Large Language Models to Reason in a Continuous Latent Space (COLM 2025)
+<br>Sangmin Bae et al. Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA (2025)
+<br>Lianghui Zhu et al. Mixture-of-Depths Attention (2026)
+<br>Abbas Zeitoun et al. Hyperloop Transformers (2026)
+<br>Costin-Andrei Oncescu et al. The Recurrent Transformer: Greater Effective Depth and Efficient Decoding (2026)
+<br>Chunyuan Deng et al. LT2: Linear-Time Looped Transformers (2026)
 
 
 
