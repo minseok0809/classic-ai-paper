@@ -1708,7 +1708,14 @@ Introducing SynthID Text (2024)
 <br>Costin-Andrei Oncescu et al. The Recurrent Transformer: Greater Effective Depth and Efficient Decoding (2026)
 <br>Chunyuan Deng et al. LT2: Linear-Time Looped Transformers (2026)
 
+<br><b>H-JEPA</b>
+<br>Wancong Zhang et al. H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning (2026)
 
+<br><b>Stride-Periodic Behavior in DeepSeek-V4 and DeepSeek-V4.1</b>
+<br>Xingyu Zhu et al. Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression (2026)
+
+<br><b>Sys2Bench</b>
+<br>Shubham Parashar et al. Inference-Time Computations for LLM Reasoning and Planning: A Benchmark and Insights (2026)
 
 <br><br><br>
 
