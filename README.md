@@ -1644,7 +1644,7 @@ Introducing SynthID Text (2024)
 <br>Ranković et al. Large language models as uncertainty-calibrated optimizers for experimental discovery. (Nature 2026)
 
 <br><b>On the Navier–Stokes Millennium Prize Proble</b>
-<br>OpenAI. On the Navier–Stokes Millennium Prize Problem (2026)
+<br>OpenAI. Finite Time Blowup for Navier–Stokes (2026)
 <br>https://openai.com/index/navier-stokes-solution/
 
 <br><b>Fermat’s Last Theorem</b>
