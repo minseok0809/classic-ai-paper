@@ -1645,6 +1645,7 @@ Introducing SynthID Text (2024)
 
 <br><b>On the Navier–Stokes Millennium Prize Proble</b>
 <br>OpenAI. Finite Time Blowup for Navier–Stokes (2026)
+<br>Terry Tao et al. A Severe Misalignment of AI in Mathematics (2026)
 <br>https://openai.com/index/navier-stokes-solution/
 
 <br><b>Fermat’s Last Theorem</b>
