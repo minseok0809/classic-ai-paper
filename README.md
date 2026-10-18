@@ -6,7 +6,7 @@
 <br><b>Automatic Slave</b>
 <br>Aristotle. Politics (BC 350)
 
-<br><b>Automata </b>
+<br><b>Automata</b>
 <br>Hero. About Automata (1589)
 
 <br><b>Tree of Porphyry</b>
@@ -1229,6 +1229,9 @@ Face Recognition (CVPR 2015)
 
 <br><b>Stephen Wolfram</b>
 <br>Stephen Wolfram. What Is ChatGPT Doing … and Why Does It Work? (2023)
+
+<br><b>Fairness and Bias</b>
+<br>Emilio Ferrara. Fairness and Bias in Artificial Intelligence: A Brief Survey of Sources, Impacts, and Mitigation Strategies. (Sci 2024)
 
 <br><b>Qwen-VL</b>
 <br>Jinze Bai et al. Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond (2023)
