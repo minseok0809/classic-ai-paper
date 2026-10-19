@@ -1721,6 +1721,31 @@ Introducing SynthID Text (2024)
 <br><b>Sys2Bench</b>
 <br>Shubham Parashar et al. Inference-Time Computations for LLM Reasoning and Planning: A Benchmark and Insights (2026)
 
+<br><b>The AI expectations gap</b>
+<br>Anthropic. The AI expectations gap (2026)
+
+<br><b>Gemini 4 Argon</b>
+<br>Maxence Faldor et al. A team of Gemini 4 Argon agents beats Minecraft (2026)
+
+<br><b>Magic State Cultivation</b>
+<br>E. Rosenfeld et al. Magic state cultivation on a superconducting quantum processor (Science 2026)
+
+<br><b>TheoPhysEval</b>
+<br>A. Ramesh Chandra et al. TheoPhysEval: Assessing AI agents at autonomous theoretical physics problem solving (2026)
+
+<br><b>Nick Cammarata's Working Hypothesis</b>
+<br>Nick Cammarata. Neural Networks Are Already Clean (2026)
+<br>Yair Halberstadt. Linkpost: Neural Networks Are Already Clean (2026)
+
+<br><b>Probabilistic Bias Correction(PBC)</b>
+<br>Hannah Guan et al. Advancing subseasonal forecasting with machine learning (2026)
+
+<br><b>An Open Letter on AI and Cybersecurity from the Scientific Community</b>
+<br>Geoffrey Hinton et al. An Open Letter on AI and Cybersecurity from the Scientific Community (2026)
+
+<br><b>ECDSA Curve Origins</b>
+<br>Anthropic. Claude reveals ECDSA curve origins (2026)
+
 <br><br><br>
 
 
